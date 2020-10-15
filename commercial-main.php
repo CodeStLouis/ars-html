@@ -90,11 +90,11 @@ $sliderImg3='';
     <div class="page-content  bg-white">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/salvation-army/salvation-army-1.jpg);">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/ARS-banner2.png);" layout="responsive">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
-                    <h1 class="text-white">Salvation Army</h1>
+                    <h1 class="text-white">Services</h1>
                 </div>
             </div>
         </div>
@@ -105,7 +105,7 @@ $sliderImg3='';
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
                     <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
-                    <li>Salvation Army Roofing Project</li>
+                    <li>Services</li>
                 </ul>
             </div>
         </div>
