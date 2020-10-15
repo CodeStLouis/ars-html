@@ -5,11 +5,11 @@ $Url='';
 $metaDescription='';
 $metaImage='';
 $ogMetaDescription='';
-$jobTitle='';
+$jobTitle='Jubilee World Roofing Project';
 $jobDesc='';
-$sliderImg1='';
-$sliderImg2='';
-$sliderImg3='';
+$sliderImg1='/images/jubilee-project/jubilee-1.jpg';
+$sliderImg2='/images/jubilee-project/jubilee-2.jpg';
+$sliderImg3='/images/jubilee-project/jubilee-5.jpg';
 
 ?>
 
@@ -120,7 +120,7 @@ $sliderImg3='';
                                 </div>
                                 <p><?php echo $jobDesc;?></p>
                             </div>
-                            <div class="owl-carousel service-detail-carousel owl-btn-vertical-center owl-dots-bottom-center container" style=" width:100%">
+                            <div class="owl-carousel service-detail-carousel owl-btn-vertical-center owl-dots-bottom-center container"  data-interval="5000" style=" width:100%">
 
                                 <div class="item">
                                     <div class="aon-thum-bx">
