@@ -15,7 +15,7 @@
 <link rel="canonical" href="<?php echo $CanonicalLink ?>"/>
 
 
-<!-- AMP SCRIPT -->
+<!-- AMP BOILERPLATE -->
 <style amp-boilerplate>body {
         -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
         -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
@@ -75,7 +75,11 @@
             animation: none
         }</style>
 </noscript>
-<script async src="https://cdn.ampproject.org/v0.js"></script>
+
+<!-- AMP JS -->
+<script async custom-element="amp-script" src="https://cdn.ampproject.org/v0/amp-script-0.1.js"></script>
+
+<!-- AMP CAROUSEL SCRIPT -->
 <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
 
 
