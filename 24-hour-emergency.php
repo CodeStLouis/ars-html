@@ -2,9 +2,9 @@
 $Page='24 Hour Emergency Services';
 $Title='24 Hour and Emergency Roofing in St. Louis, MO | 24 Hour Emergency Roofing and Construction Contractors St. Louis | ARS Construction';
 $Url='https://www.advancedroofsys.com/24-hour-emergency.php';
-$metaDescription='';
+$metaDescription='Construction company in St. Louis, MO - Our Roofing Contractors work around the clock in case of an emergency for commercial and residential properties.';
 $metaImage='/images/fleet.jpg';
-$ogMetaDescription='';
+$ogMetaDescription='Construction company in St. Louis, MO - Our Roofing Contractors work around the clock in case of an emergency for commercial and residential properties.';
 $jobTitle='ARS Construction provides 24 Hour and Emergency Service';
 $jobDesc='<p>At ARS we understand life happens, and in some cases can be devastating to your household or business. In circumstances such as a fire, storm, etc we hope you can count on us to come to the rescue with your roofing and construction needs.</p>
 <p> With our 24 Hour Service we can be there, all you need to do is make the call!</p>
