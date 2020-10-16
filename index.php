@@ -435,14 +435,16 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
                 <!-- TITLE START -->
                 <div class="section-head text-center">
 
-                <p>At ARS Construction, we hold our team of roofing contractors in St. Louis to the highest standards of
-                    reliability and craftsmanship. As members of the Better Business Bureau, we believe that your
-                    satisfaction is our number one goal. This means returning your call promptly, providing you with a
-                    fair estimate, and then getting the job done as quickly and efficiently as possible. </p>
+                    <p>At ARS Construction, we hold our team of roofing contractors in St. Louis to the highest
+                        standards of
+                        reliability and craftsmanship. As members of the Better Business Bureau, we believe that your
+                        satisfaction is our number one goal. This means returning your call promptly, providing you with
+                        a
+                        fair estimate, and then getting the job done as quickly and efficiently as possible. </p>
 
-                <p>Call us at [phone number] for a free roof inspection or contact us here for online and on-site
-                    estimates. We offer financing through Hearth and can process payments in our online portal with
-                    USIO.</p>
+                    <p>Call us at (844) 445-ROOF for a free roof inspection or contact us here for online and on-site
+                        estimates. We offer financing through Hearth and can process payments in our online portal with
+                        USIO.</p>
                 </div>
 
                 <div class="section-head text-center">
@@ -542,7 +544,8 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
                                                                        src="images/ars/residentail-roof2.jpg"></a>
                                 </div>
                                 <div class="wt-info p-tb30">
-                                    <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Residential</a></h4>
+                                    <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Residential Roofing</a>
+                                    </h4>
                                     <p>ARS Construction specializes in roof repairs, replacements, and installations for
                                         residential homes. We make sure to work quickly but precisely to ensure your
                                         roof is in top working order. We make sure to clean up at the end of each
@@ -578,8 +581,11 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
                                 </div>
                                 <div class="wt-info p-tb30">
                                     <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Exterior</a></h4>
-                                    <p>ARS Construction offers top-quality exterior home improvement services, which
-                                        include the installation and repair of siding, gutters, windows, and doors.</p>
+                                    <p>The exterior of your building is the first thing people see when walking into
+                                        your home or business. Boost curb appeal and be the envy of the neighborhood
+                                        with exterior services from ARS Construction. We offer top-quality exterior
+                                        improvement services, which can include the installation and repair of siding,
+                                        gutters, windows, and doors.</p>
                                 </div>
                             </div>
                         </div>
@@ -593,7 +599,10 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
                                 <div class="wt-info p-tb30">
                                     <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Colorful Roofs</a></h4>
                                     <p>We specialize in installing new roofs, shingle repair, and roof tear-offs by
-                                        using the latest equipment and most trusted materials in the industry.</p>
+                                        using the latest equipment and most trusted materials in the industry. Our
+                                        products are high quality, as is the integrity of our installation. From the
+                                        beginning to end, we will be there until the job is completed with only the
+                                        highest quality results.</p>
                                 </div>
                             </div>
                         </div>
@@ -719,9 +728,8 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
                             <span class="separator-right bg-primary"></span>
                         </div>
                     </div>
-                    <p>Checkout out ARS's explanations and demonstrations about our vendors which allows us to put their
-                        materials to the test and determine the best partnerships and vendors we do business with!!
-                        Leave a comment below if you like what you see!</p>
+                    <p>Check out our videos to see how we put our vendors’ materials to the test. You can pick from the
+                        very best partnerships and vendors that we do business with!</p>
                 </div>
                 <!-- TITLE END-->
                 <div class="section-content">
