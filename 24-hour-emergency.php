@@ -6,7 +6,8 @@ $metaDescription='';
 $metaImage='/images/fleet.jpg';
 $ogMetaDescription='';
 $jobTitle='ARS Construction provides 24 Hour and Emergency Service';
-$jobDesc='';
+$jobDesc='<p>At ARS we understand life happens, and in some cases can be devastating to your household or business. In circumstances such as a fire, storm, etc we hope you can count on us to come to the rescue with your roofing and construction needs.</p>
+<p> With our 24 Hour Service we can be there, all you need to do is make the call!</p>';
 $sliderImg1='';
 $sliderImg2='';
 $sliderImg3='';
