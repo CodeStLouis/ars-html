@@ -1,12 +1,12 @@
 <?php
 $Page='24 Hour Emergency Services';
-$Title='ARS Construction | 24 Hour Emergency Services';
+$Title='24 Hour and Emergency Roofing in St. Louis, MO | 24 Hour Emergency Roofing and Construction Contractors St. Louis | ARS Construction';
 $Url='https://www.advancedroofsys.com/24-hour-emergency.php';
 $metaDescription='';
-$metaImage='';
+$metaImage='/images/fleet.jpg';
 $ogMetaDescription='';
-$jobTitle='24 Hour Emergency Services';
-$jobDesc='At ARS we will come to your aid in at any hour';
+$jobTitle='ARS Construction provides 24 Hour and Emergency Service';
+$jobDesc='';
 $sliderImg1='';
 $sliderImg2='';
 $sliderImg3='';
