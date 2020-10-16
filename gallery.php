@@ -1,8 +1,8 @@
 <?php
 $Page='Gallery';
-$Title='ARS Construction | Gallery';
-$Url='https://www.advancedroofsys.com/gallery';
-$metaDescription='At ARS Construction, our main priority is delivering the best customer service. We accomplish this by making sure we have the right team. Each member has the training and experience to handle any size job. We make sure to stay up-to-date on the latest trends so that we can answer any of your questions. If you are not sure about what would work best, our team is ready to help come up with a plan that you will be happy with. If you are ready for a change, call us today!';
+$Title='Roofing Company Gallery | Roofing Contractors in St. Louis, MO. | ARS Construction';
+$Url='https://www.advancedroofsys.com/gallery.php';
+$metaDescription='View our roofing company gallery to see how our roofing contractors in St. Louis, MO, can transform your commercial or residential roof now! Contact us for a free roof inspection.';
 $metaImage='/images/fleet.jpg';
 $ogMetaDescription='Are you in need of a new roof? Do you need updating to the outside and inside of your home? If so, let the professionals at ARS Construction be the ones to help take your home to the next level. Professional St. Louis Construction.';
 ?>

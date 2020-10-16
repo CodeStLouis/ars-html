@@ -1,15 +1,15 @@
 <?php
-$Page='';
-$Title='Commercial Construction';
-$Url='';
-$metaDescription='';
-$metaImage='';
-$ogMetaDescription='';
-$jobTitle='Jubilee World Roofing Project';
-$jobDesc='';
-$sliderImg1='/images/jubilee-project/jubilee-1.jpg';
-$sliderImg2='/images/jubilee-project/jubilee-2.jpg';
-$sliderImg3='/images/jubilee-project/jubilee-5.jpg';
+$Page = 'Jubilee World Roofing Project';
+$Title = 'ARS Construction | Jubilee World Roofing Project';
+$Url = 'https://www.advancedroofsys.com/jubilee-commercial-project.php';
+$metaDescription = '';
+$metaImage = '/images/jubilee-project/jubilee-metaimg.jpg';
+$ogMetaDescription = '';
+$jobTitle = 'Jubilee World Roofing Project';
+$jobDesc = '<p> ARS is hard at work on a new Commercial Roofing Project: Jubilee World. The building formally St. Mary&apos;s Orphanage, was acquired by Jubilee World in 2015, was constructed in 1899 and dedicated in 1900.</p> <p> This project is part of a massive facelift that has been undertaken since it&apos;s acquisition. As part of this ARS, using only top of the line materials including Genflex TPO, and Malarkey Shingles.</p> ';
+$sliderImg1 = '/images/jubilee-project/jubilee-1.jpg';
+$sliderImg2 = '/images/jubilee-project/jubilee-2.jpg';
+$sliderImg3 = '/images/jubilee-project/jubilee-5.jpg';
 
 ?>
 
@@ -18,7 +18,7 @@ $sliderImg3='/images/jubilee-project/jubilee-5.jpg';
 <html lang="en">
 
 <head>
-    <?php include_once ('includes/head.php'); ?>
+    <?php include_once('includes/head.php'); ?>
 
 </head>
 
@@ -28,9 +28,9 @@ $sliderImg3='/images/jubilee-project/jubilee-5.jpg';
 
     <!-- HEADER START -->
     <header class="site-header header-style-6">
-        <?php include_once ('includes/header.php'); ?>
-        <?php include_once ('includes/sub-header.php'); ?>
-        <?php include_once ('includes/nav.php'); ?>
+        <?php include_once('includes/header.php'); ?>
+        <?php include_once('includes/sub-header.php'); ?>
+        <?php include_once('includes/nav.php'); ?>
 
     </header>
     <!-- HEADER END -->
@@ -39,11 +39,11 @@ $sliderImg3='/images/jubilee-project/jubilee-5.jpg';
     <div class="page-content  bg-white">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/salvation-army/salvation-army-1.jpg);">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/ARS-banner2.png);">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
-                    <h1 class="text-white">Commercial</h1>
+                    <h1 class="text-white">Jubilee World Roofing Project</h1>
                 </div>
             </div>
         </div>
@@ -111,138 +111,139 @@ $sliderImg3='/images/jubilee-project/jubilee-5.jpg';
 
                         <div class="section-content">
                             <div class="section-head text-center">
-                                <h2 class="text-uppercase"><?php echo $jobTitle;?></h2>
+                                <h2 class="text-uppercase"><?php echo $jobTitle; ?></h2>
                                 <div class="wt-separator-outer">
                                     <div class="wt-separator style-square">
                                         <span class="separator-left bg-primary"></span>
                                         <span class="separator-right bg-primary"></span>
                                     </div>
                                 </div>
-                                <p><?php echo $jobDesc;?></p>
+                                <p><?php echo $jobDesc; ?></p>
                             </div>
-                            <div class="owl-carousel service-detail-carousel owl-btn-vertical-center owl-dots-bottom-center container"  data-interval="5000" style=" width:100%">
+                            <div class="owl-carousel service-detail-carousel owl-btn-vertical-center owl-dots-bottom-center container"
+                                 s="7000" style=" width:100%">
 
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg1;?>">
+                                        <img alt="" src="<?php echo $sliderImg1; ?>">
                                     </div>
                                 </div>
 
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg2;?>">
+                                        <img alt="" src="<?php echo $sliderImg2; ?>">
                                     </div>
                                 </div>
 
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg3;?>">
+                                        <img alt="" src="<?php echo $sliderImg3; ?>">
                                     </div>
                                 </div>
 
                             </div>
 
-                            </div>
                         </div>
                     </div>
-                    <!-- RIGHT PART -->
                 </div>
+                <!-- RIGHT PART -->
             </div>
         </div>
-        <!-- SECTION CONTENT END -->
-
-        <!-- CONTENT END -->
     </div>
+    <!-- SECTION CONTENT END -->
+
     <!-- CONTENT END -->
+</div>
+<!-- CONTENT END -->
 
-    <!-- FOOTER START -->
+<!-- FOOTER START -->
 <footer class="site-footer footer-dark">
-    <?php include_once ('includes/footer.php'); ?>
+    <?php include_once('includes/footer.php'); ?>
     <!-- FOOTER COPYRIGHT -->
-    <?php include_once ('includes/sub-footer.php'); ?>
+    <?php include_once('includes/sub-footer.php'); ?>
 </footer>
-    <!-- FOOTER END -->
+<!-- FOOTER END -->
 
 
-    <!-- SCROLL TOP BUTTON -->
-    <button class="scroltop"><span class=" iconmoon-house relative" id="btn-vibrate"></span>Top</button>
+<!-- SCROLL TOP BUTTON -->
+<button class="scroltop"><span class=" iconmoon-house relative" id="btn-vibrate"></span>Top</button>
 
-    <!-- MODAL  LOGIN -->
-    <div class="modal fade " id="Login-form" role="dialog">
-        <div class="modal-dialog modal-sm">
-            <!-- Modal content-->
-            <div class="modal-content">
-                <div class="modal-header bg-primary">
-                    <button class="close" data-dismiss="modal" type="button">&times;</button>
-                    <h4 class="modal-title text-white">Login Your Account</h4>
-                </div>
-                <div class="modal-body p-a30">
-                    <form id="log-form">
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                                <input class="form-control" placeholder="Enter Username" type="text">
-                            </div>
+<!-- MODAL  LOGIN -->
+<div class="modal fade " id="Login-form" role="dialog">
+    <div class="modal-dialog modal-sm">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header bg-primary">
+                <button class="close" data-dismiss="modal" type="button">&times;</button>
+                <h4 class="modal-title text-white">Login Your Account</h4>
+            </div>
+            <div class="modal-body p-a30">
+                <form id="log-form">
+                    <div class="form-group">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                            <input class="form-control" placeholder="Enter Username" type="text">
                         </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                                <input class="form-control" placeholder="Enter email" type="email">
-                            </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                            <input class="form-control" placeholder="Enter email" type="email">
                         </div>
-                        <button class="site-button-secondry text-uppercase btn-block m-b10" type="button">Submit
-                        </button>
-                        <span class="font-12">Don't have an account? <a class="text-primary" href="javascript:">Register Here</a></span>
-                    </form>
-                </div>
-                <div class="modal-footer text-center">
-                    <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
-                </div>
+                    </div>
+                    <button class="site-button-secondry text-uppercase btn-block m-b10" type="button">Submit
+                    </button>
+                    <span class="font-12">Don't have an account? <a class="text-primary" href="javascript:">Register Here</a></span>
+                </form>
+            </div>
+            <div class="modal-footer text-center">
+                <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
             </div>
         </div>
     </div>
+</div>
 
-    <!-- MODAL  REGISTER -->
-    <div class="modal fade " id="Register-form" role="dialog">
-        <div class="modal-dialog modal-sm">
-            <!-- Modal content-->
-            <div class="modal-content">
-                <div class="modal-header bg-primary">
-                    <button class="close" data-dismiss="modal" type="button">&times;</button>
-                    <h4 class="modal-title text-white">Register here</h4>
-                </div>
-                <div class="modal-body p-a30">
-                    <form id="reg-form">
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                                <input class="form-control" placeholder="Enter Username" type="text">
-                            </div>
+<!-- MODAL  REGISTER -->
+<div class="modal fade " id="Register-form" role="dialog">
+    <div class="modal-dialog modal-sm">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header bg-primary">
+                <button class="close" data-dismiss="modal" type="button">&times;</button>
+                <h4 class="modal-title text-white">Register here</h4>
+            </div>
+            <div class="modal-body p-a30">
+                <form id="reg-form">
+                    <div class="form-group">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                            <input class="form-control" placeholder="Enter Username" type="text">
                         </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                                <input class="form-control" placeholder="Enter email" type="email">
-                            </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                            <input class="form-control" placeholder="Enter email" type="email">
                         </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-key"></i></span>
-                                <input class="form-control" placeholder="Enter Password" type="email">
-                            </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-key"></i></span>
+                            <input class="form-control" placeholder="Enter Password" type="email">
                         </div>
-                        <button class="site-button-secondry text-uppercase btn-block m-b10" type="button">Submit
-                        </button>
-                        <span class="font-12">Already Have an Account? <a class="text-primary"
-                                                                          href="javascript:">Login</a></span>
-                    </form>
-                </div>
-                <div class="modal-footer text-center">
-                    <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
-                </div>
+                    </div>
+                    <button class="site-button-secondry text-uppercase btn-block m-b10" type="button">Submit
+                    </button>
+                    <span class="font-12">Already Have an Account? <a class="text-primary"
+                                                                      href="javascript:">Login</a></span>
+                </form>
+            </div>
+            <div class="modal-footer text-center">
+                <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
             </div>
         </div>
     </div>
+</div>
 </div>
 <!-- firebase scripts -->
 <!-- The core Firebase JS SDK is always required and must be listed first -->

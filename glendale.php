@@ -1,8 +1,8 @@
 <?php
-$Page='Contact Us';
-$Title='ARS Construction | Glendale Chrysler Jeep Dodge Ram';
+$Page='Glendale Chrysler';
+$Title='Commercial Roofing in St. Louis, MO | Glendale Chrysler Roof Project | Roofing Companies | ARS Construction';
 $Url='https://www.advancedroofsys.com/glendale.php';
-$metaDescription='We know the importance of making sure that your business runs smoothly on all parts, and that also includes your roofs. If you are experiencing leaks or need a new roof, let the experts at ARS Construction be the ones to professionally repair or install your commercial roofs.';
+$metaDescription='Check out this commercial roofing project in St. Louis, MO. We worked with Glendale Chrysler to install a TPO roofing system. Contact our roofing contractors to see how we can help you!';
 $metaImage='/images/fleet.jpg';
 $ogMetaDescription='We know the importance of making sure that your business runs smoothly on all parts, and that also includes your roofs. If you are experiencing leaks or need a new roof, let the experts at ARS Construction be the ones to professionally repair or install your commercial roofs.';
 $jobTitle='Glendale Chrysler Jeep Dodge Ram';

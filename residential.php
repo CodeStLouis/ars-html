@@ -1,8 +1,8 @@
 <?php
 $Page='Residential';
-$Title='ARS Construction | Residential Roofing';
-$Url='https://www.advancedroofsys.com/residential-roofing-services';
-$metaDescription='ARS Construction specializes in roof repairs, replacements, and installations for residential homes.';
+$Title='Commercial Roofing in St. Louis, MO | Glendale Chysler Roof Project | Roofing Companies | ARS Construction';
+$Url='https://www.advancedroofsys.com/residential.php';
+$metaDescription='Residential Roofing in St. Louis, MO - Our roofing contractors provide an array of residential roofing services and interior/exterior construction services to homes across St. Louis. FREE roof inspection here.';
 $metaImage='/images/fleet.jpg';
 $ogMetaDescription='ARS Construction specializes in roof repairs, replacements, and installations for residential homes.';
 ?>

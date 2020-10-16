@@ -1,8 +1,8 @@
 <?php
 $Page='Exterior';
-$Title='ARS Construction | Exterior Construction';
-$Url='https://www.advancedroofsys.com/exterior';
-$metaDescription='Make a great impression on your guests with a new door from ARS Construction! We\'ve got a wide variety of styles to suit your home. ';
+$Title='Exterior Construction Services | Construction Company in St. Louis, MO | ARS Construction';
+$Url='https://www.advancedroofsys.com/exterior.php';
+$metaDescription='Exterior construction services in St. Louis, MO - Our construction company in specializes in the repair and installation of your siding, gutters, windows, and doors. Contact us now to take a look at your home or business.';
 $metaImage='/images/fleet.jpg';
 $ogMetaDescription='Are you in need of a new roof? Do you need updating to the outside and inside of your home? If so, let the professionals at ARS Construction be the ones to help take your home to the next level. Professional St. Louis Construction.';
 ?>

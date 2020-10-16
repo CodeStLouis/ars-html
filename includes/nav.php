@@ -24,8 +24,9 @@
                                 <a href="../residential.php">Residential</a>
                             </li>
                             <li class="active">
-                                <a href="../commercial.php">Commercial<i class="fa fa-chevron-down"></i></a>
+                                <a href="../commercial-main.php">Commercial<i class="fa fa-chevron-down"></i></a>
                                 <ul class="sub-menu">
+                                    <li><a href="../jubilee-commercial-project.php">Jubilee World</a></li>
                                     <li><a href="../glendale.php">Glendale Chrysler</a></li>
                                     <li><a href="../salvation-army.php">Salvation Army</a></li>
                                 </ul>

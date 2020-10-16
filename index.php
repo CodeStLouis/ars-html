@@ -1,8 +1,8 @@
 <?php
-$Page = 'Home';
-$Title = 'ARS Construction';
-$Url = 'https://www.advancedroofsys.com';
-$metaDescription = 'ARS Construction was founded 2001 as full-service General Contractor';
+$Page = 'Homepage';
+$Title = 'Construction Company in St. Louis, MO | Roofing Contractors St. Louis | ARS Construction';
+$Url = 'https://www.advancedroofsys.com/index.php';
+$metaDescription = 'Construction company in St. Louis, MO - Our roofing contractors provide high-quality roofing and interior/exterior construction services to residential and commercial property owners in the Greater St. Louis area. FREE roof inspection here.';
 $metaImage = '/images/fleet.jpg';
 $ogMetaDescription = 'ARS Construction provides specialized commercial and residential roof repair, as well as Interior and Exterior Home Remodeling and Restoration in the St. Louis area.';
 ?>
