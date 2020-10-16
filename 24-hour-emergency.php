@@ -7,7 +7,8 @@ $metaImage='/images/fleet.jpg';
 $ogMetaDescription='';
 $jobTitle='ARS Construction provides 24 Hour and Emergency Service';
 $jobDesc='<p>At ARS we understand life happens, and in some cases can be devastating to your household or business. In circumstances such as a fire, storm, etc we hope you can count on us to come to the rescue with your roofing and construction needs.</p>
-<p> With our 24 Hour Service we can be there, all you need to do is make the call!</p>';
+<p> With our 24 Hour Service we can be there, all you need to do is make the call!</p>
+<p>(844) 445-ROOF</p>';
 $sliderImg1='';
 $sliderImg2='';
 $sliderImg3='';
@@ -40,7 +41,7 @@ $sliderImg3='';
     <div class="page-content  bg-white">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url();">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/ars/team_ars.jpg);">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
@@ -121,6 +122,7 @@ $sliderImg3='';
                                 </div>
                                 <p><?php echo $jobDesc;?></p>
                             </div>
+                            <!--
                             <div class="owl-carousel service-detail-carousel owl-btn-vertical-center owl-dots-bottom-center container" style=" width:100%">
 
                                 <div class="item">
@@ -146,6 +148,7 @@ $sliderImg3='';
                         </div>
                     </div>
                 </div>
+                -->
                 <!-- RIGHT PART -->
             </div>
         </div>
