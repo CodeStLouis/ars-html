@@ -52,7 +52,10 @@
                                 <a href="../contact-us.php">Contact Us</a>
                             </li>
                             <li>
-                                <a href="../24-hour-emergency.php">Emergency Services</a>
+                                <a href="../24-hour-emergency.php">Emergency</a>
+                            </li>
+                            <li>
+                                <a href="https://quickclick.com/r/woxyz">Payment</a>
                             </li>
                         </ul>
                     </div>
