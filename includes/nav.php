@@ -46,16 +46,16 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="../about.php">About Us</a>
-                            </li>
-                            <li>
-                                <a href="../contact-us.php">Contact Us</a>
-                            </li>
-                            <li>
                                 <a href="../24-hour-emergency.php">Emergency</a>
                             </li>
                             <li>
                                 <a href="https://quickclick.com/r/woxyz">Payment</a>
+                            </li>
+                            <li>
+                                <a href="../about.php">About Us</a>
+                            </li>
+                            <li>
+                                <a href="../contact-us.php">Contact Us</a>
                             </li>
                         </ul>
                     </div>

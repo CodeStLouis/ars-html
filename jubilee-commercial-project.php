@@ -6,7 +6,9 @@ $metaDescription = '';
 $metaImage = '/images/jubilee-project/jubilee-metaimg.jpg';
 $ogMetaDescription = '';
 $jobTitle = 'Jubilee World Roofing Project';
-$jobDesc = '<p> ARS is hard at work on a new Commercial Roofing Project: Jubilee World. The building formally St. Mary&apos;s Orphanage, was acquired by Jubilee World in 2015, was constructed in 1899 and dedicated in 1900.</p> <p> This project is part of a massive facelift that has been undertaken since it&apos;s acquisition. As part of this, ARS, using only top of the line materials including Genflex TPO, and Malarkey Shingles, is helping modernize this century old historical building.</p> ';
+$jobDesc = '
+<p> ARS is hard at work on a new Commercial Roofing Project: Jubilee World. The building formally St. Mary&apos;s Orphanage, was acquired by Jubilee World in 2015, was constructed in 1899 and dedicated in 1900.</p> 
+<p> This project is part of a massive facelift that has been undertaken since it&apos;s acquisition. As part of this, ARS, using only top of the line materials including Genflex TPO, and Malarkey Shingles, is helping modernize this century old historical building.</p> ';
 $sliderImg1 = '/images/jubilee-project/jubilee-1.jpg';
 $sliderImg2 = '/images/jubilee-project/jubilee-2.jpg';
 $sliderImg3 = '/images/jubilee-project/jubilee-5.jpg';
