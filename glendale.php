@@ -127,7 +127,6 @@ $sliderImg3='';
                                     Insulation, a fully adhered GenFlex Roofing Systems TPO .060mil System, and
                                     all new coping cap and gravel stop edge metal detail.
                                 </p>
-
                                 <p>
                                     This System includes a 20 Year Systems "No Dollar Limit" (NDL) Warranty that
                                     includes 110MPH Wind, 2" hail as well as a Full Systems Warranty.
@@ -144,7 +143,7 @@ $sliderImg3='';
                                     </p>
                                 </div>
                                 <div class="col-md-6 col-12-sm">
-                                    <h2>Continue Watching</h2>
+                                    <h2>Watch More</h2>
                                     <iframe width="560" height="315" src="https://www.youtube.com/embed/0btZOQrtQ6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
                                 </div>

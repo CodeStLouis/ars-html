@@ -61,17 +61,14 @@ $pageActive='';
             <div class="container">
                 <!-- TITTLE START -->
                 <div class="section-head text-center">
-                    <h2 class="text-uppercase">Make A Payment</h2>
+                    <h2 class="text-uppercase">Use The Form Below To Make A Payment</h2>
                     <div class="wt-separator-outer">
                         <div class="wt-separator style-square">
                             <span class="separator-left bg-primary"></span>
                             <span class="separator-right bg-primary"></span>
                         </div>
                     </div>
-                    <div>
-                    <h3>Use The Form Below To Make A Payment</h3>
-                    </div>
-                 <iframe src="https://quickclick.com/r/woxyz" title="ARS Payment Portal Hosted By USIO" width="100%" height="1000"></iframe>
+                 <iframe src="https://quickclick.com/r/woxyz" title="ARS Payment Portal Hosted By USIO" frameborder="0" width="100%" height="1000"></iframe>
                 </div>
                 <!-- TITLE END -->
 
@@ -89,15 +86,7 @@ $pageActive='';
     <!-- SECTION CONTENT END -->
 
     <!-- OUR TEAM MEMBER SECTION START -->
-    <div class="section-full text-center wt-our-team bg-gray p-t30 p-b50">
-        <div class="container">
 
-            <!-- TITTLE START -->
-            <!-- TITLE END -->
-
-
-        </div>
-    </div>
     <!-- OUR TEAM MEMBER SECTION END -->
 
 </div>
