@@ -130,7 +130,7 @@ $ogMetaDescription='ARS Construction specializes in roof repairs, replacements, 
                                 </div>
                             </div>
                             <div class="wt-box">
-                                <h2>General Contruction</h2>
+                                <h2>General Construction</h2>
                                 <p>
                                     ARS Construction specializes in roof repairs, replacements, and installations for
                                     residential homes. We make sure to work quickly but precisely to ensure your roof is
