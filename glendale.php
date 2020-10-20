@@ -7,6 +7,7 @@ $metaImage='/images/fleet.jpg';
 $ogMetaDescription='We know the importance of making sure that your business runs smoothly on all parts, and that also includes your roofs. If you are experiencing leaks or need a new roof, let the experts at ARS Construction be the ones to professionally repair or install your commercial roofs.';
 $jobTitle='Glendale Chrysler Jeep Dodge Ram';
 $jobDesc='';
+$jobDesc2='';
 $sliderImg1='';
 $sliderImg2='';
 $sliderImg3='';
@@ -117,25 +118,25 @@ $sliderImg3='';
 
                             </div>
                             <div class="wt-box">
-                                <h2> Installed Genflex TPO Roofing System</h2>
+                                <h2>Glendale Chrysler Roofing Project</h2>
                                 <p>
                                     To start this project we began with tearing out the existing roofing system, which
                                     was approximately 5 inches or more. We installed a new drainage system, and replaced
                                     a
                                     large section of rusted metal decking. We then installed a Custom Tapered ISO System
-                                    Insulation (R30_), a fully adhered Genflex Roofing Systems TPO .060mil System, and
-                                    all new coping cap and gravel stop edge metal detail
+                                    Insulation, a fully adhered GenFlex Roofing Systems TPO .060mil System, and
+                                    all new coping cap and gravel stop edge metal detail.
                                 </p>
 
                                 <p>
-                                    This System included a 20 Year Systems "No Dollar Limit" (NDL) Warranty that
-                                    includes 110MPH Wind, 2" hail and a Full Systems Warranty
+                                    This System includes a 20 Year Systems "No Dollar Limit" (NDL) Warranty that
+                                    includes 110MPH Wind, 2" hail as well as a Full Systems Warranty.
                                 </p>
                             </div>
                             <div class="row wt-box">
 
                                 <div class="col-md-6 col-12-sm">
-                                    <h2>Glendale Part 2</h2>
+                                    <h2>Our Process</h2>
                                     <p>Our team at ARS installed 26000sf Roofing Project and HVAC Project:
                                         Removal of Multiple Layers of Foam, Gravel, Built Up Roofing
                                         Installation of Fully Tapered ISO System with HD Guard ISO
@@ -143,7 +144,7 @@ $sliderImg3='';
                                     </p>
                                 </div>
                                 <div class="col-md-6 col-12-sm">
-                                    <h2>Glendale Part 2</h2>
+                                    <h2>Continue Watching</h2>
                                     <iframe width="560" height="315" src="https://www.youtube.com/embed/0btZOQrtQ6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
                                 </div>
