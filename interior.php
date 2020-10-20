@@ -1,8 +1,8 @@
 <?php
 $Page='Interior';
-$Title='ARS Construction | Interior Construction';
-$Url='https://www.advancedroofsys.com/interior';
-$metaDescription='Make a great impression on your guests with a new door from ARS Construction! We\'ve got a wide variety of styles to suit your home. ';
+$Title='Interior Construction Services | Construction Company in St. Louis, MO | ARS Construction';
+$Url='https://www.advancedroofsys.com/interior.php';
+$metaDescription='Interior Construction Services in St. Louis, MO - Our construction company specializes in the remodeling and restoration of St. Louis homes and businesses. Contact us now to take a look at your commercial or residential property.';
 $metaImage='/images/fleet.jpg';
 $ogMetaDescription='Does the outside of your home need updates? Need repairs done to your siding or gutters? If so, let ARS Construction be the ones to help bring your home to the next levels.'
 ?>

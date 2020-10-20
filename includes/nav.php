@@ -24,8 +24,9 @@
                                 <a href="../residential.php">Residential</a>
                             </li>
                             <li class="active">
-                                <a href="../commercial.php">Commercial<i class="fa fa-chevron-down"></i></a>
+                                <a href="../commercial-main.php">Commercial<i class="fa fa-chevron-down"></i></a>
                                 <ul class="sub-menu">
+                                    <li><a href="../jubilee-commercial-project.php">Jubilee World</a></li>
                                     <li><a href="../glendale.php">Glendale Chrysler</a></li>
                                     <li><a href="../salvation-army.php">Salvation Army</a></li>
                                 </ul>
@@ -45,13 +46,16 @@
                                 </ul>
                             </li>
                             <li>
+                                <a href="../24-hour-emergency.php">Emergency</a>
+                            </li>
+                            <li>
+                                <a href="../payment-portal.php">Payment</a>
+                            </li>
+                            <li>
                                 <a href="../about.php">About Us</a>
                             </li>
                             <li>
                                 <a href="../contact-us.php">Contact Us</a>
-                            </li>
-                            <li>
-                                <a href="../24-hour-emergency.php">Emergency Services</a>
                             </li>
                         </ul>
                     </div>

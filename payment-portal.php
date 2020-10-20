@@ -1,20 +1,12 @@
 <?php
-$Page='24 Hour Emergency Services';
-$Title='24 Hour and Emergency Roofing in St. Louis, MO | 24 Hour Emergency Roofing and Construction Contractors St. Louis | ARS Construction';
-$Url='https://www.advancedroofsys.com/24-hour-emergency.php';
-$metaDescription='Construction company in St. Louis, MO - Our Roofing Contractors work around the clock in case of an emergency for commercial and residential properties.';
+$Page='Payment Portal';
+$Title='Commercial and Residential Construction Company in St. Louis, MO | Payment Portal Services Provided by USIO | ARS Construction';
+$Url='https://www.advancedroofsys.com/payment-portal.php';
+$metaDescription='Learn more about our construction company in St. Louis, MO. The roofing contractors at ARS Construction serve businesses and families across the region in whatever roofing or interior/exterior construction project they need.';
 $metaImage='/images/fleet.jpg';
-$ogMetaDescription='Construction company in St. Louis, MO - Our Roofing Contractors work around the clock in case of an emergency for commercial and residential properties.';
-$jobTitle='ARS Construction provides 24 Hour and Emergency Service';
-$jobDesc='<p>At ARS we understand life happens, and in some cases can be devastating to your household or business. In circumstances such as a fire, storm, etc we hope you can count on us to come to the rescue with your roofing and construction needs.</p>
-<p> With our 24 Hour Service we can be there, all you need to do is make the call!</p>
-<p>(844) 445-ROOF</p>';
-$sliderImg1='';
-$sliderImg2='';
-$sliderImg3='';
-
+$ogMetaDescription='We at ARS Construction would never claim to be perfect but we always pledge that we are 100% committed to making it right each and every time! Professional St. Louis Construction. ';
+$pageActive='';
 ?>
-
 <!DOCTYPE html>
 
 <html lang="en">
@@ -37,15 +29,16 @@ $sliderImg3='';
     </header>
     <!-- HEADER END -->
 
+
     <!-- CONTENT START -->
-    <div class="page-content  bg-white">
+    <div class="page-content">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/ars/team_ars.jpg);">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/ars/team_ars.jpg); height: 500px !important">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
-                    <h1 class="text-white">24 Hour Emergency Services</h1>
+                    <h1 class="text-white">Pay An Invoice</h1>
                 </div>
             </div>
         </div>
@@ -55,107 +48,47 @@ $sliderImg3='';
         <div class="bg-gray-light p-tb20">
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
-                    <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
-                    <li>Emergency</li>
+                    <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
+                    <li>Pay</li>
                 </ul>
             </div>
         </div>
         <!-- BREADCRUMB ROW END -->
 
-        <!-- SECTION CONTENT -->
-        <div class="section-full  p-t80 p-b50  ">
-            <div class="container  bg-white ">
-                <div class="row">
-                    <!-- LEFT PART -->
-                    <div class="col-md-3 col-sm-3 p-tb15">
-                        <!-- BROCHURES -->
-                        <div class="wt-box m-b30">
-                            <div class="text-left m-b20">
-                                <h4>Brochures</h4>
-                                <div class="wt-separator-outer">
-                                    <div class="wt-separator style-square">
-                                        <span class="separator-left bg-primary"></span>
-                                        <span class="separator-right bg-primary"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="wt-icon-box-wraper left bdr-1 bdr-gray p-a15 m-b15">
-                                <a class="btn-block" href="#">
-                                    <span class="text-black m-r10"><i class="fa fa-file-pdf-o"></i></span>
-                                    <strong class="text-uppercase text-black">Download .PDF</strong>
-                                </a>
-                            </div>
-                            <div class="wt-icon-box-wraper left bdr-1 bdr-gray p-a15 m-b15">
-                                <a class="btn-block" href="#">
-                                    <span class="text-black m-r10"><i class="fa fa-file-word-o"></i></span>
-                                    <strong class="text-uppercase text-black"> Download .DOC</strong>
-                                </a>
-                            </div>
-                            <div class="wt-icon-box-wraper left bdr-1 bdr-gray p-a15 m-b15">
-                                <a class="btn-block" href="#">
-                                    <span class="text-black m-r10"><i class="fa fa-file-powerpoint-o"></i></span>
-                                    <strong class="text-uppercase text-black">Download .PPT</strong>
-                                </a>
-                            </div>
-                        </div>
 
-
-                        <!-- CONTACT US -->
-                        <div class="widget bg-white  widget_getintuch">
+        <!-- ABOUT COMPANY SECTION START -->
+        <div class="section-full p-t80 p-b70">
+            <div class="container">
+                <!-- TITTLE START -->
+                <div class="section-head text-center">
+                    <h2 class="text-uppercase">Use The Form Below To Make A Payment</h2>
+                    <div class="wt-separator-outer">
+                        <div class="wt-separator style-square">
+                            <span class="separator-left bg-primary"></span>
+                            <span class="separator-right bg-primary"></span>
                         </div>
                     </div>
-
-                    <!-- LEFT PART -->
-
-                    <!-- RIGHT PART -->
-                    <div class="col-md-9 col-sm-9 p-tb10">
-                        <!-- BLOG POST CAROUSEL -->
-
-                        <div class="section-content">
-                            <div class="section-head text-center">
-                                <h2 class="text-uppercase"><?php echo $jobTitle;?></h2>
-                                <div class="wt-separator-outer">
-                                    <div class="wt-separator style-square">
-                                        <span class="separator-left bg-primary"></span>
-                                        <span class="separator-right bg-primary"></span>
-                                    </div>
-                                </div>
-                                <p><?php echo $jobDesc;?></p>
-                            </div>
-                            <!--
-                            <div class="owl-carousel service-detail-carousel owl-btn-vertical-center owl-dots-bottom-center container" style=" width:100%">
-
-                                <div class="item">
-                                    <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg1;?>">
-                                    </div>
-                                </div>
-
-                                <div class="item">
-                                    <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg2;?>">
-                                    </div>
-                                </div>
-
-                                <div class="item">
-                                    <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg3;?>">
-                                    </div>
-                                </div>
-
-                            </div>
-
-                        </div>
-                    </div>
+                 <iframe src="https://quickclick.com/r/woxyz" title="ARS Payment Portal Hosted By USIO" frameborder="0" width="100%" height="1000"></iframe>
                 </div>
-                -->
-                <!-- RIGHT PART -->
+                <!-- TITLE END -->
+
+                <!--fade slider END-->
+
             </div>
         </div>
     </div>
+    <!-- ABOUT COMPANY SECTION END -->
+
+
+
+    <!-- SECTION CONTENT START -->
+
     <!-- SECTION CONTENT END -->
 
-    <!-- CONTENT END -->
+    <!-- OUR TEAM MEMBER SECTION START -->
+
+    <!-- OUR TEAM MEMBER SECTION END -->
+
 </div>
 <!-- CONTENT END -->
 

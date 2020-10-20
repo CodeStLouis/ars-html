@@ -1,24 +1,26 @@
 <?php
-$Page='Glendale Chrysler';
-$Title='Commercial Roofing in St. Louis, MO | Glendale Chrysler Roof Project | Roofing Companies | ARS Construction';
-$Url='https://www.advancedroofsys.com/glendale.php';
-$metaDescription='Check out this commercial roofing project in St. Louis, MO. We worked with Glendale Chrysler to install a TPO roofing system. Contact our roofing contractors to see how we can help you!';
-$metaImage='/images/fleet.jpg';
-$ogMetaDescription='We know the importance of making sure that your business runs smoothly on all parts, and that also includes your roofs. If you are experiencing leaks or need a new roof, let the experts at ARS Construction be the ones to professionally repair or install your commercial roofs.';
-$jobTitle='Glendale Chrysler Jeep Dodge Ram';
-$jobDesc='';
-$jobDesc2='';
-$sliderImg1='';
-$sliderImg2='';
-$sliderImg3='';
+$Page = 'Jubilee World Roofing Project';
+$Title = 'Commercial Roofing in St. Louis, MO | Jubilee World Roof Project | Roofing Companies | ARS Construction';
+$Url = 'https://www.advancedroofsys.com/jubilee-commercial-project.php';
+$metaDescription = '';
+$metaImage = '/images/jubilee-project/jubilee-metaimg.jpg';
+$ogMetaDescription = '';
+$jobTitle = 'Jubilee World Roofing Project';
+$jobDesc = '
+<p> ARS is hard at work on a new Commercial Roofing Project: Jubilee World. The building formally St. Mary&apos;s Orphanage, was acquired by Jubilee World in 2015, was constructed in 1899 and dedicated in 1900.</p> 
+<p> This project is part of a massive facelift that has been undertaken since it&apos;s acquisition. As part of this, ARS, using only top of the line materials including Genflex TPO, and Malarkey Shingles, is helping modernize this century old historical building.</p> ';
+$sliderImg1 = '/images/jubilee-project/jubilee-1.jpg';
+$sliderImg2 = '/images/jubilee-project/jubilee-2.jpg';
+$sliderImg3 = '/images/jubilee-project/jubilee-5.jpg';
 
 ?>
+
 <!DOCTYPE html>
 
 <html lang="en">
 
 <head>
-    <?php include_once ('includes/head.php'); ?>
+    <?php include_once('includes/head.php'); ?>
 
 </head>
 
@@ -28,9 +30,9 @@ $sliderImg3='';
 
     <!-- HEADER START -->
     <header class="site-header header-style-6">
-        <?php include_once ('includes/header.php'); ?>
-        <?php include_once ('includes/sub-header.php'); ?>
-        <?php include_once ('includes/nav.php'); ?>
+        <?php include_once('includes/header.php'); ?>
+        <?php include_once('includes/sub-header.php'); ?>
+        <?php include_once('includes/nav.php'); ?>
 
     </header>
     <!-- HEADER END -->
@@ -39,11 +41,11 @@ $sliderImg3='';
     <div class="page-content  bg-white">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/dealership/dealer4.jpg);">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/ARS-banner2.png);">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
-                    <h1 class="text-white">Glendale Chrysler Jeep Dodge Ram</h1>
+                    <h1 class="text-white">Jubilee World Roofing Project</h1>
                 </div>
             </div>
         </div>
@@ -54,7 +56,7 @@ $sliderImg3='';
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
                     <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
-                    <li>Glendale Chrysler Project</li>
+                    <li>Commercial</li>
                 </ul>
             </div>
         </div>
@@ -108,146 +110,142 @@ $sliderImg3='';
                     <!-- RIGHT PART -->
                     <div class="col-md-9 col-sm-9 p-tb10">
                         <!-- BLOG POST CAROUSEL -->
+
                         <div class="section-content">
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/8mKSitggwpA"
-                                    frameborder="0"
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen>
-
-                            </iframe>
-
-                            </div>
-                            <div class="wt-box">
-                                <h2>Glendale Chrysler Roofing Project</h2>
-                                <p>
-                                    To start this project we began with tearing out the existing roofing system, which
-                                    was approximately 5 inches or more. We installed a new drainage system, and replaced
-                                    a
-                                    large section of rusted metal decking. We then installed a Custom Tapered ISO System
-                                    Insulation, a fully adhered GenFlex Roofing Systems TPO .060mil System, and
-                                    all new coping cap and gravel stop edge metal detail.
-                                </p>
-                                <p>
-                                    This System includes a 20 Year Systems "No Dollar Limit" (NDL) Warranty that
-                                    includes 110MPH Wind, 2" hail as well as a Full Systems Warranty.
-                                </p>
-                            </div>
-                            <div class="row wt-box">
-
-                                <div class="col-md-6 col-12-sm">
-                                    <h2>Our Process</h2>
-                                    <p>Our team at ARS installed 26000sf Roofing Project and HVAC Project:
-                                        Removal of Multiple Layers of Foam, Gravel, Built Up Roofing
-                                        Installation of Fully Tapered ISO System with HD Guard ISO
-                                        GenFlex Roofing Systems .060mil TPO Installation Fully Adhered
-                                    </p>
+                            <div class="section-head text-center">
+                                <h2 class="text-uppercase"><?php echo $jobTitle; ?></h2>
+                                <div class="wt-separator-outer">
+                                    <div class="wt-separator style-square">
+                                        <span class="separator-left bg-primary"></span>
+                                        <span class="separator-right bg-primary"></span>
+                                    </div>
                                 </div>
-                                <div class="col-md-6 col-12-sm">
-                                    <h2>Watch More</h2>
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/0btZOQrtQ6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-                                </div>
+                                <p><?php echo $jobDesc; ?></p>
                             </div>
+                            <div class="owl-carousel service-detail-carousel owl-btn-vertical-center owl-dots-bottom-center container"
+                                 s="7000" style=" width:100%">
+
+                                <div class="item">
+                                    <div class="aon-thum-bx">
+                                        <img alt="" src="<?php echo $sliderImg1; ?>">
+                                    </div>
+                                </div>
+
+                                <div class="item">
+                                    <div class="aon-thum-bx">
+                                        <img alt="" src="<?php echo $sliderImg2; ?>">
+                                    </div>
+                                </div>
+
+                                <div class="item">
+                                    <div class="aon-thum-bx">
+                                        <img alt="" src="<?php echo $sliderImg3; ?>">
+                                    </div>
+                                </div>
+
+                            </div>
+
                         </div>
                     </div>
-                    <!-- RIGHT PART -->
                 </div>
+                <!-- RIGHT PART -->
             </div>
         </div>
-        <!-- SECTION CONTENT END -->
-
-        <!-- CONTENT END -->
     </div>
+    <!-- SECTION CONTENT END -->
+
     <!-- CONTENT END -->
+</div>
+<!-- CONTENT END -->
 
-    <!-- FOOTER START -->
+<!-- FOOTER START -->
 <footer class="site-footer footer-dark">
-    <?php include_once ('includes/footer.php'); ?>
+    <?php include_once('includes/footer.php'); ?>
     <!-- FOOTER COPYRIGHT -->
-    <?php include_once ('includes/sub-footer.php'); ?>
+    <?php include_once('includes/sub-footer.php'); ?>
 </footer>
-    <!-- FOOTER END -->
+<!-- FOOTER END -->
 
 
-    <!-- SCROLL TOP BUTTON -->
-    <button class="scroltop"><span class=" iconmoon-house relative" id="btn-vibrate"></span>Top</button>
+<!-- SCROLL TOP BUTTON -->
+<button class="scroltop"><span class=" iconmoon-house relative" id="btn-vibrate"></span>Top</button>
 
-    <!-- MODAL  LOGIN -->
-    <div class="modal fade " id="Login-form" role="dialog">
-        <div class="modal-dialog modal-sm">
-            <!-- Modal content-->
-            <div class="modal-content">
-                <div class="modal-header bg-primary">
-                    <button class="close" data-dismiss="modal" type="button">&times;</button>
-                    <h4 class="modal-title text-white">Login Your Account</h4>
-                </div>
-                <div class="modal-body p-a30">
-                    <form id="log-form">
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                                <input class="form-control" placeholder="Enter Username" type="text">
-                            </div>
+<!-- MODAL  LOGIN -->
+<div class="modal fade " id="Login-form" role="dialog">
+    <div class="modal-dialog modal-sm">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header bg-primary">
+                <button class="close" data-dismiss="modal" type="button">&times;</button>
+                <h4 class="modal-title text-white">Login Your Account</h4>
+            </div>
+            <div class="modal-body p-a30">
+                <form id="log-form">
+                    <div class="form-group">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                            <input class="form-control" placeholder="Enter Username" type="text">
                         </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                                <input class="form-control" placeholder="Enter email" type="email">
-                            </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                            <input class="form-control" placeholder="Enter email" type="email">
                         </div>
-                        <button class="site-button-secondry text-uppercase btn-block m-b10" type="button">Submit
-                        </button>
-                        <span class="font-12">Don't have an account? <a class="text-primary" href="javascript:">Register Here</a></span>
-                    </form>
-                </div>
-                <div class="modal-footer text-center">
-                    <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
-                </div>
+                    </div>
+                    <button class="site-button-secondry text-uppercase btn-block m-b10" type="button">Submit
+                    </button>
+                    <span class="font-12">Don't have an account? <a class="text-primary" href="javascript:">Register Here</a></span>
+                </form>
+            </div>
+            <div class="modal-footer text-center">
+                <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
             </div>
         </div>
     </div>
+</div>
 
-    <!-- MODAL  REGISTER -->
-    <div class="modal fade " id="Register-form" role="dialog">
-        <div class="modal-dialog modal-sm">
-            <!-- Modal content-->
-            <div class="modal-content">
-                <div class="modal-header bg-primary">
-                    <button class="close" data-dismiss="modal" type="button">&times;</button>
-                    <h4 class="modal-title text-white">Register here</h4>
-                </div>
-                <div class="modal-body p-a30">
-                    <form id="reg-form">
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                                <input class="form-control" placeholder="Enter Username" type="text">
-                            </div>
+<!-- MODAL  REGISTER -->
+<div class="modal fade " id="Register-form" role="dialog">
+    <div class="modal-dialog modal-sm">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header bg-primary">
+                <button class="close" data-dismiss="modal" type="button">&times;</button>
+                <h4 class="modal-title text-white">Register here</h4>
+            </div>
+            <div class="modal-body p-a30">
+                <form id="reg-form">
+                    <div class="form-group">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                            <input class="form-control" placeholder="Enter Username" type="text">
                         </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                                <input class="form-control" placeholder="Enter email" type="email">
-                            </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                            <input class="form-control" placeholder="Enter email" type="email">
                         </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-key"></i></span>
-                                <input class="form-control" placeholder="Enter Password" type="email">
-                            </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-key"></i></span>
+                            <input class="form-control" placeholder="Enter Password" type="email">
                         </div>
-                        <button class="site-button-secondry text-uppercase btn-block m-b10" type="button">Submit
-                        </button>
-                        <span class="font-12">Already Have an Account? <a class="text-primary"
-                                                                          href="javascript:">Login</a></span>
-                    </form>
-                </div>
-                <div class="modal-footer text-center">
-                    <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
-                </div>
+                    </div>
+                    <button class="site-button-secondry text-uppercase btn-block m-b10" type="button">Submit
+                    </button>
+                    <span class="font-12">Already Have an Account? <a class="text-primary"
+                                                                      href="javascript:">Login</a></span>
+                </form>
+            </div>
+            <div class="modal-footer text-center">
+                <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
             </div>
         </div>
     </div>
+</div>
 </div>
 <!-- firebase scripts -->
 <!-- The core Firebase JS SDK is always required and must be listed first -->
@@ -333,5 +331,4 @@ $sliderImg3='';
 </body>
 
 </html>
-
 

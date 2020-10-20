@@ -1,10 +1,10 @@
 <?php
-$Page='Home';
-$Title='ARS Construction';
-$Url='https://www.advancedroofsys.com';
-$metaDescription='ARS Construction was founded 2001 as full-service General Contractor';
-$metaImage='/images/fleet.jpg';
-$ogMetaDescription='ARS Construction provides specialized commercial and residential roof repair, as well as Interior and Exterior Home Remodeling and Restoration in the St. Louis area.';
+$Page = 'Homepage';
+$Title = 'Construction Company in St. Louis, MO | Roofing Contractors St. Louis | ARS Construction';
+$Url = 'https://www.advancedroofsys.com/index.php';
+$metaDescription = 'Construction company in St. Louis, MO - Our roofing contractors provide high-quality roofing and interior/exterior construction services to residential and commercial property owners in the Greater St. Louis area. FREE roof inspection here.';
+$metaImage = '/images/fleet.jpg';
+$ogMetaDescription = 'ARS Construction provides specialized commercial and residential roof repair, as well as Interior and Exterior Home Remodeling and Restoration in the St. Louis area.';
 ?>
 
 <!DOCTYPE html>
@@ -12,7 +12,7 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
 <html lang="en">
 
 <head>
-     <?php include_once ('includes/head.php'); ?>
+    <?php include_once('includes/head.php'); ?>
 
 </head>
 
@@ -22,9 +22,9 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
 
     <!-- HEADER START -->
     <header class="site-header header-style-6">
-        <?php include_once ('includes/header.php'); ?>
-        <?php include_once ('includes/sub-header.php'); ?>
-        <?php include_once ('includes/nav.php'); ?>
+        <?php include_once('includes/header.php'); ?>
+        <?php include_once('includes/sub-header.php'); ?>
+        <?php include_once('includes/nav.php'); ?>
 
     </header>
     <!-- HEADER END -->
@@ -104,7 +104,8 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                                     {"from":"y:100px(R);opacity:0;","speed":2000,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},
                                     {"delay":"wait","speed":1000,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
                                     ]' data-height="none"
-                                         data-hoffset="['250','175','125','125']" data-lineheight="['70','70','70','60']"
+                                         data-hoffset="['250','175','125','125']"
+                                         data-lineheight="['70','70','70','60']"
                                          data-paddingbottom="[0,0,0,0]"
                                          data-paddingleft="[0,0,0,0]"
                                          data-paddingright="[0,0,0,0]"
@@ -344,7 +345,7 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                             <div class="ow-client-logo">
                                 <div class="client-logo wt-img-effect on-color">
                                     <a href="https://www.iko.com/" target="_blank"><img
-                                            alt="IKO Roofing Pro" src="images/ars/iko-roofpro-sm.png"></a>
+                                                alt="IKO Roofing Pro" src="images/ars/iko-roofpro-sm.png"></a>
                                 </div>
                             </div>
                         </div>
@@ -354,7 +355,7 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                             <div class="ow-client-logo">
                                 <div class="client-logo wt-img-effect on-color" style="padding-top: 5em">
                                     <a href="https://www.genflex.com/" target="_blank"><img
-                                            alt="Gen Flex Roofing" src="images/ars/genflex-sm.png"></a>
+                                                alt="Gen Flex Roofing" src="images/ars/genflex-sm.png"></a>
                                 </div>
                             </div>
                         </div>
@@ -363,7 +364,7 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                             <div class="ow-client-logo">
                                 <div class="client-logo wt-img-effect on-color" style="padding-top: 5em">
                                     <a href="https://malarkeyroofing.com/" target="_blank"><img
-                                            alt="Malarkey Roofing Products" src="images/ars/markley.png"></a>
+                                                alt="Malarkey Roofing Products" src="images/ars/markley.png"></a>
                                 </div>
                             </div>
                         </div>
@@ -374,9 +375,9 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                                 <div class="client-logo wt-img-effect on-color" style="padding-top: 5em">
                                     <a href="https://www.bbb.org/us/mo/wildwood/profile/general-contractor/advanced-roofing-systems-construction-llc-0734-310230062/#sealclick"
                                        rel="nofollow" target="_blank"><img
-                                            alt="Advanced Roofing Systems & Construction LLC BBB Business Review"
-                                            src="https://seal-stlouis.bbb.org/seals/blue-seal-280-80-bbb-310230062.png"
-                                            style="border: 0;"/></a>
+                                                alt="Advanced Roofing Systems & Construction LLC BBB Business Review"
+                                                src="https://seal-stlouis.bbb.org/seals/blue-seal-280-80-bbb-310230062.png"
+                                                style="border: 0;"/></a>
                                 </div>
                             </div>
                         </div>
@@ -397,7 +398,7 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                             <div class="ow-client-logo">
                                 <div class="client-logo wt-img-effect on-color" style="padding-top: 5em">
                                     <a about="_blank" href="https://usio.com/"><img
-                                            alt="Usio Payment Solutions" src="images/ars/final-usio-color.png"></a>
+                                                alt="Usio Payment Solutions" src="images/ars/final-usio-color.png"></a>
                                 </div>
                             </div>
                         </div>
@@ -406,7 +407,8 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                             <div class="ow-client-logo">
                                 <div class="client-logo wt-img-effect on-color" style="padding-top: 5em">
                                     <a about="_blank" href="https://eagleroofing.com/"><img
-                                            alt="Eagle Roofing Products" src="images/ars/eagle-roofing-logo.png"></a>
+                                                alt="Eagle Roofing Products"
+                                                src="images/ars/eagle-roofing-logo.png"></a>
                                 </div>
                             </div>
                         </div>
@@ -415,7 +417,7 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                             <div class="ow-client-logo">
                                 <div class="client-logo wt-img-effect on-color" style="padding-top: 5em">
                                     <a about="_blank" href="https://gaco.com/"><img
-                                            alt="Gaco" src="images/ars/gaco-logo.png"></a>
+                                                alt="Gaco" src="images/ars/gaco-logo.png"></a>
                                 </div>
                             </div>
                         </div>
@@ -432,16 +434,50 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
 
                 <!-- TITLE START -->
                 <div class="section-head text-center">
-                    <h2 class="text-uppercase">Authorized Installers & Partners</h2>
+
+                    <p>At ARS Construction, we hold our team of roofing contractors in St. Louis to the highest
+                        standards of
+                        reliability and craftsmanship. As members of the Better Business Bureau, we believe that your
+                        satisfaction is our number one goal. This means returning your call promptly, providing you with
+                        a
+                        fair estimate, and then getting the job done as quickly and efficiently as possible. </p>
+
+                    <p>Call us at (844) 445-ROOF for a free roof inspection or contact us here for online and on-site
+                        estimates. We offer financing through Hearth and can process payments in our online portal with
+                        USIO.</p>
+                </div>
+
+                <div class="section-head text-center">
+                    <h2 class="text-uppercase">Family-Owned Roofing Company in St. Louis</h2>
                     <div class="wt-separator-outer">
                         <div class="wt-separator style-square">
                             <span class="separator-left bg-primary"></span>
                             <span class="separator-right bg-primary"></span>
                         </div>
                     </div>
-                    <p>We only use top of the line materials to ensure your project is made of the best quality. We are
-                        certified dealers and installers of Malarky, IKO, Genflex roofing products.
-                        We also offer financing through Hearth and process payments in our online portal with USIO</p>
+                    <p>We are a family-owned business in St. Louis and, as such, we are able to give you personalized
+                        attention with every service call. Whether it's roofing, interior, or exterior services, we
+                        provide an array of construction solutions for both residential and commercial properties of all
+                        kinds. </p>
+
+                    <p>Since 2001, our steadfast integrity has allowed us to provide home and business owners in the
+                        metro area with the highest quality service that never cuts corners. This allows us to lead the
+                        way and distinguish ourselves as the best roofing company in St. Louis!</p>
+
+                </div>
+                <div class="section-head text-center">
+                    <h2 class="text-uppercase">High-Quality Roofing Materials in St. Louis</h2>
+                    <div class="wt-separator-outer">
+                        <div class="wt-separator style-square">
+                            <span class="separator-left bg-primary"></span>
+                            <span class="separator-right bg-primary"></span>
+                        </div>
+                    </div>
+                    <p>We know that the quality of our service is only as good as the products we use, which is why we
+                        seek out the best materials to help meet our customers’ needs. As certified dealers and
+                        installers of Malarkey, IKO, and Genflex roofing products, we are able to provide individuals
+                        across St. Louis access to a full line of high-quality roofing materials as well as interior and
+                        exterior products of all kinds.</p>
                 </div>
                 <div class="row">
                     <div class="col-md-6">
@@ -455,10 +491,12 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                             </div>
                         </div>
 
-                        <p>Our motivated team of experienced contractors are ready to take on any construction tasks. As mention in the Better Business Burro,
-                        reflected in out 5 start rating review on Google, ARS strives to meet customer demand with the best quality of craftsman ship.
-                        We have tools to give online estimates as well as on site estimates. ARS offers Free roof inspections and if we find issues our team is experienced
-                        with insurance adjusters and offer financing as well.</p>
+                        <p>No matter the size of the project, our motivated team of experienced contractors are ready to
+                            take on any construction task. People across St. Louis have chosen ARS Construction because
+                            our roofs are engineered for life without the premium price. Our courteous, clean-cut repair
+                            technicians are licensed, bonded, insured, and highly experienced and will provide only the
+                            highest quality results. </p>
+
                     </div>
                     <div class="col-md-6">
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/k_GlptyCLT4"
@@ -472,13 +510,13 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                 </div>
             </div>
         </div>
-                <!-- TITLE END -->
+        <!-- TITLE END -->
 
-                <!-- CAROUSEL -->
+        <!-- CAROUSEL -->
         <div class="section-full bg-white p-t80 p-b50 scale-bg-top scale-bg-bottom">
-                <div class="section-content " style="background-image:url(images/background/bg1.jpg)">
-                    <div class="container">
-                        <div class="owl-carousel Home-services-carousel owl-btn-vertical-center">
+            <div class="section-content " style="background-image:url(images/background/bg1.jpg)">
+                <div class="container">
+                    <div class="owl-carousel Home-services-carousel owl-btn-vertical-center">
 
                         <div class="item">
                             <div class="wt-box bg-white">
@@ -487,7 +525,8 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                                                                        src="images/Commercial/Glendale/Glendale1.jpg"></a>
                                 </div>
                                 <div class="wt-info p-tb30">
-                                    <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Commercial</a></h4>
+                                    <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Commercial Roofing</a>
+                                    </h4>
                                     <p>We know the importance of making sure that your business runs smoothly on all
                                         parts, and that also includes your roofs. If you are experiencing leaks or need
                                         a new roof, let the experts at ARS Construction be the ones to professionally
@@ -505,7 +544,8 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                                                                        src="images/ars/residentail-roof2.jpg"></a>
                                 </div>
                                 <div class="wt-info p-tb30">
-                                    <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Residential</a></h4>
+                                    <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Residential Roofing</a>
+                                    </h4>
                                     <p>ARS Construction specializes in roof repairs, replacements, and installations for
                                         residential homes. We make sure to work quickly but precisely to ensure your
                                         roof is in top working order. We make sure to clean up at the end of each
@@ -523,8 +563,12 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                                 </div>
                                 <div class="wt-info p-tb30">
                                     <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Interior</a></h4>
-                                    <p>If you are looking for a remodel ARS Construction is the company to call. We also
-                                        handle interior restoration that was caused by water or fire. </p>
+                                    <p>Both inside and out, we want to make your home or business the very best it can
+                                        be. We handle interior restoration that was caused by water or fire damage in
+                                        addition to remodeling services of all kinds. If you are looking for a remodel
+                                        or building a structure from the ground up, ARS Construction is the company to
+                                        call in order to ensure you have an interior you can be proud of. </p>
+
                                 </div>
                             </div>
                         </div>
@@ -537,8 +581,11 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                                 </div>
                                 <div class="wt-info p-tb30">
                                     <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Exterior</a></h4>
-                                    <p>ARS Construction offers top-quality exterior home improvement services, which
-                                        include the installation and repair of siding, gutters, windows, and doors.</p>
+                                    <p>The exterior of your building is the first thing people see when walking into
+                                        your home or business. Boost curb appeal and be the envy of the neighborhood
+                                        with exterior services from ARS Construction. We offer top-quality exterior
+                                        improvement services, which can include the installation and repair of siding,
+                                        gutters, windows, and doors.</p>
                                 </div>
                             </div>
                         </div>
@@ -552,7 +599,10 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                                 <div class="wt-info p-tb30">
                                     <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Colorful Roofs</a></h4>
                                     <p>We specialize in installing new roofs, shingle repair, and roof tear-offs by
-                                        using the latest equipment and most trusted materials in the industry.</p>
+                                        using the latest equipment and most trusted materials in the industry. Our
+                                        products are high quality, as is the integrity of our installation. From the
+                                        beginning to end, we will be there until the job is completed with only the
+                                        highest quality results.</p>
                                 </div>
                             </div>
                         </div>
@@ -590,78 +640,79 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                             <div class="testimonial-1 testimonial-bg">
 
                                 <div class="testimonial-detail">
-                                    <script src="js/google-reviews.js"></script><br />
+                                    <script src="js/google-reviews.js"></script>
+                                    <br/>
                                     <script>load_google_reviews("ChIJXw2F1Mop2YcRgK1fC9XxVmQ");</script>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--<div class="section-content">
+                        <div class="owl-carousel testimonial-one">
+                            <div class="item">
+                                <div class="testimonial-1 testimonial-bg">
+                                    <div class="testimonial-pic  radius shadow"><img alt="Commercial Roofing Services"
+                                                                                     src="images/ars/crane.jpg">
+                                    </div>
+                                    <div class="testimonial-detail">
+                                        <strong class="testimonial-name">Steve Jobs</strong>
+                                        <span class="testimonial-position">Cfo Loop Inc</span>
+                                    </div>
+                                    <div class="testimonial-text">
+                                        <p> Excellent Customer support!.The template itself is very extended. simply dummy
+                                            text of the printing and industry. Lorem Ipsum has been the industry's standard
+                                            dummy simply dummy text. Thanks a lot for such great features, pages, shortcodes
+                                            and home variations. Incredible Job. And the best of all, great introductions
+                                            Thanks a lot for such great features, pages, shortcodes and home variations.
+                                            Incredible Job. And the best of all, great introductions</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="testimonial-1 testimonial-bg">
+                                    <div class="testimonial-pic  radius shadow"><img alt=""
+                                                                                     src="images/testimonials/pic2.jpg">
+                                    </div>
+                                    <div class="testimonial-detail">
+                                        <strong class="testimonial-name">Steve Jobs</strong>
+                                        <span class="testimonial-position">Cfo Loop Inc</span>
+                                    </div>
+                                    <div class="testimonial-text">
+                                        <p> Excellent Customer support!.The template itself is very extended. simply dummy
+                                            text of the printing and industry. Lorem Ipsum has been the industry's standard
+                                            dummy simply dummy text. Thanks a lot for such great features, pages, shortcodes
+                                            and home variations. Incredible Job. And the best of all, great introductions
+                                            Thanks a lot for such great features, pages, shortcodes and home variations.
+                                            Incredible Job. And the best of all, great introductions</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="testimonial-1 testimonial-bg">
+                                    <div class="testimonial-pic  radius shadow"><img alt=""
+                                                                                     src="images/testimonials/pic3.jpg">
+                                    </div>
+                                    <div class="testimonial-detail">
+                                        <strong class="testimonial-name">Steve Jobs</strong>
+                                        <span class="testimonial-position">Cfo Loop Inc</span>
+                                    </div>
+                                    <div class="testimonial-text">
+                                        <p> Excellent Customer support!.The template itself is very extended. simply dummy
+                                            text of the printing and industry. Lorem Ipsum has been the industry's standard
+                                            dummy simply dummy text. Thanks a lot for such great features, pages, shortcodes
+                                            and home variations. Incredible Job. And the best of all, great introductions
+                                            Thanks a lot for such great features, pages, shortcodes and home variations.
+                                            Incredible Job. And the best of all, great introductions</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!--<div class="section-content">
-                    <div class="owl-carousel testimonial-one">
-                        <div class="item">
-                            <div class="testimonial-1 testimonial-bg">
-                                <div class="testimonial-pic  radius shadow"><img alt="Commercial Roofing Services"
-                                                                                 src="images/ars/crane.jpg">
-                                </div>
-                                <div class="testimonial-detail">
-                                    <strong class="testimonial-name">Steve Jobs</strong>
-                                    <span class="testimonial-position">Cfo Loop Inc</span>
-                                </div>
-                                <div class="testimonial-text">
-                                    <p> Excellent Customer support!.The template itself is very extended. simply dummy
-                                        text of the printing and industry. Lorem Ipsum has been the industry's standard
-                                        dummy simply dummy text. Thanks a lot for such great features, pages, shortcodes
-                                        and home variations. Incredible Job. And the best of all, great introductions
-                                        Thanks a lot for such great features, pages, shortcodes and home variations.
-                                        Incredible Job. And the best of all, great introductions</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial-1 testimonial-bg">
-                                <div class="testimonial-pic  radius shadow"><img alt=""
-                                                                                 src="images/testimonials/pic2.jpg">
-                                </div>
-                                <div class="testimonial-detail">
-                                    <strong class="testimonial-name">Steve Jobs</strong>
-                                    <span class="testimonial-position">Cfo Loop Inc</span>
-                                </div>
-                                <div class="testimonial-text">
-                                    <p> Excellent Customer support!.The template itself is very extended. simply dummy
-                                        text of the printing and industry. Lorem Ipsum has been the industry's standard
-                                        dummy simply dummy text. Thanks a lot for such great features, pages, shortcodes
-                                        and home variations. Incredible Job. And the best of all, great introductions
-                                        Thanks a lot for such great features, pages, shortcodes and home variations.
-                                        Incredible Job. And the best of all, great introductions</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial-1 testimonial-bg">
-                                <div class="testimonial-pic  radius shadow"><img alt=""
-                                                                                 src="images/testimonials/pic3.jpg">
-                                </div>
-                                <div class="testimonial-detail">
-                                    <strong class="testimonial-name">Steve Jobs</strong>
-                                    <span class="testimonial-position">Cfo Loop Inc</span>
-                                </div>
-                                <div class="testimonial-text">
-                                    <p> Excellent Customer support!.The template itself is very extended. simply dummy
-                                        text of the printing and industry. Lorem Ipsum has been the industry's standard
-                                        dummy simply dummy text. Thanks a lot for such great features, pages, shortcodes
-                                        and home variations. Incredible Job. And the best of all, great introductions
-                                        Thanks a lot for such great features, pages, shortcodes and home variations.
-                                        Incredible Job. And the best of all, great introductions</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+            </div>-->
                 </div>
             </div>
-        </div>-->
-                </div>
         </div>
-    </div>
         <!-- TESTIMONIAL SECTION START -->
 
         <!-- WHY CHOOSE US SECTION START  -->
@@ -677,11 +728,12 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                             <span class="separator-right bg-primary"></span>
                         </div>
                     </div>
-                    <p>Checkout out ARS's explanations and demonstrations about our vendors which allows us to put their materials to the test and determine the best partnerships and vendors we do business with!! Leave a comment below if you like what you see!</p>
+                    <p>Check out our videos to see how we put our vendors’ materials to the test. You can pick from the
+                        very best partnerships and vendors that we do business with!</p>
                 </div>
                 <!-- TITLE END-->
                 <div class="section-content">
-                            <!-- COLUMNS 2 -->
+                    <!-- COLUMNS 2 -->
                     <div class="row">
                         <div class="col-md-6 col-sm-12">
                             <div class="m-b30">
@@ -694,7 +746,8 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                                         </div>
                                     </div>
                                 </div>
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/Xjrv-_QtdTo" frameborder="0"
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/Xjrv-_QtdTo"
+                                        frameborder="0"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                         allowfullscreen>
                                 </iframe>
@@ -711,7 +764,8 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                                         </div>
                                     </div>
                                 </div>
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/IM24amVlEdw" frameborder="0"
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/IM24amVlEdw"
+                                        frameborder="0"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                         allowfullscreen>
                                 </iframe>
@@ -730,7 +784,8 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                                         </div>
                                     </div>
                                 </div>
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/kzaRCG15Iwg" frameborder="0"
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/kzaRCG15Iwg"
+                                        frameborder="0"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                         allowfullscreen>
 
@@ -748,7 +803,8 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                                         </div>
                                     </div>
                                 </div>
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/0btZOQrtQ6E" frameborder="0"
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/0btZOQrtQ6E"
+                                        frameborder="0"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                         allowfullscreen>
 
@@ -773,7 +829,8 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                         <div class="col-md-3 col-sm-6">
                             <div class="m-b30 text-white text-center">
                                 <div class="icon-lg m-b20"><i class="fa fa-building"></i></div>
-                                <div class="font-26 font-weight-800 m-b5"><span class="counter">1000</span><b>+</b></div>
+                                <div class="font-26 font-weight-800 m-b5"><span class="counter">1000</span><b>+</b>
+                                </div>
                                 <span>Roofs Installed</span>
                             </div>
                         </div>
@@ -797,7 +854,8 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
                         <div class="col-md-3 col-sm-6">
                             <div class="m-b30 text-white text-center">
                                 <div class="icon-lg m-b20"><i class="fa fa-trophy"></i></div>
-                                <div class="font-26 font-weight-800 m-b5"><span class="counter">2000</span><b>+</b></div>
+                                <div class="font-26 font-weight-800 m-b5"><span class="counter">2000</span><b>+</b>
+                                </div>
                                 <span>SHINGLES INSTALLED</span>
                             </div>
                         </div>
@@ -812,10 +870,10 @@ $ogMetaDescription='ARS Construction provides specialized commercial and residen
     </div>
     <!-- CONTENT END -->
     <!-- FOOTER START -->
-        <footer class="site-footer footer-dark">
-     <?php include_once ('includes/footer.php'); ?>
+    <footer class="site-footer footer-dark">
+        <?php include_once('includes/footer.php'); ?>
         <!-- FOOTER COPYRIGHT -->
-         <?php include_once ('includes/sub-footer.php'); ?>
+        <?php include_once('includes/sub-footer.php'); ?>
     </footer>
     <!-- FOOTER END -->
 
