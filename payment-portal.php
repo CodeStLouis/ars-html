@@ -34,7 +34,7 @@ $pageActive='';
     <div class="page-content">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/fleet.jpg); height: 500px !important">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/ars/team_ars.jpg); height: 500px !important">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
