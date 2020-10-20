@@ -49,7 +49,7 @@
                                 <a href="../24-hour-emergency.php">Emergency</a>
                             </li>
                             <li>
-                                <a href="https://quickclick.com/r/woxyz">Payment</a>
+                                <a href="../payment-portal.php">Payment</a>
                             </li>
                             <li>
                                 <a href="../about.php">About Us</a>
