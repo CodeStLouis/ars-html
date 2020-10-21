@@ -11,6 +11,8 @@ $jobDesc='<p>At ARS Construction we understand emergencies happen. Storms, Hail,
 
 <p> Our Emergency Response Team is available 24 Hours a Day 7 Days a Week, Contact Us if you’re in need.</p>
 
+<p>We provide FREE Storm Damage Inspections</p>
+
 <h4>(844) 445-ROOF</h4>
 ';
 $sliderImg1='';
