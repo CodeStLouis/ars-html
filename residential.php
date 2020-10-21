@@ -1,6 +1,6 @@
 <?php
 $Page='Residential';
-$Title='Commercial Roofing in St. Louis, MO | Glendale Chysler Roof Project | Roofing Companies | ARS Construction';
+$Title='Residential Roofing in St. Louis, MO | Roofing Contractors St. Louis | ARS Construction';
 $Url='https://www.advancedroofsys.com/residential.php';
 $metaDescription='Residential Roofing in St. Louis, MO - Our roofing contractors provide an array of residential roofing services and interior/exterior construction services to homes across St. Louis. FREE roof inspection here.';
 $metaImage='/images/fleet.jpg';

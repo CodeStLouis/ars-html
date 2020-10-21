@@ -1,11 +1,11 @@
 <?php
-$Page='';
-$Title='Commercial Construction';
-$Url='';
-$metaDescription='';
-$metaImage='';
-$ogMetaDescription='';
-$jobTitle='What We Do';
+$Page='Commercial';
+$Title='Commercial Construction and Roofing in St. Louis, MO | Full Service Construction Contractors St. Louis | ARS Construction';
+$Url='https://www.advancedroofsys.com/commercial-main.php';
+$metaDescription='Construction company in St. Louis, MO - Our full service construction and roofing contractors provide high-quality construction services to residential and commercial property owners in the Greater St. Louis area.';
+$metaImage='/images/fleet.jpg';
+$ogMetaDescription='Construction company in St. Louis, MO - Our full service construction and roofing contractors provide high-quality construction services to residential and commercial property owners in the Greater St. Louis area.';
+$jobTitle='Commercial Construction';
 $jobDesc='<h2>Residential Roofing</h2>
 <p>Our full-service roofing company in St. Louis handles everything from consultation and design all the way to the full installation, repair, and maintenance of one of the most important structures in your home — your roof. As a family-owned business ourselves, we take great pride in helping protect YOUR family with a high-quality roof over their head. </p>
 
