@@ -11,7 +11,7 @@
                         <ul class="copyrights-nav pull-right">
                             <li><a href="javascript:void(0);">Terms & Condition</a></li>
                             <li><a href="javascript:void(0);">Privacy Policy</a></li>
-                            <li><a href="contact-us.html">Contact Us</a></li>
+                            <li><a href="/contact-us.php">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>

@@ -1,8 +1,8 @@
 <?php
-$Page='Miracles N Progress';
-$Title='ARS | Sponsoring Miracles N Progress';
-$Url='https://www.advancedroofsys.com/miracles-n-progress';
-$metaDescription='ARS Construction is a proud sponsor of Miracles N Progress';
+$Page='Miracles N&apos; Progress';
+$Title='ARS Construction Community Involvement | Miracles N&apos; Progress | Roofing Contractors in St. Louis, MO';
+$Url='https://www.advancedroofsys.com/miracles-n-progress.php';
+$metaDescription='Our roofing contractors in St. Louis, MO, are active in their local community. We proudly work with charities such as Miracles N&apos; Progress. Contact us to learn more about our community involvement.';
 $metaImage='/images/fleet.jpg';
 $ogMetaDescription='Are you in need of a new roof? Do you need updating to the outside and inside of your home? If so, let the professionals at ARS Construction be the ones to help take your home to the next level. Professional St. Louis Construction.';
 ?>

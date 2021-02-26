@@ -1,17 +1,23 @@
 <?php
-$Page='About Us';
-$Title='About Our Construction Company in St. Louis, MO | ARS Construction';
-$Url='https://www.advancedroofsys.com/about-us.php';
-$metaDescription='Learn more about our construction company in St. Louis, MO. The roofing contractors at ARS Construction serve businesses and families across the region in whatever roofing or interior/exterior construction project they need.';
-$metaImage='/images/fleet.jpg';
-$ogMetaDescription='We at ARS Construction would never claim to be perfect but we always pledge that we are 100% committed to making it right each and every time! Professional St. Louis Construction. ';
-$pageActive='';
+$Page='24 Hour Emergency Services';
+$Title='ARS Construction | 24 Hour Emergency Services';
+$Url='https://www.advancedroofsys.com/24-hour-emergency.php';
+$metaDescription='';
+$metaImage='';
+$ogMetaDescription='';
+$jobTitle='24 Hour Emergency Services';
+$jobDesc='At ARS we will come to your aid in at any hour';
+$sliderImg1='';
+$sliderImg2='';
+$sliderImg3='';
+
 ?>
+
 <!DOCTYPE html>
 
-<html lang="en">
-
 <head>
+
+
     <?php include_once ('includes/head.php'); ?>
 
 </head>
@@ -29,16 +35,15 @@ $pageActive='';
     </header>
     <!-- HEADER END -->
 
-
     <!-- CONTENT START -->
-    <div class="page-content">
+    <div class="page-content  bg-white">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/fleet.jpg); height: 500px !important">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url();">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
-                    <h1 class="text-white">Advanced Roofing Systems & Construction </h1>
+                    <h1 class="text-white">24 Hour Emergency Services</h1>
                 </div>
             </div>
         </div>
@@ -48,94 +53,105 @@ $pageActive='';
         <div class="bg-gray-light p-tb20">
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
-                    <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
-                    <li>About</li>
+                    <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
+                    <li>Emergency</li>
                 </ul>
             </div>
         </div>
         <!-- BREADCRUMB ROW END -->
 
+        <!-- SECTION CONTENT -->
+        <div class="section-full  p-t80 p-b50  ">
+            <div class="container  bg-white ">
+                <div class="row">
+                    <!-- LEFT PART -->
+                    <div class="col-md-3 col-sm-3 p-tb15">
+                        <!-- BROCHURES -->
+                        <div class="wt-box m-b30">
+                            <div class="text-left m-b20">
+                                <h4>Brochures</h4>
+                                <div class="wt-separator-outer">
+                                    <div class="wt-separator style-square">
+                                        <span class="separator-left bg-primary"></span>
+                                        <span class="separator-right bg-primary"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="wt-icon-box-wraper left bdr-1 bdr-gray p-a15 m-b15">
+                                <a class="btn-block" href="#">
+                                    <span class="text-black m-r10"><i class="fa fa-file-pdf-o"></i></span>
+                                    <strong class="text-uppercase text-black">Download .PDF</strong>
+                                </a>
+                            </div>
+                            <div class="wt-icon-box-wraper left bdr-1 bdr-gray p-a15 m-b15">
+                                <a class="btn-block" href="#">
+                                    <span class="text-black m-r10"><i class="fa fa-file-word-o"></i></span>
+                                    <strong class="text-uppercase text-black"> Download .DOC</strong>
+                                </a>
+                            </div>
+                            <div class="wt-icon-box-wraper left bdr-1 bdr-gray p-a15 m-b15">
+                                <a class="btn-block" href="#">
+                                    <span class="text-black m-r10"><i class="fa fa-file-powerpoint-o"></i></span>
+                                    <strong class="text-uppercase text-black">Download .PPT</strong>
+                                </a>
+                            </div>
+                        </div>
 
-        <!-- ABOUT COMPANY SECTION START -->
-        <div class="section-full p-t80 p-b70">
-            <div class="container">
-                <!-- TITTLE START -->
-                <div class="section-head text-center">
-                    <h2 class="text-uppercase">ARS Construction</h2>
-                    <div class="wt-separator-outer">
-                        <div class="wt-separator style-square">
-                            <span class="separator-left bg-primary"></span>
-                            <span class="separator-right bg-primary"></span>
+
+                        <!-- CONTACT US -->
+                        <div class="widget bg-white  widget_getintuch">
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <img alt="Residential Roofing St " src="images/ars/residential-roofing-3-sm.jpg">
-                        </div>
-                        <div class="col-md-6 text-left">
-                            <p>At ARS Construction, our main priority is delivering the best customer service. We accomplish
-                                this by making sure we have the right team. Each member has the training and experience to
-                                handle any size job. We make sure to stay up-to-date on the latest trends so that we can answer
-                                any of your questions. If you are not sure about what would work best, our team is ready to help
-                                come up with a plan that you will be happy with. If you are ready for a change, call us
-                                today!</p>
 
-                            <p>
-                                The ARS team has been assembled to provide 24-hour emergency services. We have been trained on all levels
-                                of the construction process. Using state-of-the art equipment, we can design your project
-                                remotely, allowing social distancing if needed. Or, we are happy to come to your home to provide
-                                details and options on your next project. The ARS team is much more than a group of construction
-                                guys. We are a family and work to convey that point of view to our customers who we treat as an
-                                extension of our family
-                            </p>
+                    <!-- LEFT PART -->
+
+                    <!-- RIGHT PART -->
+                    <div class="col-md-9 col-sm-9 p-tb10">
+                        <!-- BLOG POST CAROUSEL -->
+
+                        <div class="section-content">
+                            <div class="section-head text-center">
+                                <h2 class="text-uppercase"><?php echo $jobTitle;?></h2>
+                                <div class="wt-separator-outer">
+                                    <div class="wt-separator style-square">
+                                        <span class="separator-left bg-primary"></span>
+                                        <span class="separator-right bg-primary"></span>
+                                    </div>
+                                </div>
+                                <p><?php echo $jobDesc;?></p>
+                            </div>
+                            <div class="owl-carousel service-detail-carousel owl-btn-vertical-center owl-dots-bottom-center container" style=" width:100%">
+
+                                <div class="item">
+                                    <div class="aon-thum-bx">
+                                        <img alt="" src="<?php echo $sliderImg1;?>">
+                                    </div>
+                                </div>
+
+                                <div class="item">
+                                    <div class="aon-thum-bx">
+                                        <img alt="" src="<?php echo $sliderImg2;?>">
+                                    </div>
+                                </div>
+
+                                <div class="item">
+                                    <div class="aon-thum-bx">
+                                        <img alt="" src="<?php echo $sliderImg3;?>">
+                                    </div>
+                                </div>
+
+                            </div>
+
                         </div>
                     </div>
-
                 </div>
-                <!-- TITLE END -->
-
-                <!--fade slider END-->
-
+                <!-- RIGHT PART -->
             </div>
         </div>
     </div>
-    <!-- ABOUT COMPANY SECTION END -->
-
-
-
-    <!-- SECTION CONTENT START -->
-
     <!-- SECTION CONTENT END -->
 
-    <!-- OUR TEAM MEMBER SECTION START -->
-    <div class="section-full text-center wt-our-team bg-gray p-t30 p-b50">
-        <div class="container">
-
-            <!-- TITTLE START -->
-            <div class="section-head text-center">
-                <h2 class="text-uppercase">Family-Owned Roofing Company in St. Louis</h2>
-                <div class="wt-separator-outer">
-                    <div class="wt-separator style-square">
-                        <span class="separator-left bg-primary"></span>
-                        <span class="separator-right bg-primary"></span>
-                    </div>
-                </div>
-                <p>We are a family-owned business in St. Louis and, as such, we are able to give you personalized
-                    attention with every service call. Whether it's roofing, interior, or exterior services, we
-                    provide an array of construction solutions for both residential and commercial properties of all
-                    kinds. </p>
-
-                <p>Since 2001, our steadfast integrity has allowed us to provide home and business owners in the
-                    metro area with the highest quality service that never cuts corners. This allows us to lead the
-                    way and distinguish ourselves as the best roofing company in St. Louis!</p>
-
-            </div>
-            <!-- TITLE END -->
-
-        </div>
-    </div>
-    <!-- OUR TEAM MEMBER SECTION END -->
-
+    <!-- CONTENT END -->
 </div>
 <!-- CONTENT END -->
 

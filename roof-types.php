@@ -1,15 +1,15 @@
 <?php
-$Page='Salvation-Army';
-$Title='ARS Construction | Salvation-Army Roofing Project';
-$Url='https://www.advancedroofsys.com/salvation-army';
-$metaDescription='Salvation Army Commercial Flat Roofing Completion';
-$metaImage='/images/fleet.jpg';
-$ogMetaDescription='Salvation Army Commercial Flat Roofing Completion. Professional St. Louis Construction.';
-$jobTitle='Salvation Army';
-$jobDesc='We Love Salvation army it was the best job we have done, we had a lot of fun.';
-$sliderImg1='images/salvation-army/salvation-army-1.jpg';
-$sliderImg2='images/salvation-army/salvation-army-2.jpg';
-$sliderImg3='images/salvation-army/salvation-army-3.jpg';
+$Page='Residential Roofing Services';
+$Title='ARS Construction | Residential Roofing';
+$Url='https://www.advancedroofsys.com/commercial.php';
+$metaDescription='';
+$metaImage='';
+$ogMetaDescription='';
+$jobTitle='';
+$jobDesc='';
+$sliderImg1='';
+$sliderImg2='';
+$sliderImg3='';
 
 ?>
 
@@ -43,7 +43,7 @@ $sliderImg3='images/salvation-army/salvation-army-3.jpg';
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
-                    <h1 class="text-white">Salvation Army</h1>
+                    <h1 class="text-white">Roof Types</h1>
                 </div>
             </div>
         </div>
@@ -54,7 +54,7 @@ $sliderImg3='images/salvation-army/salvation-army-3.jpg';
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
                     <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
-                    <li>Salvation Army Roofing Project</li>
+                    <li>Roof Types</li>
                 </ul>
             </div>
         </div>
@@ -77,24 +77,6 @@ $sliderImg3='images/salvation-army/salvation-army-3.jpg';
                                     </div>
                                 </div>
                             </div>
-                            <div class="wt-icon-box-wraper left bdr-1 bdr-gray p-a15 m-b15">
-                                <a class="btn-block" href="#">
-                                    <span class="text-black m-r10"><i class="fa fa-file-pdf-o"></i></span>
-                                    <strong class="text-uppercase text-black">Download .PDF</strong>
-                                </a>
-                            </div>
-                            <div class="wt-icon-box-wraper left bdr-1 bdr-gray p-a15 m-b15">
-                                <a class="btn-block" href="#">
-                                    <span class="text-black m-r10"><i class="fa fa-file-word-o"></i></span>
-                                    <strong class="text-uppercase text-black"> Download .DOC</strong>
-                                </a>
-                            </div>
-                            <div class="wt-icon-box-wraper left bdr-1 bdr-gray p-a15 m-b15">
-                                <a class="btn-block" href="#">
-                                    <span class="text-black m-r10"><i class="fa fa-file-powerpoint-o"></i></span>
-                                    <strong class="text-uppercase text-black">Download .PPT</strong>
-                                </a>
-                            </div>
                         </div>
 
 
@@ -111,14 +93,14 @@ $sliderImg3='images/salvation-army/salvation-army-3.jpg';
 
                         <div class="section-content">
                             <div class="section-head text-center">
-                                <h2 class="text-uppercase"><?php echo $jobTitle;?></h2>
+                                <h2 class="text-uppercase"><?php echo $roofType;?></h2>
                                 <div class="wt-separator-outer">
                                     <div class="wt-separator style-square">
                                         <span class="separator-left bg-primary"></span>
                                         <span class="separator-right bg-primary"></span>
                                     </div>
                                 </div>
-                                <p><?php echo $jobDesc;?></p>
+                                <p><?php echo $roofDescription;?></p>
                             </div>
                             <div class="owl-carousel service-detail-carousel owl-btn-vertical-center owl-dots-bottom-center container" style=" width:100%">
 
@@ -142,107 +124,32 @@ $sliderImg3='images/salvation-army/salvation-army-3.jpg';
 
                             </div>
 
-                            </div>
                         </div>
                     </div>
-                    <!-- RIGHT PART -->
                 </div>
+                <!-- RIGHT PART -->
             </div>
         </div>
-        <!-- SECTION CONTENT END -->
-
-        <!-- CONTENT END -->
     </div>
-    <!-- CONTENT END -->
+    <!-- SECTION CONTENT END -->
 
-    <!-- FOOTER START -->
+    <!-- CONTENT END -->
+</div>
+<!-- CONTENT END -->
+
+<!-- FOOTER START -->
 <footer class="site-footer footer-dark">
     <?php include_once ('includes/footer.php'); ?>
     <!-- FOOTER COPYRIGHT -->
     <?php include_once ('includes/sub-footer.php'); ?>
 </footer>
-    <!-- FOOTER END -->
+<!-- FOOTER END -->
 
 
-    <!-- SCROLL TOP BUTTON -->
-    <button class="scroltop"><span class=" iconmoon-house relative" id="btn-vibrate"></span>Top</button>
+<!-- SCROLL TOP BUTTON -->
+<button class="scroltop"><span class=" iconmoon-house relative" id="btn-vibrate"></span>Top</button>
 
-    <!-- MODAL  LOGIN -->
-    <div class="modal fade " id="Login-form" role="dialog">
-        <div class="modal-dialog modal-sm">
-            <!-- Modal content-->
-            <div class="modal-content">
-                <div class="modal-header bg-primary">
-                    <button class="close" data-dismiss="modal" type="button">&times;</button>
-                    <h4 class="modal-title text-white">Login Your Account</h4>
-                </div>
-                <div class="modal-body p-a30">
-                    <form id="log-form">
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                                <input class="form-control" placeholder="Enter Username" type="text">
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                                <input class="form-control" placeholder="Enter email" type="email">
-                            </div>
-                        </div>
-                        <button class="site-button-secondry text-uppercase btn-block m-b10" type="button">Submit
-                        </button>
-                        <span class="font-12">Don't have an account? <a class="text-primary" href="javascript:">Register Here</a></span>
-                    </form>
-                </div>
-                <div class="modal-footer text-center">
-                    <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
-                </div>
-            </div>
-        </div>
-    </div>
 
-    <!-- MODAL  REGISTER -->
-    <div class="modal fade " id="Register-form" role="dialog">
-        <div class="modal-dialog modal-sm">
-            <!-- Modal content-->
-            <div class="modal-content">
-                <div class="modal-header bg-primary">
-                    <button class="close" data-dismiss="modal" type="button">&times;</button>
-                    <h4 class="modal-title text-white">Register here</h4>
-                </div>
-                <div class="modal-body p-a30">
-                    <form id="reg-form">
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                                <input class="form-control" placeholder="Enter Username" type="text">
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                                <input class="form-control" placeholder="Enter email" type="email">
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-key"></i></span>
-                                <input class="form-control" placeholder="Enter Password" type="email">
-                            </div>
-                        </div>
-                        <button class="site-button-secondry text-uppercase btn-block m-b10" type="button">Submit
-                        </button>
-                        <span class="font-12">Already Have an Account? <a class="text-primary"
-                                                                          href="javascript:">Login</a></span>
-                    </form>
-                </div>
-                <div class="modal-footer text-center">
-                    <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
-                </div>
-            </div>
-        </div>
-    </div>
 </div>
 <!-- firebase scripts -->
 <!-- The core Firebase JS SDK is always required and must be listed first -->

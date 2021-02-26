@@ -1,16 +1,18 @@
 <?php
-$Page='Residential';
-$Title='Residential Roofing in St. Louis, MO | Roofing Contractors St. Louis | ARS Construction';
-$Url='https://www.advancedroofsys.com/residential.php';
-$metaDescription='Residential Roofing in St. Louis, MO - Our roofing contractors provide an array of residential roofing services and interior/exterior construction services to homes across St. Louis. FREE roof inspection here.';
-$metaImage='/images/fleet.jpg';
-$ogMetaDescription='ARS Construction specializes in roof repairs, replacements, and installations for residential homes.';
-$content1='Our full-service roofing company in St. Louis handles everything from consultation and design all the way to the full installation, repair, and maintenance of one of the most important structures in your home — your roof. As a family-owned business ourselves, we take great pride in helping protect YOUR family with a high-quality roof over their head. ';
-$content2='With any roofing project we perform, we believe that you should be able to rest easy knowing that the job was done right the first time, giving you peace of mind long past the date of our visit.   We not only work quickly and precisely, but we clean up at the end of each workday to remove any dangerous equipment that could harm you or your family';
-$jobTitle='Residential Roofing & Services';
-$sliderImg1='https://ik.imagekit.io/codestl/residential-roof-1-sm_kkTv3BtS7O.jpg';
-$sliderImg2='https://ik.imagekit.io/codestl/services/landscaping_hHXRf8MDEL.jpg';
-$sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xWon3_w3N.jpg';
+$Page='Tile Roofing Services';
+$Title='ARS Construction | Tile Roofing St Louis Services';
+$Url='https://www.advancedroofsys.com/tile-roofing.php';
+$metaDescription='Tile roofing in St. Louis comes in a wide array of sizes and colors to choose from. Whether you want clay, metal, cast concrete, polymer, or composite, we are sure to have something that not only complements your home’s architectural design but also delivers unmatched elegance';
+$metaImage='https://ik.imagekit.io/codestl/services/landscaping_hHXRf8MDEL.jpg';
+$ogMetaDescription='Tile roofing in St. Louis comes in a wide array of sizes and colors to choose from. Whether you want clay, metal, cast concrete, polymer, or composite, we are sure to have something that not only complements your home’s architectural design but also delivers unmatched elegance';
+$jobTitle='Tile Roofing';
+$content1='Tile roofing in St. Louis comes in a wide array of sizes and colors to choose from. Whether you want clay, metal, cast concrete, polymer, or composite, we are sure to have something that not only complements your home’s architectural design but also delivers unmatched elegance ';
+$content2='Because they’re heavier than a traditional shingle roof, tile roofs require structural reinforcement and more time and labor to install properly; however, it is worth it for the beautiful end result!';
+$content3='We work hard to ensure that your tile roofing is working properly with no weakness undetected. A tile roof means you will never have to compromise when it comes to beauty, maintenance, and cost.';
+$sliderImg1='https://ik.imagekit.io/codestl/services/tile_KLWSjYGXb.jpg';
+$sliderImg2='https://ik.imagekit.io/codestl/services/tile2_PtNQomMdw3w.jpg';
+$sliderImg3='https://ik.imagekit.io/codestl/services/til3_AJSGETm-OC.jpg';
+
 ?>
 
 <!DOCTYPE html>
@@ -39,11 +41,11 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
     <div class="page-content  bg-white">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(https://ik.imagekit.io/codestl/different-hous-sm_TAEWFXiLBr.jpg);">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(https://ik.imagekit.io/codestl/services/landscaping_hHXRf8MDEL.jpg);">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
-                    <h1 class="text-white">Residential Roofing Services</h1>
+                    <h1 class="text-white"><?php echo $jobTitle;?></h1>
                 </div>
             </div>
         </div>
@@ -54,7 +56,7 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
                     <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
-                    <li>Service Details</li>
+                    <li><?php echo $jobTitle;?></li>
                 </ul>
             </div>
         </div>
@@ -80,7 +82,8 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
                             <!-- BROCHURES -->
                             <div class="wt-box m-b30 text-left">
                                 <p><?php echo $content1;?></p><br>
-                                <p><?php echo $content2;?></p>
+                                <p><?php echo $content2;?></p><br>
+                                <p><?php echo $content3;?></p>
                             </div>
                         </div>
                         <!-- RIGHT PART -->
@@ -126,8 +129,6 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
 
     <!-- SCROLL TOP BUTTON -->
     <button class="scroltop"><span class=" iconmoon-house relative" id="btn-vibrate"></span>Top</button>
-
-
 </div>
 <!-- firebase scripts -->
 <!-- The core Firebase JS SDK is always required and must be listed first -->
@@ -213,5 +214,4 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
 </body>
 
 </html>
-
 

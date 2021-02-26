@@ -1,15 +1,66 @@
 <?php
-$Page='Salvation-Army';
-$Title='ARS Construction | Salvation-Army Roofing Project';
-$Url='https://www.advancedroofsys.com/salvation-army';
-$metaDescription='Salvation Army Commercial Flat Roofing Completion';
+$Page='Commercial';
+$Title='Commercial Construction and Roofing in St. Louis, MO | Full Service Construction Contractors St. Louis | ARS Construction';
+$Url='https://www.advancedroofsys.com/commercial-main.php';
+$metaDescription='Construction company in St. Louis, MO - Our full service construction and roofing contractors provide high-quality construction services to residential and commercial property owners in the Greater St. Louis area.';
 $metaImage='/images/fleet.jpg';
-$ogMetaDescription='Salvation Army Commercial Flat Roofing Completion. Professional St. Louis Construction.';
-$jobTitle='Salvation Army';
-$jobDesc='We Love Salvation army it was the best job we have done, we had a lot of fun.';
-$sliderImg1='images/salvation-army/salvation-army-1.jpg';
-$sliderImg2='images/salvation-army/salvation-army-2.jpg';
-$sliderImg3='images/salvation-army/salvation-army-3.jpg';
+$ogMetaDescription='Construction company in St. Louis, MO - Our full service construction and roofing contractors provide high-quality construction services to residential and commercial property owners in the Greater St. Louis area.';
+$jobTitle='Commercial Construction';
+$jobDesc='<h2>Residential Roofing</h2>
+<p>Our full-service roofing company in St. Louis handles everything from consultation and design all the way to the full installation, repair, and maintenance of one of the most important structures in your home — your roof. As a family-owned business ourselves, we take great pride in helping protect YOUR family with a high-quality roof over their head. </p>
+
+<p>With any roofing project we perform, we believe that you should be able to rest easy knowing that the job was done right the first time, giving you peace of mind long past the date of our visit.   We not only work quickly and precisely, but we clean up at the end of each workday to remove any dangerous equipment that could harm you or your family.</p>
+
+<h2>Commercial Roofing</h2>
+<p>As a full-service commercial roofing company, we know that keeping your business flowing smoothly means never having to worry about roof leaks or anything else that might cause interruptions. Therefore, it is critical to have the highest quality materials installed in the first place to keep your roof in good working condition for years to come. </p>
+
+<p>No matter if your business residence is being built from the ground up or your existing roof is in need of repair or replacement, you can trust ARS Construction to provide top-of-the-line professional service. Most importantly, we can be in and out in no time, allowing you to avoid costly downtime. </p>
+
+<h2>Slate Roofing</h2>
+<p>If you’re looking for the gold standard in roofing, look no further than slate rock, which originates from natural sedimentary particles of silt and clay. Because these materials are non-absorbent and solid, they make a great option for homes and businesses alike. Some of America’s oldest and greatest properties are topped with slate roofing because of its durability, longevity, and beauty.</p>
+
+<p>However, while slate roofs are remarkably beautiful, they are also extremely complex. Installation requires specialized roofing knowledge, an eye for detail, and true craftsman’s skill which each of our roof installers in St. Louis is proud to have. </p>
+
+<h2>Tile Roofing</h2>
+<p>Tile roofing in St. Louis comes in a wide array of sizes and colors to choose from. Whether you want clay, metal, cast concrete, polymer, or composite, we are sure to have something that not only complements your home’s architectural design but also delivers unmatched elegance.</p> 
+
+<p>Because they’re heavier than a traditional shingle roof, tile roofs require structural reinforcement and more time and labor to install properly; however, it is worth it for the beautiful end result! </p>
+
+<p>We work hard to ensure that your tile roofing is working properly with no weakness undetected. A tile roof means you will never have to compromise when it comes to beauty, maintenance, and cost.</p>
+ 
+<h2>Shingle Roofing</h2>
+<p>Shingles are the most dynamic, durable, and affordable roofing material on the market today. In fact, most homes across the U.S. have shingle roofs, which is why we have made them a specialty here at ARS Construction. Let us help you with the installation, repair, and maintenance of your shingle roof in St. Louis!</p>
+
+<p>Shingles can be installed on just about any type of structure and do not require any special accessories. With options that include asphalt, shake, wood, copper, and more, we can help guide you to the right roofing choice to match your home’s vision, style, and budget. Their ease of installation and fire-resistance means you will never have to sacrifice durability for affordability with a shingle roof.</p> 
+
+<h2>Siding</h2>
+<p>The exterior of your house is one of the first things people notice when walking into your home. Make it a good first impression with siding that is beautiful and eye-catching without the premium price. </p>
+
+<p>ARS Construction is your source for high-quality siding installation, repair, and replacement. With its low-maintenance features and protection benefits, siding has been the top choice of many people building houses or those looking to remodel their existing homes. Plus, our wide selection of sizes, profiles, and grades can meet any architectural style and aesthetic you can dream of. </p>
+
+<h2>Gutters</h2>
+<p>Gutters are one of the first lines of defense to protect your home or business from environmental damage. We know how important it is to make sure they can withstand snow and ice and continue to be in proper working condition throughout every season.</p>
+
+<p>Our gutter installers in St. Louis are highly trained to carefully assess your land and find the best location for direct runoff of water away from the building’s foundation. We tightly secure the entire gutter system and can guarantee its durability for years to come. Also, if you are concerned about leaf build-up and the messy clean-up, we have the right solution customized just for you. </p>
+
+<h2>Flat Roofing</h2>
+<p>Flat roofing in St. Louis is becoming a popular choice with businesses and even homeowners alike. While standard sloped roofs typically have shingles that overlap like fish scales, a flat roof is designed as a monolithic surface that is easy to install/repair and typically low-maintenance. </p>
+
+<p>At ARS Construction, we can install and repair three different types of flat roofs, including built-up roofs (BUR), modified bitumen roofs (MBR), and rubber membrane roofs (EPDM). There are pros and cons to each roof type, which is why we will help you choose the best option to meet your needs and application. </p>
+
+<h2>Metal Roofing</h2>
+<p>Metal roofing in St. Louis is an excellent option for home and business owners looking for a strong, low-maintenance roofing system. Because they reflect much of the sun’s UV rays, they are a thermally-efficient alternative to traditional shingle roofing. </p>
+
+<p>With unrivaled durability that often lasts two to three times longer than other roofing systems, they have rapidly grown in popularity and demand across the nation. Our team is knowledgeable in a wide range of metal roof installation, repair, and maintenance methods and have experience in mechanical attachment and fully-adhered installations.</p>
+
+<h2>Industrial Roofing</h2>
+<p>Roofing materials used in the manufacturing industry experience more wear and tear than residential properties. This is because manufacturing’s chemicals, exhausts, and residues can break down most types of roofing materials. Also, extra care must be taken with roofing systems for businesses with sensitive operations — like the semi-conductor or food industries — where water, dust, or dirt falling from an improperly installed roof can cause problems</p>
+
+<p>This is why you need to have a roofing system that is properly installed and maintained the first time around. ARS Construction specializes in industrial roofing for a variety of commercial applications. </p>
+';
+$sliderImg1='';
+$sliderImg2='';
+$sliderImg3='';
 
 ?>
 
@@ -39,11 +90,11 @@ $sliderImg3='images/salvation-army/salvation-army-3.jpg';
     <div class="page-content  bg-white">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/salvation-army/salvation-army-1.jpg);">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/ARS-banner2.png);" layout="responsive">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
-                    <h1 class="text-white">Salvation Army</h1>
+                    <h1 class="text-white">Services</h1>
                 </div>
             </div>
         </div>
@@ -54,7 +105,7 @@ $sliderImg3='images/salvation-army/salvation-army-3.jpg';
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
                     <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
-                    <li>Salvation Army Roofing Project</li>
+                    <li>Services</li>
                 </ul>
             </div>
         </div>
@@ -119,27 +170,6 @@ $sliderImg3='images/salvation-army/salvation-army-3.jpg';
                                     </div>
                                 </div>
                                 <p><?php echo $jobDesc;?></p>
-                            </div>
-                            <div class="owl-carousel service-detail-carousel owl-btn-vertical-center owl-dots-bottom-center container" style=" width:100%">
-
-                                <div class="item">
-                                    <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg1;?>">
-                                    </div>
-                                </div>
-
-                                <div class="item">
-                                    <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg2;?>">
-                                    </div>
-                                </div>
-
-                                <div class="item">
-                                    <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg3;?>">
-                                    </div>
-                                </div>
-
                             </div>
 
                             </div>

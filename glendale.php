@@ -1,12 +1,18 @@
 <?php
-$Page='Interior';
-$Title='Interior Construction Services | Construction Company in St. Louis, MO | ARS Construction';
-$Url='https://www.advancedroofsys.com/interior.php';
-$metaDescription='Interior Construction Services in St. Louis, MO - Our construction company specializes in the remodeling and restoration of St. Louis homes and businesses. Contact us now to take a look at your commercial or residential property.';
+$Page='Glendale Chrysler';
+$Title='Commercial Roofing in St. Louis, MO | Glendale Chrysler Roof Project | Roofing Companies | ARS Construction';
+$Url='https://www.advancedroofsys.com/glendale.php';
+$metaDescription='Check out this commercial roofing project in St. Louis, MO. We worked with Glendale Chrysler to install a TPO roofing system. Contact our roofing contractors to see how we can help you!';
 $metaImage='/images/fleet.jpg';
-$ogMetaDescription='Does the outside of your home need updates? Need repairs done to your siding or gutters? If so, let ARS Construction be the ones to help bring your home to the next levels.'
-?>
+$ogMetaDescription='We know the importance of making sure that your business runs smoothly on all parts, and that also includes your roofs. If you are experiencing leaks or need a new roof, let the experts at ARS Construction be the ones to professionally repair or install your commercial roofs.';
+$jobTitle='Glendale Chrysler Jeep Dodge Ram';
+$jobDesc='';
+$jobDesc2='';
+$sliderImg1='';
+$sliderImg2='';
+$sliderImg3='';
 
+?>
 <!DOCTYPE html>
 
 <html lang="en">
@@ -30,14 +36,14 @@ $ogMetaDescription='Does the outside of your home need updates? Need repairs don
     <!-- HEADER END -->
 
     <!-- CONTENT START -->
-    <div class="page-content">
+    <div class="page-content  bg-white">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/ars/kitchen-contracting.jpg);">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/dealership/dealer4.jpg);">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
-                    <h1 class="text-white">Interior Home Improvements</h1>
+                    <h1 class="text-white">Glendale Chrysler Jeep Dodge Ram</h1>
                 </div>
             </div>
         </div>
@@ -48,89 +54,118 @@ $ogMetaDescription='Does the outside of your home need updates? Need repairs don
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
                     <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
-                    <li>Interior Home Improvement</li>
+                    <li>Glendale Chrysler Project</li>
                 </ul>
             </div>
         </div>
         <!-- BREADCRUMB ROW END -->
 
-        <div class="section-full p-t80">
-            <div class="container">
+        <!-- SECTION CONTENT -->
+        <div class="section-full  p-t80 p-b50  ">
+            <div class="container  bg-white ">
                 <div class="row">
-                    <div class="col-md-7 col-sm-7">
-                        <!--Fade slider-->
-                        <div class="owl-carousel about-us-carousel owl-btn-vertical-center owl-dots-bottom-center">
-
-                            <div class="item">
-                                <div class="aon-thum-bx">
-                                    <img alt="" src="images/Residential/Interior/remodeling.jpg">
-                                </div>
-                                <div class="wt-info p-tb30">
-                                    <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Remodeling</a>
-                                    </h4>
-                                    <p>ARS Construction has the eye and passion to take your home to the next level. We
-                                        specialize in bathroom & kitchen remodels, room extensions, and add-ons.
-                                        Whatever you need we have the skill and experience to make it happen. We use the
-                                        most trusted brands and the latest equipment to correctly remodel your home. We
-                                        make sure to not cut corners and are always looking for the best methods to
-                                        complete your project. Give us a call to get started!
-                                    </p>
+                    <!-- LEFT PART -->
+                    <div class="col-md-3 col-sm-3 p-tb15">
+                        <!-- BROCHURES -->
+                        <div class="wt-box m-b30">
+                            <div class="text-left m-b20">
+                                <h4>Brochures</h4>
+                                <div class="wt-separator-outer">
+                                    <div class="wt-separator style-square">
+                                        <span class="separator-left bg-primary"></span>
+                                        <span class="separator-right bg-primary"></span>
+                                    </div>
                                 </div>
                             </div>
+                            <div class="wt-icon-box-wraper left bdr-1 bdr-gray p-a15 m-b15">
+                                <a class="btn-block" href="#">
+                                    <span class="text-black m-r10"><i class="fa fa-file-pdf-o"></i></span>
+                                    <strong class="text-uppercase text-black">Download .PDF</strong>
+                                </a>
+                            </div>
+                            <div class="wt-icon-box-wraper left bdr-1 bdr-gray p-a15 m-b15">
+                                <a class="btn-block" href="#">
+                                    <span class="text-black m-r10"><i class="fa fa-file-word-o"></i></span>
+                                    <strong class="text-uppercase text-black"> Download .DOC</strong>
+                                </a>
+                            </div>
+                            <div class="wt-icon-box-wraper left bdr-1 bdr-gray p-a15 m-b15">
+                                <a class="btn-block" href="#">
+                                    <span class="text-black m-r10"><i class="fa fa-file-powerpoint-o"></i></span>
+                                    <strong class="text-uppercase text-black">Download .PPT</strong>
+                                </a>
+                            </div>
+                        </div>
 
-                            <div class="item">
-                                <div class="aon-thum-bx">
-                                    <img alt="" src="images/Residential/Interior/Restoration.jpg">
-                                </div>
-                                <div class="wt-info p-tb30">
-                                    <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Restoration</a>
-                                    </h4>
-                                    <p>Having your home damaged by water or fire can be devastating. To relieve some
-                                        stress call ARS Construction and we will get to work immediately to get your
-                                        home back to normal. We make sure to use the latest products to clean out your
-                                        home. We make sure to remove any bacteria and ensure that the walls in your home
-                                        are dry before we start the re-build. We will also remove all burnt materials
-                                        and remove the scent of smoke before the re-build as well. If you have any
-                                        questions, one of our knowledgeable team members is ready to assist.
+
+                        <!-- CONTACT US -->
+                        <div class="widget bg-white  widget_getintuch">
+                        </div>
+                    </div>
+
+                    <!-- LEFT PART -->
+
+                    <!-- RIGHT PART -->
+                    <div class="col-md-9 col-sm-9 p-tb10">
+                        <!-- BLOG POST CAROUSEL -->
+                        <div class="section-content">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/8mKSitggwpA"
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen>
+
+                            </iframe>
+
+                            </div>
+                            <div class="wt-box">
+                                <h2>Glendale Chrysler Roofing Project</h2>
+                                <p>
+                                    To start this project we began with tearing out the existing roofing system, which
+                                    was approximately 5 inches or more. We installed a new drainage system, and replaced
+                                    a
+                                    large section of rusted metal decking. We then installed a Custom Tapered ISO System
+                                    Insulation, a fully adhered GenFlex Roofing Systems TPO .060mil System, and
+                                    all new coping cap and gravel stop edge metal detail.
+                                </p>
+                                <p>
+                                    This System includes a 20 Year Systems "No Dollar Limit" (NDL) Warranty that
+                                    includes 110MPH Wind, 2" hail as well as a Full Systems Warranty.
+                                </p>
+                            </div>
+                            <div class="row wt-box">
+
+                                <div class="col-md-6 col-12-sm">
+                                    <h2>Our Process</h2>
+                                    <p>Our team at ARS installed 26000sf Roofing Project and HVAC Project:
+                                        Removal of Multiple Layers of Foam, Gravel, Built Up Roofing
+                                        Installation of Fully Tapered ISO System with HD Guard ISO
+                                        GenFlex Roofing Systems .060mil TPO Installation Fully Adhered
                                     </p>
                                 </div>
-                            </div>
+                                <div class="col-md-6 col-12-sm">
+                                    <h2>Watch More</h2>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/0btZOQrtQ6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-                        </div>
-                        <!--fade slider END-->
-                    </div>
-                    <div class="col-md-5 col-sm-5">
-                        <div class="text-justify">
-                            <h2 class="text-uppercase">Interior Home Improvement</h2>
-                            <p>Are you needing a change to the inside of your home? Has the interior been damaged from
-                                water or fire? If so, ARS Construction is the premier contractor in Eureka and Wildwood,
-                                MO. For over 15 years, we have provided our clients with top-quality craftsmanship when
-                                it comes to home remodels and restoration. We work quickly and precisely to ensure that
-                                your remodel or restoration is done correctly and on time. </p>
-                            <p>To schedule your free consultation, give us a call and one of our talented team members
-                                will be ready to assist you. We will go over exactly what you are looking for,
-                                materials, budgets, and timelines. Together we will come up with a plan and get right to
-                                work.</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
+                    <!-- RIGHT PART -->
                 </div>
             </div>
         </div>
+        <!-- SECTION CONTENT END -->
 
-        <!-- SECTION CONTENT START -->
-        <div class="section-full bg-white p-b50">
-
+        <!-- CONTENT END -->
     </div>
-
-
     <!-- CONTENT END -->
 
     <!-- FOOTER START -->
-        <footer class="site-footer footer-dark">
-            <?php include_once ('includes/footer.php'); ?>
-            <!-- FOOTER COPYRIGHT -->
-            <?php include_once ('includes/sub-footer.php'); ?>
-        </footer>
+<footer class="site-footer footer-dark">
+    <?php include_once ('includes/footer.php'); ?>
+    <!-- FOOTER COPYRIGHT -->
+    <?php include_once ('includes/sub-footer.php'); ?>
+</footer>
     <!-- FOOTER END -->
 
 
@@ -298,3 +333,5 @@ $ogMetaDescription='Does the outside of your home need updates? Need repairs don
 </body>
 
 </html>
+
+

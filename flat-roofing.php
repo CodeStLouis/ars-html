@@ -1,16 +1,20 @@
 <?php
-$Page='Residential';
-$Title='Residential Roofing in St. Louis, MO | Roofing Contractors St. Louis | ARS Construction';
-$Url='https://www.advancedroofsys.com/residential.php';
-$metaDescription='Residential Roofing in St. Louis, MO - Our roofing contractors provide an array of residential roofing services and interior/exterior construction services to homes across St. Louis. FREE roof inspection here.';
-$metaImage='/images/fleet.jpg';
-$ogMetaDescription='ARS Construction specializes in roof repairs, replacements, and installations for residential homes.';
-$content1='Our full-service roofing company in St. Louis handles everything from consultation and design all the way to the full installation, repair, and maintenance of one of the most important structures in your home — your roof. As a family-owned business ourselves, we take great pride in helping protect YOUR family with a high-quality roof over their head. ';
-$content2='With any roofing project we perform, we believe that you should be able to rest easy knowing that the job was done right the first time, giving you peace of mind long past the date of our visit.   We not only work quickly and precisely, but we clean up at the end of each workday to remove any dangerous equipment that could harm you or your family';
-$jobTitle='Residential Roofing & Services';
-$sliderImg1='https://ik.imagekit.io/codestl/residential-roof-1-sm_kkTv3BtS7O.jpg';
-$sliderImg2='https://ik.imagekit.io/codestl/services/landscaping_hHXRf8MDEL.jpg';
-$sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xWon3_w3N.jpg';
+$Page='Flat Roofing Services';
+$Title='ARS Construction | Flat Roofing St Louis Services';
+$Url='https://www.advancedroofsys.com/flat-roofing.php';
+$metaDescription='Because Slate Roofing materials are non-absorbent and solid, they make a great option for homes and businesses alike.';
+$metaImage='https://ik.imagekit.io/codestl/slate2_lHPRR1NHq.jpg';
+$ogMetaDescription='Because Slate Roofing materials are non-absorbent and solid, they make a great option for homes and businesses alike.';
+$jobTitle='Flat Roofing';
+$content1='Flat roofing in St. Louis is becoming a popular choice with businesses and even homeowners alike. While standard sloped roofs 
+typically have shingles that overlap like fish scales, a flat roof is designed as a monolithic surface that is easy to install/repair 
+and typically low-maintenance ';
+$content2='At ARS Construction, we can install and repair three different types of flat roofs, including built-up roofs (BUR), modified bitumen roofs (MBR), and rubber membrane roofs (EPDM). 
+There are pros and cons to each roof type, which is why we will help you choose the best option to meet your needs and application ';
+$sliderImg1='https://ik.imagekit.io/codestl/flat-roof_qFbzavsUL.jpg';
+$sliderImg2='https://ik.imagekit.io/codestl/services/flatroof_KjwgtG46H.jpg';
+$sliderImg3='https://ik.imagekit.io/codestl/services/re-roofing-and-hvac_U9jCNTs7Pb.png';
+
 ?>
 
 <!DOCTYPE html>
@@ -39,11 +43,11 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
     <div class="page-content  bg-white">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(https://ik.imagekit.io/codestl/different-hous-sm_TAEWFXiLBr.jpg);">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(https://ik.imagekit.io/codestl/fleet_tQnoOrUE7.jpg);">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
-                    <h1 class="text-white">Residential Roofing Services</h1>
+                    <h1 class="text-white"><?php echo $jobTitle;?></h1>
                 </div>
             </div>
         </div>
@@ -54,7 +58,7 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
                     <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
-                    <li>Service Details</li>
+                    <li><?php echo $jobTitle;?></li>
                 </ul>
             </div>
         </div>
@@ -126,8 +130,6 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
 
     <!-- SCROLL TOP BUTTON -->
     <button class="scroltop"><span class=" iconmoon-house relative" id="btn-vibrate"></span>Top</button>
-
-
 </div>
 <!-- firebase scripts -->
 <!-- The core Firebase JS SDK is always required and must be listed first -->
@@ -213,5 +215,4 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
 </body>
 
 </html>
-
 

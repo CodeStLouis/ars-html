@@ -1,16 +1,17 @@
 <?php
-$Page='Residential';
-$Title='Residential Roofing in St. Louis, MO | Roofing Contractors St. Louis | ARS Construction';
-$Url='https://www.advancedroofsys.com/residential.php';
-$metaDescription='Residential Roofing in St. Louis, MO - Our roofing contractors provide an array of residential roofing services and interior/exterior construction services to homes across St. Louis. FREE roof inspection here.';
-$metaImage='/images/fleet.jpg';
-$ogMetaDescription='ARS Construction specializes in roof repairs, replacements, and installations for residential homes.';
-$content1='Our full-service roofing company in St. Louis handles everything from consultation and design all the way to the full installation, repair, and maintenance of one of the most important structures in your home — your roof. As a family-owned business ourselves, we take great pride in helping protect YOUR family with a high-quality roof over their head. ';
-$content2='With any roofing project we perform, we believe that you should be able to rest easy knowing that the job was done right the first time, giving you peace of mind long past the date of our visit.   We not only work quickly and precisely, but we clean up at the end of each workday to remove any dangerous equipment that could harm you or your family';
-$jobTitle='Residential Roofing & Services';
-$sliderImg1='https://ik.imagekit.io/codestl/residential-roof-1-sm_kkTv3BtS7O.jpg';
-$sliderImg2='https://ik.imagekit.io/codestl/services/landscaping_hHXRf8MDEL.jpg';
-$sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xWon3_w3N.jpg';
+$Page='Industrial Roofing Services';
+$Title='ARS Construction | Industrial Roofing St Louis Services';
+$Url='https://www.advancedroofsys.com/industrial-roofing.php';
+$metaDescription='Roofing materials used in the manufacturing industry experience more wear and tear than residential properties. This is because manufacturing’s chemicals, exhausts, and residues can break down most types of roofing materials';
+$metaImage='https://ik.imagekit.io/codestl/slate2_lHPRR1NHq.jpg';
+$ogMetaDescription='Roofing materials used in the manufacturing industry experience more wear and tear than residential properties. This is because manufacturing’s chemicals, exhausts, and residues can break down most types of roofing materials';
+$jobTitle='Industrial Roofing';
+$content1='Roofing materials used in the manufacturing industry experience more wear and tear than residential properties. This is because manufacturing’s chemicals, exhausts, and residues can break down most types of roofing materials. Also, extra care must be taken with roofing systems for businesses with sensitive operations — like the semi-conductor or food industries — where water, dust, or dirt falling from an improperly installed roof can cause problems ';
+$content2='This is why you need to have a roofing system that is properly installed and maintained the first time around. ARS Construction specializes in industrial roofing for a variety of commercial applications ';
+$sliderImg1='https://ik.imagekit.io/codestl/services/industrial_b67bDY8DK.jpg';
+$sliderImg2='https://ik.imagekit.io/codestl/services/industrial3_AjJog_dfKH.jpg';
+$sliderImg3='https://ik.imagekit.io/codestl/services/industrial2_2J93FF_GsH.jpg';
+
 ?>
 
 <!DOCTYPE html>
@@ -39,11 +40,11 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
     <div class="page-content  bg-white">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(https://ik.imagekit.io/codestl/different-hous-sm_TAEWFXiLBr.jpg);">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(https://ik.imagekit.io/codestl/services/fastenal_FjxcEAzA3h.jpg);">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
-                    <h1 class="text-white">Residential Roofing Services</h1>
+                    <h1 class="text-white"><?php echo $jobTitle;?></h1>
                 </div>
             </div>
         </div>
@@ -54,7 +55,7 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
                     <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
-                    <li>Service Details</li>
+                    <li><?php echo $jobTitle;?></li>
                 </ul>
             </div>
         </div>
@@ -126,8 +127,6 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
 
     <!-- SCROLL TOP BUTTON -->
     <button class="scroltop"><span class=" iconmoon-house relative" id="btn-vibrate"></span>Top</button>
-
-
 </div>
 <!-- firebase scripts -->
 <!-- The core Firebase JS SDK is always required and must be listed first -->
@@ -213,5 +212,4 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
 </body>
 
 </html>
-
 

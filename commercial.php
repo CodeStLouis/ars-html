@@ -1,11 +1,22 @@
 <?php
-$Page='Contact Us';
-$Title='ARS Construction | Commercial Roofing St. Louis';
-$Url='https://www.advancedroofsys.com/commercial-roofing-services';
-$metaDescription='We know the importance of making sure that your business runs smoothly on all parts, and that also includes your roofs. If you are experiencing leaks or need a new roof, let the experts at ARS Construction be the ones to professionally repair or install your commercial roofs.';
-$metaImage='/images/fleet.jpg';
-$ogMetaDescription='We know the importance of making sure that your business runs smoothly on all parts, and that also includes your roofs. If you are experiencing leaks or need a new roof, let the experts at ARS Construction be the ones to professionally repair or install your commercial roofs.'
+$Page='Commercial Construction Services';
+$Title='ARS Construction | Commercial Construction';
+$Url='https://www.advancedroofsys.com/commercial.php';
+$metaDescription='As a full-service commercial roofing company located in St Louis Missouri we service all commercial construction projects';
+$metaImage='';
+$ogMetaDescription='As a full-service commercial roofing company located in St Louis Missouri we service all commercial construction projects';
+$jobTitle='Commercial Roofing';
+$content1='As a full-service commercial roofing company, we know that keeping your business flowing smoothly means never having to worry about roof leaks or anything else that might cause interruptions. Therefore,
+ it is critical to have the highest quality materials installed in the first place to keep your roof in good working
+  condition for years to come. ';
+$content2='No matter if your business residence is being built from the ground up or your existing roof is in need of repair or replacement, you can trust ARS Construction to provide top-of-the-line professional
+ service. Most importantly, we can be in and out in no time, allowing you to avoid costly downtime';
+$sliderImg1='https://ik.imagekit.io/codestl/Glendale2_bcNCTW5fK.jpg';
+$sliderImg2='https://ik.imagekit.io/codestl/services/hvac_ZH9azCWSR.jpg';
+$sliderImg3='https://ik.imagekit.io/codestl/services/re-roofing-and-hvac_U9jCNTs7Pb.png';
+
 ?>
+
 <!DOCTYPE html>
 
 <html lang="en">
@@ -32,11 +43,11 @@ $ogMetaDescription='We know the importance of making sure that your business run
     <div class="page-content  bg-white">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/dealership/dealer4.jpg);">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(https://ik.imagekit.io/codestl/services/chinese_h8lyJIW9hp.jpg);">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
-                    <h1 class="text-white">Glendale Chrysler Jeep Dodge Ram</h1>
+                    <h1 class="text-white">Commercial Roofing & Construction</h1>
                 </div>
             </div>
         </div>
@@ -47,7 +58,7 @@ $ogMetaDescription='We know the importance of making sure that your business run
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
                     <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
-                    <li>Glendale Chrysler Project</li>
+                    <li>Commercial Construction</li>
                 </ul>
             </div>
         </div>
@@ -58,94 +69,48 @@ $ogMetaDescription='We know the importance of making sure that your business run
             <div class="container  bg-white ">
                 <div class="row">
                     <!-- LEFT PART -->
-                    <div class="col-md-3 col-sm-3 p-tb15">
+                    <div class="section-content">
+                        <div class="section-head text-center">
+                            <h2 class="text-uppercase"><?php echo $jobTitle;?></h2>
+                            <div class="wt-separator-outer">
+                                <div class="wt-separator style-square">
+                                    <span class="separator-left bg-primary"></span>
+                                    <span class="separator-right bg-primary"></span>
+                                </div>
+                            </div>
+                        </div>
+                    <!-- LEFT PART -->
+                    <div class="col-md-4 col-sm-4 p-tb15">
                         <!-- BROCHURES -->
-                        <div class="wt-box m-b30">
-                            <div class="text-left m-b20">
-                                <h4>Brochures</h4>
-                                <div class="wt-separator-outer">
-                                    <div class="wt-separator style-square">
-                                        <span class="separator-left bg-primary"></span>
-                                        <span class="separator-right bg-primary"></span>
+                        <div class="wt-box m-b30 text-left">
+                            <p><?php echo $content1;?></p><br>
+                            <p><?php echo $content2;?></p>
+                        </div>
+                    </div>
+                    <!-- RIGHT PART -->
+                    <div class="col-md-8 col-sm-8 p-tb10">
+                        <!-- BLOG POST CAROUSEL -->
+                            <div class="owl-carousel service-detail-carousel owl-btn-vertical-center owl-dots-bottom-center container" style=" width:100%">
+                                <div class="item">
+                                    <div class="aon-thum-bx">
+                                        <img alt="" src="<?php echo $sliderImg1;?>">
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="aon-thum-bx">
+                                        <img alt="" src="<?php echo $sliderImg2;?>">
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="aon-thum-bx">
+                                        <img alt="" src="<?php echo $sliderImg3;?>">
                                     </div>
                                 </div>
                             </div>
-                            <div class="wt-icon-box-wraper left bdr-1 bdr-gray p-a15 m-b15">
-                                <a class="btn-block" href="#">
-                                    <span class="text-black m-r10"><i class="fa fa-file-pdf-o"></i></span>
-                                    <strong class="text-uppercase text-black">Download .PDF</strong>
-                                </a>
-                            </div>
-                            <div class="wt-icon-box-wraper left bdr-1 bdr-gray p-a15 m-b15">
-                                <a class="btn-block" href="#">
-                                    <span class="text-black m-r10"><i class="fa fa-file-word-o"></i></span>
-                                    <strong class="text-uppercase text-black"> Download .DOC</strong>
-                                </a>
-                            </div>
-                            <div class="wt-icon-box-wraper left bdr-1 bdr-gray p-a15 m-b15">
-                                <a class="btn-block" href="#">
-                                    <span class="text-black m-r10"><i class="fa fa-file-powerpoint-o"></i></span>
-                                    <strong class="text-uppercase text-black">Download .PPT</strong>
-                                </a>
-                            </div>
-                        </div>
-
-
-                        <!-- CONTACT US -->
-                        <div class="widget bg-white  widget_getintuch">
-                        </div>
-                    </div>
-
-                    <!-- LEFT PART -->
-
-                    <!-- RIGHT PART -->
-                    <div class="col-md-9 col-sm-9 p-tb10">
-                        <!-- BLOG POST CAROUSEL -->
-                        <div class="section-content">
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/8mKSitggwpA"
-                                    frameborder="0"
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen>
-
-                            </iframe>
-
-                            </div>
-                            <div class="wt-box">
-                                <h2> Installed Genflex TPO Roofing System</h2>
-                                <p>
-                                    To start this project we began with tearing out the existing roofing system, which
-                                    was approximately 5 inches or more. We installed a new drainage system, and replaced
-                                    a
-                                    large section of rusted metal decking. We then installed a Custom Tapered ISO System
-                                    Insulation (R30_), a fully adhered Genflex Roofing Systems TPO .060mil System, and
-                                    all new coping cap and gravel stop edge metal detail
-                                </p>
-
-                                <p>
-                                    This System included a 20 Year Systems "No Dollar Limit" (NDL) Warranty that
-                                    includes 110MPH Wind, 2" hail and a Full Systems Warranty
-                                </p>
-                            </div>
-                            <div class="row wt-box">
-
-                                <div class="col-md-6 col-12-sm">
-                                    <h2>Glendale Part 2</h2>
-                                    <p>Our team at ARS installed 26000sf Roofing Project and HVAC Project:
-                                        Removal of Multiple Layers of Foam, Gravel, Built Up Roofing
-                                        Installation of Fully Tapered ISO System with HD Guard ISO
-                                        GenFlex Roofing Systems .060mil TPO Installation Fully Adhered
-                                    </p>
-                                </div>
-                                <div class="col-md-6 col-12-sm">
-                                    <h2>Glendale Part 2</h2>
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/0btZOQrtQ6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-                                </div>
                             </div>
                         </div>
                     </div>
                     <!-- RIGHT PART -->
-                </div>
             </div>
         </div>
         <!-- SECTION CONTENT END -->
@@ -165,83 +130,6 @@ $ogMetaDescription='We know the importance of making sure that your business run
 
     <!-- SCROLL TOP BUTTON -->
     <button class="scroltop"><span class=" iconmoon-house relative" id="btn-vibrate"></span>Top</button>
-
-    <!-- MODAL  LOGIN -->
-    <div class="modal fade " id="Login-form" role="dialog">
-        <div class="modal-dialog modal-sm">
-            <!-- Modal content-->
-            <div class="modal-content">
-                <div class="modal-header bg-primary">
-                    <button class="close" data-dismiss="modal" type="button">&times;</button>
-                    <h4 class="modal-title text-white">Login Your Account</h4>
-                </div>
-                <div class="modal-body p-a30">
-                    <form id="log-form">
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                                <input class="form-control" placeholder="Enter Username" type="text">
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                                <input class="form-control" placeholder="Enter email" type="email">
-                            </div>
-                        </div>
-                        <button class="site-button-secondry text-uppercase btn-block m-b10" type="button">Submit
-                        </button>
-                        <span class="font-12">Don't have an account? <a class="text-primary" href="javascript:">Register Here</a></span>
-                    </form>
-                </div>
-                <div class="modal-footer text-center">
-                    <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- MODAL  REGISTER -->
-    <div class="modal fade " id="Register-form" role="dialog">
-        <div class="modal-dialog modal-sm">
-            <!-- Modal content-->
-            <div class="modal-content">
-                <div class="modal-header bg-primary">
-                    <button class="close" data-dismiss="modal" type="button">&times;</button>
-                    <h4 class="modal-title text-white">Register here</h4>
-                </div>
-                <div class="modal-body p-a30">
-                    <form id="reg-form">
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                                <input class="form-control" placeholder="Enter Username" type="text">
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                                <input class="form-control" placeholder="Enter email" type="email">
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-key"></i></span>
-                                <input class="form-control" placeholder="Enter Password" type="email">
-                            </div>
-                        </div>
-                        <button class="site-button-secondry text-uppercase btn-block m-b10" type="button">Submit
-                        </button>
-                        <span class="font-12">Already Have an Account? <a class="text-primary"
-                                                                          href="javascript:">Login</a></span>
-                    </form>
-                </div>
-                <div class="modal-footer text-center">
-                    <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
-                </div>
-            </div>
-        </div>
-    </div>
 </div>
 <!-- firebase scripts -->
 <!-- The core Firebase JS SDK is always required and must be listed first -->
@@ -327,5 +215,4 @@ $ogMetaDescription='We know the importance of making sure that your business run
 </body>
 
 </html>
-
 
