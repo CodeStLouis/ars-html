@@ -68,25 +68,29 @@ $pageActive='';
                             <span class="separator-right bg-primary"></span>
                         </div>
                     </div>
-                    <p>
-                        ARS Construction is a family owned construction business, who has been successfully servicing
-                        the greater St. Louis area since 2001. We specialize in both interior and exterior construction
-                        projects. In 2020 we as a family, decided to move our headquarters to Wildwood, MO.
-                    </p>
-                    <p>At ARS Construction, our main priority is delivering the best customer service. We accomplish
-                        this by making sure we have the right team. Each member has the training and experience to
-                        handle any size job. We make sure to stay up-to-date on the latest trends so that we can answer
-                        any of your questions. If you are not sure about what would work best, our team is ready to help
-                        come up with a plan that you will be happy with. If you are ready for a change, call us
-                        today!</p>
-                    <p>
-                        The ARS team has been assembled to provide 24-hour service. We have been trained on all levels
-                        of the construction process. Using state-of-the art equipment, we can design your project
-                        remotely, allowing social distancing if needed. Or, we are happy to come to your home to provide
-                        details and options on your next project. The ARS team is much more than a group of construction
-                        guys. We are a family and work to convey that point of view to our customers who we treat as an
-                        extension of our family
-                    </p>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <img alt="Residential Roofing St " src="images/ars/residential-roofing-3-sm.jpg">
+                        </div>
+                        <div class="col-md-6 text-left">
+                            <p>At ARS Construction, our main priority is delivering the best customer service. We accomplish
+                                this by making sure we have the right team. Each member has the training and experience to
+                                handle any size job. We make sure to stay up-to-date on the latest trends so that we can answer
+                                any of your questions. If you are not sure about what would work best, our team is ready to help
+                                come up with a plan that you will be happy with. If you are ready for a change, call us
+                                today!</p>
+
+                            <p>
+                                The ARS team has been assembled to provide 24-hour emergency services. We have been trained on all levels
+                                of the construction process. Using state-of-the art equipment, we can design your project
+                                remotely, allowing social distancing if needed. Or, we are happy to come to your home to provide
+                                details and options on your next project. The ARS team is much more than a group of construction
+                                guys. We are a family and work to convey that point of view to our customers who we treat as an
+                                extension of our family
+                            </p>
+                        </div>
+                    </div>
+
                 </div>
                 <!-- TITLE END -->
 
@@ -109,102 +113,24 @@ $pageActive='';
 
             <!-- TITTLE START -->
             <div class="section-head text-center">
-                <h2 class="text-uppercase">Our team</h2>
+                <h2 class="text-uppercase">Family-Owned Roofing Company in St. Louis</h2>
                 <div class="wt-separator-outer">
                     <div class="wt-separator style-square">
                         <span class="separator-left bg-primary"></span>
                         <span class="separator-right bg-primary"></span>
                     </div>
                 </div>
-                <p>Over the last 20 years, ARS Construction has built an experienced team that takes pride in our every project using the best products for the job.
-                Thank you St Louis and beyond for supporting us in this great journey</p>
+                <p>We are a family-owned business in St. Louis and, as such, we are able to give you personalized
+                    attention with every service call. Whether it's roofing, interior, or exterior services, we
+                    provide an array of construction solutions for both residential and commercial properties of all
+                    kinds. </p>
+
+                <p>Since 2001, our steadfast integrity has allowed us to provide home and business owners in the
+                    metro area with the highest quality service that never cuts corners. This allows us to lead the
+                    way and distinguish ourselves as the best roofing company in St. Louis!</p>
+
             </div>
             <!-- TITLE END -->
-
-            <div class="section-content">
-                <div class="row">
-
-                    <!-- COLUMNS 1 -->
-                    <div class="col-md-3 col-sm-6 col-xs-6 col-xs-100pc m-tb15">
-                        <div class="wt-team-one bg-white p-a10">
-                            <div class="wt-team-media">
-                                <a href="javascript:void(0);"><img alt="Kevin Larson" src="images/kevin-larson.jpg" width="70%" ></a>
-                            </div>
-                            <div class="wt-team-info text-center bg-white p-a10">
-                                <h4 class="wt-team-title"><a href="javascript:void(0);">Kevin Larson</a></h4>
-                                <p>President </p>
-                                <ul class="social-icons social-square social-dark">
-                                    <li><a class="fa fa-facebook" href="https://www.facebook.com/AdvancedRoofs/"></a></li>
-                                    <li><a class="fa fa-linkedin" href="#"></a></li>
-                                    <li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UChAI_u8qlCWm3-LvbF_Z0Nw"></a></li>
-                                    <li><a class="fa fa-google" href="https://g.page/AdvancedRoofs?gm"></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- COLUMNS 2 -->
-                    <div class="col-md-3 col-sm-6 col-xs-6 col-xs-100pc m-tb15">
-                        <div class="wt-team-one bg-white p-a10 ">
-                            <div class="wt-team-media ">
-                                <a href="javascript:void(0);"><img alt="" src="images/larson.jpg"></a>
-                            </div>
-                            <div class="wt-team-info text-center bg-white p-a10">
-                                <h4 class="wt-team-title"><a href="javascript:void(0);">Christian Larson</a></h4>
-                                <p>VP of Operations</p>
-                                <ul class="social-icons social-square social-dark">
-                                    <ul class="social-icons social-square social-dark">
-                                        <li><a class="fa fa-facebook" href="https://www.facebook.com/AdvancedRoofs/"></a></li>
-                                        <li><a class="fa fa-linkedin" href="#"></a></li>
-                                        <li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UChAI_u8qlCWm3-LvbF_Z0Nw"></a></li>
-                                        <li><a class="fa fa-google" href="https://g.page/AdvancedRoofs?gm"></a></li>
-                                    </ul>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- COLUMNS 3 -->
-                    <div class="col-md-3 col-sm-6 col-xs-6 col-xs-100pc m-tb15">
-                        <div class="wt-team-one  bg-white p-a10">
-                            <div class="wt-team-media">
-                                <a href="javascript:void(0);"><img alt="" src="images/our-team2/pic-3.jpg"></a>
-                            </div>
-                            <div class="wt-team-info text-center bg-white p-a10">
-                                <h4 class="wt-team-title"><a href="javascript:void(0);">Zeppy the turd </a></h4>
-                                <p>Head Janitor</p>
-                                <ul class="social-icons social-square social-dark">
-                                    <ul class="social-icons social-square social-dark">
-                                        <li><a class="fa fa-facebook" href="https://www.facebook.com/AdvancedRoofs/"></a></li>
-                                        <li><a class="fa fa-linkedin" href="#"></a></li>
-                                        <li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UChAI_u8qlCWm3-LvbF_Z0Nw"></a></li>
-                                        <li><a class="fa fa-google" href="https://g.page/AdvancedRoofs?gm"></a></li>
-                                    </ul>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- COLUMNS 4 -->
-                    <div class="col-md-3 col-sm-6 col-xs-6 col-xs-100pc m-tb15">
-                        <div class="wt-team-one  bg-white p-a10">
-                            <div class="wt-team-media">
-                                <a href="javascript:void(0);"><img alt="" src="images/our-team2/pic-4.jpg"></a>
-                            </div>
-                            <div class="wt-team-info text-center bg-white p-a10">
-                                <h4 class="wt-team-title"><a href="javascript:void(0);">John SOmeone </a></h4>
-                                <p>Project Lead</p>
-                                <ul class="social-icons social-square social-dark">
-                                    <ul class="social-icons social-square social-dark">
-                                        <li><a class="fa fa-facebook" href="https://www.facebook.com/AdvancedRoofs/"></a></li>
-                                        <li><a class="fa fa-linkedin" href="#"></a></li>
-                                        <li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UChAI_u8qlCWm3-LvbF_Z0Nw"></a></li>
-                                        <li><a class="fa fa-google" href="https://g.page/AdvancedRoofs?gm"></a></li>
-                                    </ul>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
 
         </div>
     </div>

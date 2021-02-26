@@ -33,18 +33,6 @@ $pageActive='';
     <!-- CONTENT START -->
     <div class="page-content">
 
-        <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/ars/team_ars.jpg); height: 500px !important">
-            <div class="overlay-main bg-black opacity-02"></div>
-            <div class="container">
-                <div class="wt-bnr-inr-entry">
-                    <h1 class="text-white">Pay An Invoice</h1>
-                </div>
-            </div>
-        </div>
-        <!-- INNER PAGE BANNER END -->
-
-        <!-- BREADCRUMB ROW -->
         <div class="bg-gray-light p-tb20">
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
@@ -68,7 +56,7 @@ $pageActive='';
                             <span class="separator-right bg-primary"></span>
                         </div>
                     </div>
-                 <iframe src="https://quickclick.com/r/woxyz" title="ARS Payment Portal Hosted By USIO" frameborder="0" width="100%" height="1000"></iframe>
+                 <!--<iframe allowpaymentrequest  target="iframe_name" src="https://quickclick.com/r/xtmtj" title="ARS Payment Portal Hosted By USIO" frameborder="0" width="100%" height="1000px"></iframe>-->
                 </div>
                 <!-- TITLE END -->
 

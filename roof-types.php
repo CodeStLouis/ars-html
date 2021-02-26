@@ -1,16 +1,16 @@
 <?php
-$Page='Residential';
-$Title='Residential Roofing in St. Louis, MO | Roofing Contractors St. Louis | ARS Construction';
-$Url='https://www.advancedroofsys.com/residential.php';
-$metaDescription='Residential Roofing in St. Louis, MO - Our roofing contractors provide an array of residential roofing services and interior/exterior construction services to homes across St. Louis. FREE roof inspection here.';
-$metaImage='/images/fleet.jpg';
-$ogMetaDescription='ARS Construction specializes in roof repairs, replacements, and installations for residential homes.';
-$content1='Our full-service roofing company in St. Louis handles everything from consultation and design all the way to the full installation, repair, and maintenance of one of the most important structures in your home — your roof. As a family-owned business ourselves, we take great pride in helping protect YOUR family with a high-quality roof over their head. ';
-$content2='With any roofing project we perform, we believe that you should be able to rest easy knowing that the job was done right the first time, giving you peace of mind long past the date of our visit.   We not only work quickly and precisely, but we clean up at the end of each workday to remove any dangerous equipment that could harm you or your family';
-$jobTitle='Residential Roofing & Services';
-$sliderImg1='https://ik.imagekit.io/codestl/residential-roof-1-sm_kkTv3BtS7O.jpg';
-$sliderImg2='https://ik.imagekit.io/codestl/services/landscaping_hHXRf8MDEL.jpg';
-$sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xWon3_w3N.jpg';
+$Page='Residential Roofing Services';
+$Title='ARS Construction | Residential Roofing';
+$Url='https://www.advancedroofsys.com/commercial.php';
+$metaDescription='';
+$metaImage='';
+$ogMetaDescription='';
+$jobTitle='';
+$jobDesc='';
+$sliderImg1='';
+$sliderImg2='';
+$sliderImg3='';
+
 ?>
 
 <!DOCTYPE html>
@@ -39,11 +39,11 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
     <div class="page-content  bg-white">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(https://ik.imagekit.io/codestl/different-hous-sm_TAEWFXiLBr.jpg);">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/salvation-army/salvation-army-1.jpg);">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
-                    <h1 class="text-white">Residential Roofing Services</h1>
+                    <h1 class="text-white">Roof Types</h1>
                 </div>
             </div>
         </div>
@@ -54,7 +54,7 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
                     <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
-                    <li>Service Details</li>
+                    <li>Roof Types</li>
                 </ul>
             </div>
         </div>
@@ -65,67 +65,89 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
             <div class="container  bg-white ">
                 <div class="row">
                     <!-- LEFT PART -->
-                    <div class="section-content">
-                        <div class="section-head text-center">
-                            <h2 class="text-uppercase"><?php echo $jobTitle;?></h2>
-                            <div class="wt-separator-outer">
-                                <div class="wt-separator style-square">
-                                    <span class="separator-left bg-primary"></span>
-                                    <span class="separator-right bg-primary"></span>
+                    <div class="col-md-3 col-sm-3 p-tb15">
+                        <!-- BROCHURES -->
+                        <div class="wt-box m-b30">
+                            <div class="text-left m-b20">
+                                <h4>Brochures</h4>
+                                <div class="wt-separator-outer">
+                                    <div class="wt-separator style-square">
+                                        <span class="separator-left bg-primary"></span>
+                                        <span class="separator-right bg-primary"></span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <!-- LEFT PART -->
-                        <div class="col-md-4 col-sm-4 p-tb15">
-                            <!-- BROCHURES -->
-                            <div class="wt-box m-b30 text-left">
-                                <p><?php echo $content1;?></p><br>
-                                <p><?php echo $content2;?></p>
-                            </div>
+
+
+                        <!-- CONTACT US -->
+                        <div class="widget bg-white  widget_getintuch">
                         </div>
-                        <!-- RIGHT PART -->
-                        <div class="col-md-8 col-sm-8 p-tb10">
-                            <!-- BLOG POST CAROUSEL -->
+                    </div>
+
+                    <!-- LEFT PART -->
+
+                    <!-- RIGHT PART -->
+                    <div class="col-md-9 col-sm-9 p-tb10">
+                        <!-- BLOG POST CAROUSEL -->
+
+                        <div class="section-content">
+                            <div class="section-head text-center">
+                                <h2 class="text-uppercase"><?php echo $roofType;?></h2>
+                                <div class="wt-separator-outer">
+                                    <div class="wt-separator style-square">
+                                        <span class="separator-left bg-primary"></span>
+                                        <span class="separator-right bg-primary"></span>
+                                    </div>
+                                </div>
+                                <p><?php echo $roofDescription;?></p>
+                            </div>
                             <div class="owl-carousel service-detail-carousel owl-btn-vertical-center owl-dots-bottom-center container" style=" width:100%">
+
                                 <div class="item">
                                     <div class="aon-thum-bx">
                                         <img alt="" src="<?php echo $sliderImg1;?>">
                                     </div>
                                 </div>
+
                                 <div class="item">
                                     <div class="aon-thum-bx">
                                         <img alt="" src="<?php echo $sliderImg2;?>">
                                     </div>
                                 </div>
+
                                 <div class="item">
                                     <div class="aon-thum-bx">
                                         <img alt="" src="<?php echo $sliderImg3;?>">
                                     </div>
                                 </div>
+
                             </div>
+
                         </div>
                     </div>
                 </div>
                 <!-- RIGHT PART -->
             </div>
         </div>
-        <!-- SECTION CONTENT END -->
-
-        <!-- CONTENT END -->
     </div>
+    <!-- SECTION CONTENT END -->
+
     <!-- CONTENT END -->
+</div>
+<!-- CONTENT END -->
 
-    <!-- FOOTER START -->
-    <footer class="site-footer footer-dark">
-        <?php include_once ('includes/footer.php'); ?>
-        <!-- FOOTER COPYRIGHT -->
-        <?php include_once ('includes/sub-footer.php'); ?>
-    </footer>
-    <!-- FOOTER END -->
+<!-- FOOTER START -->
+<footer class="site-footer footer-dark">
+    <?php include_once ('includes/footer.php'); ?>
+    <!-- FOOTER COPYRIGHT -->
+    <?php include_once ('includes/sub-footer.php'); ?>
+</footer>
+<!-- FOOTER END -->
 
 
-    <!-- SCROLL TOP BUTTON -->
-    <button class="scroltop"><span class=" iconmoon-house relative" id="btn-vibrate"></span>Top</button>
+<!-- SCROLL TOP BUTTON -->
+<button class="scroltop"><span class=" iconmoon-house relative" id="btn-vibrate"></span>Top</button>
 
 
 </div>
@@ -213,5 +235,4 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
 </body>
 
 </html>
-
 

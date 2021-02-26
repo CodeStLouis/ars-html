@@ -1,16 +1,18 @@
 <?php
-$Page='Residential';
-$Title='Residential Roofing in St. Louis, MO | Roofing Contractors St. Louis | ARS Construction';
-$Url='https://www.advancedroofsys.com/residential.php';
-$metaDescription='Residential Roofing in St. Louis, MO - Our roofing contractors provide an array of residential roofing services and interior/exterior construction services to homes across St. Louis. FREE roof inspection here.';
-$metaImage='/images/fleet.jpg';
-$ogMetaDescription='ARS Construction specializes in roof repairs, replacements, and installations for residential homes.';
-$content1='Our full-service roofing company in St. Louis handles everything from consultation and design all the way to the full installation, repair, and maintenance of one of the most important structures in your home — your roof. As a family-owned business ourselves, we take great pride in helping protect YOUR family with a high-quality roof over their head. ';
-$content2='With any roofing project we perform, we believe that you should be able to rest easy knowing that the job was done right the first time, giving you peace of mind long past the date of our visit.   We not only work quickly and precisely, but we clean up at the end of each workday to remove any dangerous equipment that could harm you or your family';
-$jobTitle='Residential Roofing & Services';
-$sliderImg1='https://ik.imagekit.io/codestl/residential-roof-1-sm_kkTv3BtS7O.jpg';
-$sliderImg2='https://ik.imagekit.io/codestl/services/landscaping_hHXRf8MDEL.jpg';
-$sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xWon3_w3N.jpg';
+$Page='Shingle Roofing Services';
+$Title='ARS Construction | Shingle Roofing St Louis Services';
+$Url='https://www.advancedroofsys.com/shingle-roofing.php';
+$metaDescription='Shingles are the most dynamic, durable, and affordable roofing material on the market today. In fact, most homes across the U.S. have shingle roofs, which is why we have made them a specialty here at ARS Construction';
+$metaImage='https://ik.imagekit.io/codestl/services/til3_AJSGETm-OC.jpg';
+$ogMetaDescription='Shingles are the most dynamic, durable, and affordable roofing material on the market today. In fact, most homes across the U.S. have shingle roofs, which is why we have made them a specialty here at ARS Construction';
+$jobTitle='Shingle Roofing';
+$content1='Shingles are the most dynamic, durable, and affordable roofing material on the market today. In fact, most homes across the U.S. have shingle roofs, which is why we have made them a specialty here at ARS Construction. Let us help you with the installation, repair, and maintenance of your shingle roof in St. Louis ';
+$content2='Shingles can be installed on just about any type of structure and do not require any special accessories. With options that include asphalt, shake, wood, copper, and more, we can help guide you to the right roofing choice to match your home’s vision, style, and budget. Their ease of installation and fire-resistance means you will never have to sacrifice durability for affordability with a shingle roof';
+
+$sliderImg1='https://ik.imagekit.io/codestl/services/tile_KLWSjYGXb.jpg';
+$sliderImg2='https://ik.imagekit.io/codestl/services/tile2_PtNQomMdw3w.jpg';
+$sliderImg3='https://ik.imagekit.io/codestl/services/til3_AJSGETm-OC.jpg';
+
 ?>
 
 <!DOCTYPE html>
@@ -39,11 +41,11 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
     <div class="page-content  bg-white">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(https://ik.imagekit.io/codestl/different-hous-sm_TAEWFXiLBr.jpg);">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(https://ik.imagekit.io/codestl/Jubilee/IMG-1235-RESIZED_F5PM6CgeK.JPG);">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
-                    <h1 class="text-white">Residential Roofing Services</h1>
+                    <h1 class="text-white"><?php echo $jobTitle;?></h1>
                 </div>
             </div>
         </div>
@@ -54,14 +56,14 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
                     <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
-                    <li>Service Details</li>
+                    <li><?php echo $jobTitle;?></li>
                 </ul>
             </div>
         </div>
         <!-- BREADCRUMB ROW END -->
 
         <!-- SECTION CONTENT -->
-        <div class="section-full  p-t80 p-b50  ">
+        <div class="section-full p-t80 p-b50  ">
             <div class="container  bg-white ">
                 <div class="row">
                     <!-- LEFT PART -->
@@ -80,29 +82,16 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
                             <!-- BROCHURES -->
                             <div class="wt-box m-b30 text-left">
                                 <p><?php echo $content1;?></p><br>
-                                <p><?php echo $content2;?></p>
+                                <p><?php echo $content2;?></p><br>
+
                             </div>
                         </div>
                         <!-- RIGHT PART -->
                         <div class="col-md-8 col-sm-8 p-tb10">
                             <!-- BLOG POST CAROUSEL -->
-                            <div class="owl-carousel service-detail-carousel owl-btn-vertical-center owl-dots-bottom-center container" style=" width:100%">
-                                <div class="item">
-                                    <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg1;?>">
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg2;?>">
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg3;?>">
-                                    </div>
-                                </div>
-                            </div>
+                            <video width="100%" src="https://ik.imagekit.io/codestl/services/Raw_footage___Delivering_42000sf_EHu3xiO8I8.mp4" preload="auto" controls>
+
+                            </video>
                         </div>
                     </div>
                 </div>
@@ -126,8 +115,6 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
 
     <!-- SCROLL TOP BUTTON -->
     <button class="scroltop"><span class=" iconmoon-house relative" id="btn-vibrate"></span>Top</button>
-
-
 </div>
 <!-- firebase scripts -->
 <!-- The core Firebase JS SDK is always required and must be listed first -->
@@ -213,5 +200,4 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
 </body>
 
 </html>
-
 

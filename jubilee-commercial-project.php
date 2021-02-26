@@ -9,9 +9,10 @@ $jobTitle = 'Jubilee World Roofing Project';
 $jobDesc = '
 <p> ARS is hard at work on a new Commercial Roofing Project: Jubilee World. The building formally St. Mary&apos;s Orphanage, was acquired by Jubilee World in 2015, was constructed in 1899 and dedicated in 1900.</p> 
 <p> This project is part of a massive facelift that has been undertaken since it&apos;s acquisition. As part of this, ARS, using only top of the line materials including Genflex TPO, and Malarkey Shingles, is helping modernize this century old historical building.</p> ';
-$sliderImg1 = '/images/jubilee-project/jubilee-1.jpg';
-$sliderImg2 = '/images/jubilee-project/jubilee-2.jpg';
-$sliderImg3 = '/images/jubilee-project/jubilee-5.jpg';
+$sliderImg1 = 'https://ik.imagekit.io/codestl/Jubilee/IMG-1235-RESIZED_F5PM6CgeK.JPG';
+$sliderImg2 = 'https://ik.imagekit.io/codestl/Jubilee/IMG-1234-RESIZED_PwES8lOtD.JPG';
+$sliderImg3 = 'https://ik.imagekit.io/codestl/Jubilee/IMG-1233-RESIZED_dtOCvcl8y.JPG';
+$sliderImg4 = 'https://ik.imagekit.io/codestl/Jubilee/IMG-1233-RESIZED_dtOCvcl8y.JPG';
 
 ?>
 
@@ -41,7 +42,7 @@ $sliderImg3 = '/images/jubilee-project/jubilee-5.jpg';
     <div class="page-content  bg-white">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/ARS-banner2.png);">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(https://ik.imagekit.io/codestl/jubilee-1_B6JikZjkBM.jpg);">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
@@ -140,6 +141,11 @@ $sliderImg3 = '/images/jubilee-project/jubilee-5.jpg';
                                 <div class="item">
                                     <div class="aon-thum-bx">
                                         <img alt="" src="<?php echo $sliderImg3; ?>">
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="aon-thum-bx">
+                                        <img alt="" src="<?php echo $sliderImg4; ?>">
                                     </div>
                                 </div>
 

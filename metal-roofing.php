@@ -1,16 +1,17 @@
 <?php
-$Page='Residential';
-$Title='Residential Roofing in St. Louis, MO | Roofing Contractors St. Louis | ARS Construction';
-$Url='https://www.advancedroofsys.com/residential.php';
-$metaDescription='Residential Roofing in St. Louis, MO - Our roofing contractors provide an array of residential roofing services and interior/exterior construction services to homes across St. Louis. FREE roof inspection here.';
-$metaImage='/images/fleet.jpg';
-$ogMetaDescription='ARS Construction specializes in roof repairs, replacements, and installations for residential homes.';
-$content1='Our full-service roofing company in St. Louis handles everything from consultation and design all the way to the full installation, repair, and maintenance of one of the most important structures in your home — your roof. As a family-owned business ourselves, we take great pride in helping protect YOUR family with a high-quality roof over their head. ';
-$content2='With any roofing project we perform, we believe that you should be able to rest easy knowing that the job was done right the first time, giving you peace of mind long past the date of our visit.   We not only work quickly and precisely, but we clean up at the end of each workday to remove any dangerous equipment that could harm you or your family';
-$jobTitle='Residential Roofing & Services';
-$sliderImg1='https://ik.imagekit.io/codestl/residential-roof-1-sm_kkTv3BtS7O.jpg';
-$sliderImg2='https://ik.imagekit.io/codestl/services/landscaping_hHXRf8MDEL.jpg';
-$sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xWon3_w3N.jpg';
+$Page='Metal Roofing Services';
+$Title='ARS Construction | Metal Roofing St Louis Services';
+$Url='https://www.advancedroofsys.com/metal-roofing.php';
+$metaDescription='Metal roofing in St. Louis is an excellent option for home and business owners looking for a strong, low-maintenance roofing system. Because they reflect much of the sun’s UV rays, they are a thermally-efficient alternative to traditional shingle roofing';
+$metaImage='https://ik.imagekit.io/codestl/services/metal2_R5FI-i5lj.jpg';
+$ogMetaDescription='Metal roofing in St. Louis is an excellent option for home and business owners looking for a strong, low-maintenance roofing system. Because they reflect much of the sun’s UV rays, they are a thermally-efficient alternative to traditional shingle roofing';
+$jobTitle='Metal Roofing';
+$content1='Metal roofing in St. Louis is an excellent option for home and business owners looking for a strong, low-maintenance roofing system. Because they reflect much of the sun’s UV rays, they are a thermally-efficient alternative to traditional shingle roofing ';
+$content2='With unrivaled durability that often lasts two to three times longer than other roofing systems, they have rapidly grown in popularity and demand across the nation. Our team is knowledgeable in a wide range of metal roof installation, repair, and maintenance methods and have experience in mechanical attachment and fully-adhered installations ';
+$sliderImg1='https://ik.imagekit.io/codestl/services/metal2_R5FI-i5lj.jpg';
+$sliderImg2='https://ik.imagekit.io/codestl/services/metal_-8iWfArEbE.jpg';
+// $sliderImg3='https://ik.imagekit.io/codestl/services/re-roofing-and-hvac_U9jCNTs7Pb.png';
+
 ?>
 
 <!DOCTYPE html>
@@ -39,11 +40,11 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
     <div class="page-content  bg-white">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(https://ik.imagekit.io/codestl/different-hous-sm_TAEWFXiLBr.jpg);">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(https://ik.imagekit.io/codestl/services/metal2_R5FI-i5lj.jpg);">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
-                    <h1 class="text-white">Residential Roofing Services</h1>
+                    <h1 class="text-white"><?php echo $jobTitle;?></h1>
                 </div>
             </div>
         </div>
@@ -54,7 +55,7 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
                     <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
-                    <li>Service Details</li>
+                    <li><?php echo $jobTitle;?></li>
                 </ul>
             </div>
         </div>
@@ -97,11 +98,11 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
                                         <img alt="" src="<?php echo $sliderImg2;?>">
                                     </div>
                                 </div>
-                                <div class="item">
+                                <!--<div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg3;?>">
+                                        <img alt="" src="<?php /*echo $sliderImg3;*/?>">
                                     </div>
-                                </div>
+                                </div>-->
                             </div>
                         </div>
                     </div>
@@ -126,8 +127,6 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
 
     <!-- SCROLL TOP BUTTON -->
     <button class="scroltop"><span class=" iconmoon-house relative" id="btn-vibrate"></span>Top</button>
-
-
 </div>
 <!-- firebase scripts -->
 <!-- The core Firebase JS SDK is always required and must be listed first -->
@@ -213,5 +212,4 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
 </body>
 
 </html>
-
 

@@ -1,16 +1,17 @@
 <?php
-$Page='Residential';
-$Title='Residential Roofing in St. Louis, MO | Roofing Contractors St. Louis | ARS Construction';
-$Url='https://www.advancedroofsys.com/residential.php';
-$metaDescription='Residential Roofing in St. Louis, MO - Our roofing contractors provide an array of residential roofing services and interior/exterior construction services to homes across St. Louis. FREE roof inspection here.';
-$metaImage='/images/fleet.jpg';
-$ogMetaDescription='ARS Construction specializes in roof repairs, replacements, and installations for residential homes.';
-$content1='Our full-service roofing company in St. Louis handles everything from consultation and design all the way to the full installation, repair, and maintenance of one of the most important structures in your home — your roof. As a family-owned business ourselves, we take great pride in helping protect YOUR family with a high-quality roof over their head. ';
-$content2='With any roofing project we perform, we believe that you should be able to rest easy knowing that the job was done right the first time, giving you peace of mind long past the date of our visit.   We not only work quickly and precisely, but we clean up at the end of each workday to remove any dangerous equipment that could harm you or your family';
-$jobTitle='Residential Roofing & Services';
-$sliderImg1='https://ik.imagekit.io/codestl/residential-roof-1-sm_kkTv3BtS7O.jpg';
-$sliderImg2='https://ik.imagekit.io/codestl/services/landscaping_hHXRf8MDEL.jpg';
-$sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xWon3_w3N.jpg';
+$Page='Siding & Exterior Services';
+$Title='ARS Construction | Siding & Exterior St Louis Services';
+$Url='https://www.advancedroofsys.com/siding.php';
+$metaDescription='Gutters are one of the first lines of defense to protect your home or business from environmental damage.';
+$metaImage='https://ik.imagekit.io/codestl/services/gutters_i_1zmwIu-i8.jpg';
+$ogMetaDescription='Gutters are one of the first lines of defense to protect your home or business from environmental damage.';
+$jobTitle='Siding & Exterior Services';
+$content1='The exterior of your house is one of the first things people notice when walking into your home. Make it a good first impression with siding that is beautiful and eye-catching without the premium price';
+$content2='ARS Construction is your source for high-quality siding installation, repair, and replacement. With its low-maintenance features and protection benefits, siding has been the top choice of many people building houses or those looking to remodel their existing homes. Plus, our wide selection of sizes, profiles, and grades can meet any architectural style and aesthetic you can dream of.';
+$sliderImg1='https://ik.imagekit.io/codestl/services/siding_kl1LTcUduso.jpg';
+$sliderImg2='https://ik.imagekit.io/codestl/services/siding_mmPxMX0JW.jpg';
+$sliderImg3='https://ik.imagekit.io/codestl/services/siding2_xgDV06aw3.jpg';
+
 ?>
 
 <!DOCTYPE html>
@@ -39,11 +40,11 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
     <div class="page-content  bg-white">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(https://ik.imagekit.io/codestl/different-hous-sm_TAEWFXiLBr.jpg);">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(https://ik.imagekit.io/codestl/services/siding3_HiRwefHwc.jpg);">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
-                    <h1 class="text-white">Residential Roofing Services</h1>
+                    <h1 class="text-white"><?php echo $jobTitle;?></h1>
                 </div>
             </div>
         </div>
@@ -54,7 +55,7 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
                     <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
-                    <li>Service Details</li>
+                    <li><?php echo $jobTitle;?></li>
                 </ul>
             </div>
         </div>
@@ -126,8 +127,6 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
 
     <!-- SCROLL TOP BUTTON -->
     <button class="scroltop"><span class=" iconmoon-house relative" id="btn-vibrate"></span>Top</button>
-
-
 </div>
 <!-- firebase scripts -->
 <!-- The core Firebase JS SDK is always required and must be listed first -->
@@ -213,5 +212,4 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
 </body>
 
 </html>
-
 

@@ -35,41 +35,43 @@
     -->
 
 
-    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
-    <link href="css/fontawesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-    <!-- FLATICON STYLE SHEET -->
-    <link href="css/flaticon.min.css" rel="stylesheet" type="text/css">
-    <!-- ANIMATE STYLE SHEET -->
-    <link href="css/animate.min.css" rel="stylesheet" type="text/css">
-    <!-- OWL CAROUSEL STYLE SHEET -->
-    <link href="css/owl.carousel.min.css" rel="stylesheet" type="text/css">
-    <!-- BOOTSTRAP SELECT BOX STYLE SHEET -->
-    <link href="css/bootstrap-select.min.css" rel="stylesheet" type="text/css">
-    <!-- MAGNIFIC POPUP STYLE SHEET -->
-    <link href="css/magnific-popup.min.css" rel="stylesheet" type="text/css">
-    <!-- LOADER STYLE SHEET -->
-    <link href="css/loader.min.css" rel="stylesheet" type="text/css">
-    <!-- MAIN STYLE SHEET -->
-    <link href="css/style.css" rel="stylesheet" type="text/css">
-    <link href="css/styles-embed-2019-06-10.css" rel="stylesheet" type="text/css">
-    <!-- THEME COLOR CHANGE STYLE SHEET -->
-    <link class="skin" href="css/skin/skin-12.css" rel="stylesheet" type="text/css">
-    <!-- CUSTOM  STYLE SHEET -->
-    <link href="css/custom.css" rel="stylesheet" type="text/css">
+   <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="../css/fontawesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+
+    <link href="../css/flaticon.min.css" rel="stylesheet" type="text/css">
+
+    <link href="../css/owl.carousel.min.css" rel="stylesheet" type="text/css">
+
+    <link href="../css/bootstrap-select.min.css" rel="stylesheet" type="text/css">
+
+    <link href="../css/loader.min.css" rel="stylesheet" type="text/css">
+
+    <link href="../css/style.css" rel="stylesheet" type="text/css">
 
 
-    <!-- REVOLUTION SLIDER CSS -->
-    <link href="plugins/revolution/revolution/css/settings.css" rel="stylesheet" type="text/css">
-    <!-- REVOLUTION NAVIGATION STYLE -->
-    <link href="plugins/revolution/revolution/css/navigation.css" rel="stylesheet" type="text/css">
+
+    <link class="skin" href="../css/skin/skin-12.css" rel="stylesheet" type="text/css">
+
+    <link href="../css/custom.css" rel="stylesheet" type="text/css">
 
 
-    <!-- GOOGLE FONTS -->
+
+    <link href="../plugins/revolution/revolution/css/settings.css" rel="stylesheet" type="text/css">
+
+    <link href="../plugins/revolution/revolution/css/navigation.css" rel="stylesheet" type="text/css">
+ <link rel="preload" href="/fonts/icomoon.ttf?rrsgby" as="font" crossorigin="anonymous" />
+ <link rel="preload" href="/fonts/icomoon.woff" as="font" crossorigin="anonymous" />
+ <link rel="preload" href="/css/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" crossorigin="anonymous" />
+    <link href="../css/owl.carousel.min.css" rel="stylesheet" type="text/css">
+
+    <link href="../css/home-page.css" rel="stylesheet" type="text/css">
+<!--
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,300italic,400italic,500,500italic,700,700italic,900italic,900'
           rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,800italic,800,700italic'
           rel='stylesheet' type='text/css'>
-    <link href="https://fonts.googleapis.com/css?family=Crete+Round:400,400i&amp;subset=latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Crete+Round:400,400i&amp;subset=latin-ext" rel="stylesheet">-->
     <!-- estimator js -->
 
     <script cid="2924" src="https://calculator.roofr.com/roofr-calculator.js"></script>

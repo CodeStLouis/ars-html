@@ -2,14 +2,18 @@
 $Page='Commercial Construction Services';
 $Title='ARS Construction | Commercial Construction';
 $Url='https://www.advancedroofsys.com/commercial.php';
-$metaDescription='';
+$metaDescription='As a full-service commercial roofing company located in St Louis Missouri we service all commercial construction projects';
 $metaImage='';
-$ogMetaDescription='';
-$jobTitle='';
-$jobDesc='';
-$sliderImg1='';
-$sliderImg2='';
-$sliderImg3='';
+$ogMetaDescription='As a full-service commercial roofing company located in St Louis Missouri we service all commercial construction projects';
+$jobTitle='Commercial Roofing';
+$content1='As a full-service commercial roofing company, we know that keeping your business flowing smoothly means never having to worry about roof leaks or anything else that might cause interruptions. Therefore,
+ it is critical to have the highest quality materials installed in the first place to keep your roof in good working
+  condition for years to come. ';
+$content2='No matter if your business residence is being built from the ground up or your existing roof is in need of repair or replacement, you can trust ARS Construction to provide top-of-the-line professional
+ service. Most importantly, we can be in and out in no time, allowing you to avoid costly downtime';
+$sliderImg1='https://ik.imagekit.io/codestl/Glendale2_bcNCTW5fK.jpg';
+$sliderImg2='https://ik.imagekit.io/codestl/services/hvac_ZH9azCWSR.jpg';
+$sliderImg3='https://ik.imagekit.io/codestl/services/re-roofing-and-hvac_U9jCNTs7Pb.png';
 
 ?>
 
@@ -39,11 +43,11 @@ $sliderImg3='';
     <div class="page-content  bg-white">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/salvation-army/salvation-army-1.jpg);">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(https://ik.imagekit.io/codestl/services/chinese_h8lyJIW9hp.jpg);">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
-                    <h1 class="text-white">Salvation Army</h1>
+                    <h1 class="text-white">Commercial Roofing & Construction</h1>
                 </div>
             </div>
         </div>
@@ -54,7 +58,7 @@ $sliderImg3='';
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
                     <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
-                    <li>Salvation Army Roofing Project</li>
+                    <li>Commercial Construction</li>
                 </ul>
             </div>
         </div>
@@ -65,88 +69,48 @@ $sliderImg3='';
             <div class="container  bg-white ">
                 <div class="row">
                     <!-- LEFT PART -->
-                    <div class="col-md-3 col-sm-3 p-tb15">
-                        <!-- BROCHURES -->
-                        <div class="wt-box m-b30">
-                            <div class="text-left m-b20">
-                                <h4>Brochures</h4>
-                                <div class="wt-separator-outer">
-                                    <div class="wt-separator style-square">
-                                        <span class="separator-left bg-primary"></span>
-                                        <span class="separator-right bg-primary"></span>
-                                    </div>
+                    <div class="section-content">
+                        <div class="section-head text-center">
+                            <h2 class="text-uppercase"><?php echo $jobTitle;?></h2>
+                            <div class="wt-separator-outer">
+                                <div class="wt-separator style-square">
+                                    <span class="separator-left bg-primary"></span>
+                                    <span class="separator-right bg-primary"></span>
                                 </div>
                             </div>
-                            <div class="wt-icon-box-wraper left bdr-1 bdr-gray p-a15 m-b15">
-                                <a class="btn-block" href="#">
-                                    <span class="text-black m-r10"><i class="fa fa-file-pdf-o"></i></span>
-                                    <strong class="text-uppercase text-black">Download .PDF</strong>
-                                </a>
-                            </div>
-                            <div class="wt-icon-box-wraper left bdr-1 bdr-gray p-a15 m-b15">
-                                <a class="btn-block" href="#">
-                                    <span class="text-black m-r10"><i class="fa fa-file-word-o"></i></span>
-                                    <strong class="text-uppercase text-black"> Download .DOC</strong>
-                                </a>
-                            </div>
-                            <div class="wt-icon-box-wraper left bdr-1 bdr-gray p-a15 m-b15">
-                                <a class="btn-block" href="#">
-                                    <span class="text-black m-r10"><i class="fa fa-file-powerpoint-o"></i></span>
-                                    <strong class="text-uppercase text-black">Download .PPT</strong>
-                                </a>
-                            </div>
                         </div>
-
-
-                        <!-- CONTACT US -->
-                        <div class="widget bg-white  widget_getintuch">
+                    <!-- LEFT PART -->
+                    <div class="col-md-4 col-sm-4 p-tb15">
+                        <!-- BROCHURES -->
+                        <div class="wt-box m-b30 text-left">
+                            <p><?php echo $content1;?></p><br>
+                            <p><?php echo $content2;?></p>
                         </div>
                     </div>
-
-                    <!-- LEFT PART -->
-
                     <!-- RIGHT PART -->
-                    <div class="col-md-9 col-sm-9 p-tb10">
+                    <div class="col-md-8 col-sm-8 p-tb10">
                         <!-- BLOG POST CAROUSEL -->
-
-                        <div class="section-content">
-                            <div class="section-head text-center">
-                                <h2 class="text-uppercase"><?php echo $jobTitle;?></h2>
-                                <div class="wt-separator-outer">
-                                    <div class="wt-separator style-square">
-                                        <span class="separator-left bg-primary"></span>
-                                        <span class="separator-right bg-primary"></span>
-                                    </div>
-                                </div>
-                                <p><?php echo $jobDesc;?></p>
-                            </div>
                             <div class="owl-carousel service-detail-carousel owl-btn-vertical-center owl-dots-bottom-center container" style=" width:100%">
-
                                 <div class="item">
                                     <div class="aon-thum-bx">
                                         <img alt="" src="<?php echo $sliderImg1;?>">
                                     </div>
                                 </div>
-
                                 <div class="item">
                                     <div class="aon-thum-bx">
                                         <img alt="" src="<?php echo $sliderImg2;?>">
                                     </div>
                                 </div>
-
                                 <div class="item">
                                     <div class="aon-thum-bx">
                                         <img alt="" src="<?php echo $sliderImg3;?>">
                                     </div>
                                 </div>
-
                             </div>
-
                             </div>
                         </div>
                     </div>
                     <!-- RIGHT PART -->
-                </div>
             </div>
         </div>
         <!-- SECTION CONTENT END -->
@@ -166,83 +130,6 @@ $sliderImg3='';
 
     <!-- SCROLL TOP BUTTON -->
     <button class="scroltop"><span class=" iconmoon-house relative" id="btn-vibrate"></span>Top</button>
-
-    <!-- MODAL  LOGIN -->
-    <div class="modal fade " id="Login-form" role="dialog">
-        <div class="modal-dialog modal-sm">
-            <!-- Modal content-->
-            <div class="modal-content">
-                <div class="modal-header bg-primary">
-                    <button class="close" data-dismiss="modal" type="button">&times;</button>
-                    <h4 class="modal-title text-white">Login Your Account</h4>
-                </div>
-                <div class="modal-body p-a30">
-                    <form id="log-form">
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                                <input class="form-control" placeholder="Enter Username" type="text">
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                                <input class="form-control" placeholder="Enter email" type="email">
-                            </div>
-                        </div>
-                        <button class="site-button-secondry text-uppercase btn-block m-b10" type="button">Submit
-                        </button>
-                        <span class="font-12">Don't have an account? <a class="text-primary" href="javascript:">Register Here</a></span>
-                    </form>
-                </div>
-                <div class="modal-footer text-center">
-                    <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- MODAL  REGISTER -->
-    <div class="modal fade " id="Register-form" role="dialog">
-        <div class="modal-dialog modal-sm">
-            <!-- Modal content-->
-            <div class="modal-content">
-                <div class="modal-header bg-primary">
-                    <button class="close" data-dismiss="modal" type="button">&times;</button>
-                    <h4 class="modal-title text-white">Register here</h4>
-                </div>
-                <div class="modal-body p-a30">
-                    <form id="reg-form">
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                                <input class="form-control" placeholder="Enter Username" type="text">
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                                <input class="form-control" placeholder="Enter email" type="email">
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <span class="input-group-addon"><i class="fa fa-key"></i></span>
-                                <input class="form-control" placeholder="Enter Password" type="email">
-                            </div>
-                        </div>
-                        <button class="site-button-secondry text-uppercase btn-block m-b10" type="button">Submit
-                        </button>
-                        <span class="font-12">Already Have an Account? <a class="text-primary"
-                                                                          href="javascript:">Login</a></span>
-                    </form>
-                </div>
-                <div class="modal-footer text-center">
-                    <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
-                </div>
-            </div>
-        </div>
-    </div>
 </div>
 <!-- firebase scripts -->
 <!-- The core Firebase JS SDK is always required and must be listed first -->
