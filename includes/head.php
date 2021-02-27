@@ -5,6 +5,7 @@
  <meta content="" name="keywords"/>
     <meta content="" name="author"/>
     <meta content="" name="robots"/>
+ <meta name="description"
  <meta property="og:url"                content="<?php echo $Url;?>" />
  <meta property="og:title"              content="<?php echo $Title;?>" />
  <meta property="description"           content="<?php echo $metaDescription;?>" />
@@ -74,7 +75,7 @@
     <link href="https://fonts.googleapis.com/css?family=Crete+Round:400,400i&amp;subset=latin-ext" rel="stylesheet">-->
     <!-- estimator js -->
 
-    <script cid="2924" src="https://calculator.roofr.com/roofr-calculator.js"></script>
+
 
     <!--
     TODO fix this structured data

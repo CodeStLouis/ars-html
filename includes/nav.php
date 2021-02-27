@@ -19,14 +19,12 @@
                             </li>
 
                             <li class="#">
-                                <a href="#">Roof Types<i class="fa fa-chevron-down"></i></a>
+                                <a href="#">Commercial<i class="fa fa-chevron-down"></i></a>
                                 <ul class="sub-menu">
                                     <li><a href="../shingle-roofing.php">Shingle Roofing</a></li>
-                                    <li><a href="../residential.php">Residential Roofing</a></li>
-                                    <li><a href="../commercial.php">Commercial Roofing</a></li>
                                     <li><a href="../slate-roofing.php">Slate Roofing</a></li>
-                                    <li><a href="../tile-roofing.php">Tile Roofing</a></li>
                                     <li><a href="../flat-roofing.php">Flat Roofing</a></li>
+                                    <li><a href="../tile-roofing.php">Tile Roofing</a></li>
                                     <li><a href="../metal-roofing.php">Metal Roofing</a></li>
                                     <li><a href="../industrial-roofing.php">Industrial Roofing</a></li>
 
