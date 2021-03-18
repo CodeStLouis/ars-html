@@ -1,6 +1,6 @@
 <?php
 $Page='24 Hour Emergency Services';
-$Title='24 Hour and Emergency Roofing in St. Louis, MO | 24 Hour Emergency Roofing and Construction Contractors St. Louis | ARS Construction';
+$Title='24 Hour and Emergency Roofing in St. Louis, Wildwood, MO | ARS Construction';
 $Url='https://www.advancedroofsys.com/24-hour-emergency.php';
 $metaDescription='Construction company in St. Louis, MO - Our Roofing Contractors work around the clock in case of an emergency for commercial and residential properties.';
 $metaImage='/images/fleet.jpg';
@@ -47,7 +47,7 @@ $sliderImg3='';
     <div class="page-content  bg-white">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/ars/team_ars.jpg);">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/fleet.jpg);">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
