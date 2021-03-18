@@ -3,14 +3,15 @@
 
 
  <meta content="" name="keywords"/>
-    <meta content="" name="author"/>
-    <meta content="" name="robots"/>
+ <meta content="<?php echo $metaDescription;?>" name="description"/>
+ <meta content="" name="author"/>
+ <meta content="" name="robots"/>
  <meta name="description"
- <meta property="og:url"                content="<?php echo $Url;?>" />
- <meta property="og:title"              content="<?php echo $Title;?>" />
- <meta property="description"           content="<?php echo $metaDescription;?>" />
- <meta property="og:description"        content="<?php echo $ogMetaDescription;?>" />
- <meta property="og:image"              content="<?php echo $metaImage;?>" />
+ <meta property="og:url" content="<?php echo $Url;?>" />
+ <meta property="og:title" content="<?php echo $Title;?>" />
+ <meta property="description" content="<?php echo $metaDescription;?>" />
+ <meta property="og:description" content="<?php echo $ogMetaDescription;?>" />
+ <meta property="og:image" content="<?php echo $metaImage;?>" />
     <link href="/index.php" rel="canonical">
     <!-- FAVICONS ICON -->
     <link href="images/favicon.ico" rel="icon" type="image/x-icon"/>
