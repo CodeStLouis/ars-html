@@ -2,17 +2,16 @@
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
 
 
- <meta content="" name="keywords"/>
- <meta content="<?php echo $metaDescription;?>" name="description"/>
- <meta content="" name="author"/>
- <meta content="" name="robots"/>
- <meta name="description"
+ <meta name="keywords" content="<?php echo $Keywords;?>"/>
+ <meta name="description" content="<?php echo $metaDescription;?>" />
+ <meta name="author" content="Code St Louis" />
+ <meta name="robots" content="all" />
  <meta property="og:url" content="<?php echo $Url;?>" />
  <meta property="og:title" content="<?php echo $Title;?>" />
  <meta property="description" content="<?php echo $metaDescription;?>" />
  <meta property="og:description" content="<?php echo $ogMetaDescription;?>" />
  <meta property="og:image" content="<?php echo $metaImage;?>" />
-    <link href="/index.php" rel="canonical">
+ <link rel="canonical" href="https://www.advancedroofsys.com/index.php"/>
     <!-- FAVICONS ICON -->
     <link href="images/favicon.ico" rel="icon" type="image/x-icon"/>
     <link href="images/favicon.png" rel="shortcut icon" type="image/x-icon"/>
@@ -67,6 +66,23 @@
     <link href="../css/owl.carousel.min.css" rel="stylesheet" type="text/css">
 
     <link href="../css/home-page.css" rel="stylesheet" type="text/css">
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+ <script async src="https://www.googletagmanager.com/gtag/js?id=UA-56025855-6"></script>
+ <script>
+     window.dataLayer = window.dataLayer || [];
+     function gtag(){dataLayer.push(arguments);}
+     gtag('js', new Date());
+
+     gtag('config', 'UA-56025855-6');
+ </script>
+ <script async src="https://www.googletagmanager.com/gtag/js?id=G-073CZE1DZ9"></script>
+ <script>
+     window.dataLayer = window.dataLayer || [];
+     function gtag(){dataLayer.push(arguments);}
+     gtag('js', new Date());
+
+     gtag('config', 'G-073CZE1DZ9');
+ </script>
 <!--
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,300italic,400italic,500,500italic,700,700italic,900italic,900'

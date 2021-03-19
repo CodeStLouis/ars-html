@@ -55,7 +55,7 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/til3_AJSGETm-OC.jpg';
         <div class="bg-gray-light p-tb20">
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
-                    <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
+                    <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
                     <li><?php echo $jobTitle;?></li>
                 </ul>
             </div>

@@ -93,11 +93,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.advancedroofsys.com/gallery.php</loc>
-  <lastmod>2020-12-20T01:21:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://www.advancedroofsys.com/miracles-n-progress.php</loc>
   <lastmod>2020-12-20T01:21:56+00:00</lastmod>
   <priority>0.80</priority>
@@ -112,11 +107,5 @@
   <lastmod>2020-12-20T01:21:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://www.advancedroofsys.com/about.php</loc>
-  <lastmod>2020-12-20T01:21:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
 
 </urlset>

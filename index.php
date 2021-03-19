@@ -293,7 +293,7 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
                                     font-weight: 400;
                                     color: rgba(255, 255, 255, 0.85);
                                     border-width:0px;">
-                                        <span style="font-family:'Roboto';">Since 2001, We have proudly provided Wildwood, Eureka and the Greater St Louis area with top quality residential and commercial roofing and construction services.</span>
+                                        <span style="font-family:'Roboto';font-size: 1.2em !important;">Since 2001, We have proudly provided Wildwood, Eureka and the Greater St Louis area with top quality residential and commercial roofing and construction services.</span>
                                     </div>
 
                                     <!-- LAYER NR. 9 [ for readmore botton ] -->
@@ -457,7 +457,7 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="youtube-player" data-id="Xjrv-_QtdTo"></div>
+                                        <div alt="test" class="youtube-player" data-id="Xjrv-_QtdTo"></div>
                                         <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/Xjrv-_QtdTo"
                                                 frameborder="0"
                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -537,8 +537,9 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
 
         <!-- CAROUSEL -->
         <div class="section-full bg-white p-t80 p-b50 scale-bg-top scale-bg-bottom">
+            <div class="section-content " style="background-image:url(images/background/bg1.jpg)">
             <div class="section-head text-center">
-                <div class="section-content " style="background-image:url(images/background/bg1.jpg)">
+
                 <h2 class="text-uppercase">Highest-Quality Roofing Materials in the Midwest
                 </h2>
                 <div class="wt-separator-outer">
@@ -547,27 +548,51 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
                         <span class="separator-right bg-primary"></span>
                     </div>
                 </div>
+                <div class="bg-cover container" style="background: rgba(0, 0, 0, 0.5); padding: 10px; color: white;">
                 <p>We know that the quality of our service is only as good as the products we use, which is why we seek out the best materials to
                     help meet our customers’ needs. As certified dealers and installers of Malarkey, IKO, and Genflex roofing products, we are able to
                     provide individuals across St. Louis access to a full line of high-quality roofing materials as well as interior and exterior
                     products of all kinds.</p>
 
-            </div>
 
+                </div>
                 <div class="container">
                    <div class="row">
                        <div class="col-md-6 text-center">
-                           <h2>Residential</h2>
+                           <h2 style="padding-top: 15px" >Residential</h2>
+                           <div class="wt-separator-outer">
+                               <div class="wt-separator style-square" style="margin-bottom: 15px;">
+                                   <span class="separator-left bg-primary"></span>
+                                   <span class="separator-right bg-primary"></span>
+                               </div>
+                           </div>
+                           <div class="row">
                            <img src="https://ik.imagekit.io/codestl/wildwood-after-sm_fEtifWyJz.jpeg" width="100%" alt="Residential Wildwood roof">
+                           </div>
+                           <div class="row">
+                               <img src="https://ik.imagekit.io/codestl/different-hous-sm_TAEWFXiLBr.jpg" width="100%" alt="Residential Wildwood roof">
+                           </div>
 
                        </div>
                        <div class="col-md-6 text-center">
-                           <h2>Commercial</h2>
-                           <img src="https://ik.imagekit.io/codestl/Glendale1_DlFbr12VRY.jpg" width=100%  alt="Glendale Chrysler & Jeep Commercial Roof">
+                           <h2 style="padding-top: 15px">Commercial</h2>
+                           <div class="wt-separator-outer" style="margin-bottom: 15px;">
+                               <div class="wt-separator style-square">
+                                   <span class="separator-left bg-primary"></span>
+                                   <span class="separator-right bg-primary"></span>
+                               </div>
+                           </div>
+                           <div class="row">
+                             <img src="https://ik.imagekit.io/codestl/Glendale1_DlFbr12VRY.jpg" width=100%  alt="Glendale Chrysler & Jeep Commercial Roof">
+                           </div>
+                         <!--  <div class="row">
+                               <img src="https://ik.imagekit.io/codestl/Glendale1_DlFbr12VRY.jpg" width=100%  alt="Glendale Chrysler & Jeep Commercial Roof">
+                           </div>-->
                        </div>
                    </div>
-
                 </div>
+                </div>
+
             </div>
         </div>
         <!-- SERVICES CONTENT END -->
@@ -628,7 +653,7 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
                             </div>
                             <div class="item">
                                 <div class="testimonial-1 testimonial-bg">
-                                    <div class="testimonial-pic  radius shadow"><img alt=""
+                                    <div class="testimonial-pic  radius shadow"><img alt="ARS Construction St Louis and Wildwood Mo"
                                                                                      src="images/testimonials/pic2.jpg">
                                     </div>
                                     <div class="testimonial-detail">
@@ -647,7 +672,7 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
                             </div>
                             <div class="item">
                                 <div class="testimonial-1 testimonial-bg">
-                                    <div class="testimonial-pic  radius shadow"><img alt=""
+                                    <div class="testimonial-pic  radius shadow"><img alt="ARS Construction St Louis and Wildwood Mo"
                                                                                      src="images/testimonials/pic3.jpg">
                                     </div>
                                     <div class="testimonial-detail">
@@ -772,6 +797,7 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
             var div = document.createElement('div');
             div.setAttribute('data-id', videoId);
             var thumbNode = document.createElement('img');
+            thumbNode.setAttribute('alt', 'ARS Construction St Louis')
             thumbNode.src = '//i.ytimg.com/vi/ID/hqdefault.jpg'.replace(
                 'ID',
                 videoId

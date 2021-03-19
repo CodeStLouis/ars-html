@@ -54,7 +54,7 @@ $sliderImg2='https://ik.imagekit.io/codestl/services/metal_-8iWfArEbE.jpg';
         <div class="bg-gray-light p-tb20">
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
-                    <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
+                    <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
                     <li><?php echo $jobTitle;?></li>
                 </ul>
             </div>
@@ -90,17 +90,17 @@ $sliderImg2='https://ik.imagekit.io/codestl/services/metal_-8iWfArEbE.jpg';
                             <div class="owl-carousel service-detail-carousel owl-btn-vertical-center owl-dots-bottom-center container" style=" width:100%">
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg1;?>">
+                                        <img alt="ARS Construction St Louis and Wildwood Mo" src="<?php echo $sliderImg1;?>">
                                     </div>
                                 </div>
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg2;?>">
+                                        <img alt="ARS Construction St Louis and Wildwood Mo" src="<?php echo $sliderImg2;?>">
                                     </div>
                                 </div>
                                 <!--<div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php /*echo $sliderImg3;*/?>">
+                                        <img alt="ARS Construction St Louis and Wildwood Mo" src="<?php /*echo $sliderImg3;*/?>">
                                     </div>
                                 </div>-->
                             </div>

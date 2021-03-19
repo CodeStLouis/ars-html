@@ -1,12 +1,12 @@
 <?php
 $Page='Commercial Construction Services';
-$Title='ARS Construction | Commercial Construction';
+$Title='ARS Construction St Louis and Wildwood Mo | Commercial Construction';
 $Url='https://www.advancedroofsys.com/commercial.php';
 $metaDescription='As a full-service commercial roofing company located in St Louis Missouri we service all commercial construction projects';
 $metaImage='https://ik.imagekit.io/codestl/crane_agiA7ZqHQ.jpg';
 $ogMetaDescription='As a full-service commercial roofing company located in St Louis Missouri we service all commercial construction projects';
 $jobTitle='Commercial Roofing';
-$content1='As a full-service commercial roofing company, we know that keeping your business flowing smoothly means never having to worry about roof leaks or anything else that might cause interruptions. Therefore,
+$content1='As a full-service commercial roofing company in St Louis Missouri and Illinois, we know that keeping your business flowing smoothly means never having to worry about roof leaks or anything else that might cause interruptions. Therefore,
  it is critical to have the highest quality materials installed in the first place to keep your roof in good working
   condition for years to come. ';
 $content2='No matter if your business residence is being built from the ground up or your existing roof is in need of repair or replacement, you can trust ARS Construction to provide top-of-the-line professional
@@ -57,7 +57,7 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/re-roofing-and-hvac_U9jCNTs
         <div class="bg-gray-light p-tb20">
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
-                    <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
+                    <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
                     <li>Commercial Construction</li>
                 </ul>
             </div>
@@ -93,17 +93,17 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/re-roofing-and-hvac_U9jCNTs
                             <div class="owl-carousel service-detail-carousel owl-btn-vertical-center owl-dots-bottom-center container" style=" width:100%">
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg1;?>">
+                                        <img alt="<?php echo $Title;?>" src="<?php echo $sliderImg1;?>">
                                     </div>
                                 </div>
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg2;?>">
+                                        <img alt="<?php echo $Title;?>" src="<?php echo $sliderImg2;?>">
                                     </div>
                                 </div>
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg3;?>">
+                                        <img alt="<?php echo $Title;?>" src="<?php echo $sliderImg3;?>">
                                     </div>
                                 </div>
                             </div>

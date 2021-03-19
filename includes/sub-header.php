@@ -2,7 +2,7 @@
             <div class="container">
                 <div class="logo-header">
                     <a href="/index.php">
-                        <img alt="ARS Construction" class="desktop-logo" src="https://ik.imagekit.io/codestl/new-ars-logo-sm-h_fY8Hjj7fz.png"/>
+                        <img alt="ARS Construction Logo" class="desktop-logo" src="https://ik.imagekit.io/codestl/new-ars-logo-sm-h_fY8Hjj7fz.png"/>
                       <img alt="ARS Construction-mobile" class="mobile-logo text-center" width="100%" src="https://ik.imagekit.io/codestl/new-ars-logo-sm-h_fY8Hjj7fz.png"/>
                     </a>
                 </div>

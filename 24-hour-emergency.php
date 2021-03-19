@@ -61,7 +61,7 @@ $sliderImg3='';
         <div class="bg-gray-light p-tb20">
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
-                    <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
+                    <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
                     <li>Emergency</li>
                 </ul>
             </div>
@@ -133,19 +133,19 @@ $sliderImg3='';
 
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg1;?>">
+                                        <img alt="ARS Construction St Louis and Wildwood Mo" src="<?php echo $sliderImg1;?>">
                                     </div>
                                 </div>
 
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg2;?>">
+                                        <img alt="ARS Construction St Louis and Wildwood Mo" src="<?php echo $sliderImg2;?>">
                                     </div>
                                 </div>
 
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg3;?>">
+                                        <img alt="ARS Construction St Louis and Wildwood Mo" src="<?php echo $sliderImg3;?>">
                                     </div>
                                 </div>
 
@@ -206,7 +206,7 @@ $sliderImg3='';
                 </form>
             </div>
             <div class="modal-footer text-center">
-                <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
+                <div class="text-center"><img alt="ARS Construction St Louis and Wildwood Mo" src="images/logo-dark.png"></div>
             </div>
         </div>
     </div>
@@ -248,7 +248,7 @@ $sliderImg3='';
                 </form>
             </div>
             <div class="modal-footer text-center">
-                <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
+                <div class="text-center"><img alt="ARS Construction St Louis and Wildwood Mo" src="images/logo-dark.png"></div>
             </div>
         </div>
     </div>

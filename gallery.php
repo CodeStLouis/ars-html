@@ -48,7 +48,7 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
             <div class="bg-gray-light p-tb20">
             	<div class="container">
                     <ul class="wt-breadcrumb breadcrumb-style-2">
-                        <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
+                        <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
                         <li>Gallery</li>
                     </ul>
                 </div>
@@ -80,12 +80,12 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                             <div class="masonry-item cat-3 col-lg-6 col-md-6 col-sm-6 col-xs-6 m-b30">
                                 <div class="wt-gallery-bx p-lr15">
                                     <div class="wt-thum-bx wt-img-overlay5 wt-img-effect blurr">
-                                        <a href="javascript:void(0);">
-                                            <img src="images/ars/big-roof-2.jpg"  alt="">
+                                        <a href="index.php">
+                                            <img src="images/ars/big-roof-2.jpg"  alt="Ars Construction">
                                         </a>
                                         <div class="overlay-bx">
                                             <div class="overlay-icon">
-                                                <a href="javascript:void(0);">
+                                                <a href="index.php">
                                                     <i class="fa fa-external-link wt-icon-box-xs"></i>
                                                 </a>
                                                 <a href="images/ars/big-roof-2.jpg" class="mfp-link">
@@ -100,12 +100,12 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                             <div class="masonry-item cat-1 col-lg-6 col-md-6 col-sm-6 col-xs-6 m-b30">
                                 <div class="wt-gallery-bx p-lr15">
                                     <div class="wt-thum-bx wt-img-overlay5 wt-img-effect blurr">
-                                        <a href="javascript:void(0);">
-                                            <img src="images/ars/Car_Dealership_roof.jpg"  alt="">
+                                        <a href="index.php">
+                                            <img src="images/ars/Car_Dealership_roof.jpg"  alt="ARS Construction St Louis and Wildwood Mo">
                                         </a>
                                         <div class="overlay-bx">
                                             <div class="overlay-icon">
-                                                <a href="javascript:void(0);">
+                                                <a href="index.php">
                                                     <i class="fa fa-external-link wt-icon-box-xs"></i>
                                                 </a>
                                                 <a href="images/ars/Car_Dealership_roof.jpg" class="mfp-link">
@@ -119,12 +119,12 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                             <div class="masonry-item cat-1 col-lg-6 col-md-6 col-sm-6 col-xs-6 m-b30">
                                 <div class="wt-gallery-bx p-lr15">
                                     <div class="wt-thum-bx wt-img-overlay5 wt-img-effect blurr">
-                                        <a href="javascript:void(0);">
+                                        <a href="index.php">
                                             <img src="images/salvation-army/salvation-army-2.jpg"  alt="Salvation Army">
                                         </a>
                                         <div class="overlay-bx">
                                             <div class="overlay-icon">
-                                                <a href="javascript:void(0);">
+                                                <a href="index.php">
                                                     <i class="fa fa-external-link wt-icon-box-xs"></i>
                                                 </a>
                                                 <a href="images/salvation-army/salvation-army-2.jpg" class="mfp-link" alt="Salvation Army">
@@ -139,12 +139,12 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                             <div class="masonry-item cat-3 col-lg-6 col-md-6 col-sm-6 col-xs-6 m-b30">
                                 <div class="wt-gallery-bx p-lr15">
                                     <div class="wt-thum-bx wt-img-overlay5 wt-img-effect blurr">
-                                        <a href="javascript:void(0);">
-                                            <img src="images/ars/residential-roof-2.jpg"  alt="">
+                                        <a href="index.php">
+                                            <img src="images/ars/residential-roof-2.jpg"  alt="ARS Construction St Louis and Wildwood Mo">
                                         </a>
                                         <div class="overlay-bx">
                                             <div class="overlay-icon">
-                                                <a href="javascript:void(0);">
+                                                <a href="index.php">
                                                     <i class="fa fa-external-link wt-icon-box-xs"></i>
                                                 </a>
                                                 <a href="images/ars/residential-roof-2.jpg" class="mfp-link">
@@ -159,12 +159,12 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                             <div class="masonry-item cat-4 col-lg-6 col-md-6 col-sm-6 col-xs-6 m-b30">
                                 <div class="wt-gallery-bx p-lr15">
                                     <div class="wt-thum-bx wt-img-overlay5 wt-img-effect blurr">
-                                        <a href="javascript:void(0);">
-                                            <img src="images/ars/2-story/DJI_0454.jpg"  alt="">
+                                        <a href="index.php">
+                                            <img src="images/ars/2-story/DJI_0454.jpg"  alt="ARS Construction St Louis and Wildwood Mo">
                                         </a>
                                         <div class="overlay-bx">
                                             <div class="overlay-icon">
-                                                <a href="javascript:void(0);">
+                                                <a href="index.php">
                                                     <i class="fa fa-external-link wt-icon-box-xs"></i>
                                                 </a>
                                                 <a href="images/ars/2-story/DJI_0454.jpg" class="mfp-link m-b15">
@@ -179,12 +179,12 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                             <div class="masonry-item cat-2 col-lg-6 col-md-6 col-sm-6 col-xs-6 m-b30">
                                 <div class="wt-gallery-bx p-lr15">
                                     <div class="wt-thum-bx wt-img-overlay5 wt-img-effect blurr">
-                                        <a href="javascript:void(0);">
-                                            <img src="images/ars/residential-roof-1.jpg"  alt="">
+                                        <a href="index.php">
+                                            <img src="images/ars/residential-roof-1.jpg"  alt="ARS Construction St Louis and Wildwood Mo">
                                         </a>
                                         <div class="overlay-bx">
                                             <div class="overlay-icon">
-                                                <a href="javascript:void(0);">
+                                                <a href="index.php">
                                                     <i class="fa fa-external-link wt-icon-box-xs"></i>
                                                 </a>
                                                 <a href="images/ars/residential-roof-1.jpg" class="mfp-link">
@@ -198,12 +198,12 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                             <div class="masonry-item cat-1 col-lg-6 col-md-6 col-sm-6 col-xs-6 m-b30">
                                 <div class="wt-gallery-bx p-lr15">
                                     <div class="wt-thum-bx wt-img-overlay5 wt-img-effect blurr">
-                                        <a href="javascript:void(0);">
+                                        <a href="index.php">
                                             <img src="images/dealership/dealerahip2.jpg"  alt="Commercial Roof St Louis">
                                         </a>
                                         <div class="overlay-bx">
                                             <div class="overlay-icon">
-                                                <a href="javascript:void(0);">
+                                                <a href="index.php">
                                                     <i class="fa fa-external-link wt-icon-box-xs"></i>
                                                 </a>
                                                 <a href="images/dealership/dealerahip2.jpg" class="mfp-link" alt="Commercial Roof St Louis">
@@ -218,12 +218,12 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                             <div class="masonry-item cat-2 col-lg-6 col-md-6 col-sm-6 col-xs-6 m-b30">
                                 <div class="wt-gallery-bx p-lr15">
                                     <div class="wt-thum-bx wt-img-overlay5 wt-img-effect blurr">
-                                        <a href="javascript:void(0);">
-                                            <img src="images/ars/big-ranch/DJI_0440.jpg"  alt="">
+                                        <a href="index.php">
+                                            <img src="images/ars/big-ranch/DJI_0440.jpg"  alt="ARS Construction St Louis and Wildwood Mo">
                                         </a>
                                         <div class="overlay-bx">
                                             <div class="overlay-icon">
-                                                <a href="javascript:void(0);">
+                                                <a href="index.php">
                                                     <i class="fa fa-external-link wt-icon-box-xs"></i>
                                                 </a>
                                                 <a href="images/ars/big-ranch/DJI_0440.jpg" class="mfp-link">
@@ -237,12 +237,12 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                             <div class="masonry-item cat-1 col-lg-6 col-md-6 col-sm-6 col-xs-6 m-b30">
                                 <div class="wt-gallery-bx p-lr15">
                                     <div class="wt-thum-bx wt-img-overlay5 wt-img-effect blurr">
-                                        <a href="javascript:void(0);">
+                                        <a href="index.php">
                                             <img src="images/dealership/dealer4.jpg"  alt="Commercial Roof St Louis">
                                         </a>
                                         <div class="overlay-bx">
                                             <div class="overlay-icon">
-                                                <a href="javascript:void(0);">
+                                                <a href="index.php">
                                                     <i class="fa fa-external-link wt-icon-box-xs"></i>
                                                 </a>
                                                 <a href="images/dealership/dealer4.jpg" class="mfp-link" alt="Commercial Roof St Louis">
@@ -257,12 +257,12 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                             <div class="masonry-item cat-3 col-lg-6 col-md-6 col-sm-6 col-xs-6 m-b30">
                                 <div class="wt-gallery-bx p-lr15">
                                     <div class="wt-thum-bx wt-img-overlay5 wt-img-effect blurr">
-                                        <a href="javascript:void(0);">
-                                            <img src="images/ars/clay.jpg"  alt="">
+                                        <a href="index.php">
+                                            <img src="images/ars/clay.jpg"  alt="ARS Construction St Louis and Wildwood Mo">
                                         </a>
                                         <div class="overlay-bx">
                                             <div class="overlay-icon">
-                                                <a href="javascript:void(0);">
+                                                <a href="index.php">
                                                     <i class="fa fa-external-link wt-icon-box-xs"></i>
                                                 </a>
                                                 <a href="images/ars/clay.jpg" class="mfp-link">
@@ -276,12 +276,12 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                             <div class="masonry-item cat-1 col-lg-6 col-md-6 col-sm-6 col-xs-6 m-b30">
                                 <div class="wt-gallery-bx p-lr15">
                                     <div class="wt-thum-bx wt-img-overlay5 wt-img-effect blurr">
-                                        <a href="javascript:void(0);">
+                                        <a href="index.php">
                                             <img src="images/dealership/dealer4.jpg"  alt="Commercial Roof St Louis">
                                         </a>
                                         <div class="overlay-bx">
                                             <div class="overlay-icon">
-                                                <a href="javascript:void(0);">
+                                                <a href="index.php">
                                                     <i class="fa fa-external-link wt-icon-box-xs"></i>
                                                 </a>
                                                 <a href="images/dealership/dealer4.jpg" class="mfp-link" alt="Commercial Roof St Louis">
@@ -296,12 +296,12 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                             <div class="masonry-item cat-1 col-lg-6 col-md-6 col-sm-6 col-xs-6 m-b30">
                                 <div class="wt-gallery-bx p-lr15">
                                     <div class="wt-thum-bx wt-img-overlay5 wt-img-effect blurr">
-                                        <a href="javascript:void(0);">
-                                            <img src="images/Commercial/SalvationArmy/2020-07-30-3.jpg" style=""  alt="">
+                                        <a href="index.php">
+                                            <img src="images/Commercial/SalvationArmy/2020-07-30-3.jpg" style=""  alt="ARS Construction St Louis and Wildwood Mo">
                                         </a>
                                         <div class="overlay-bx">
                                             <div class="overlay-icon">
-                                                <a href="javascript:void(0);">
+                                                <a href="index.php">
                                                     <i class="fa fa-external-link wt-icon-box-xs"></i>
                                                 </a>
                                                 <a  href="images/Commercial/SalvationArmy/2020-07-30-3.jpg" class="mfp-link">

@@ -47,7 +47,7 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
         <div class="bg-gray-light p-tb20">
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
-                    <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
+                    <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
                     <li>Portfolio Detail</li>
                 </ul>
             </div>
@@ -63,11 +63,11 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
 
                             <div class="item">
                                 <div class="aon-thum-bx">
-                                    <img alt="" src="images/Residential/Exterior/gutters.jpg">
+                                    <img alt="ARS Construction St Louis and Wildwood Mo" src="images/Residential/Exterior/gutters.jpg">
                                 </div>
                                 <div class="wt-info p-tb30">
-                                    <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Sides & Gutters</a>
-                                    </h4>
+                                    <h4 class="wt-title m-t0 m-b5">Sides & Gutters</h4>
+
                                     <p>ARS Construction is the expert when it comes to repairing and installing your
                                         siding and gutters. We use the most trusted materials in the industry to ensure
                                         that your home is well protected. Your siding and gutters play an important role
@@ -81,10 +81,10 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
 
                             <div class="item">
                                 <div class="aon-thum-bx">
-                                    <img alt="" src="images/Residential/Exterior/windows.jpg">
+                                    <img alt="ARS Construction St Louis and Wildwood Mo" src="images/Residential/Exterior/windows.jpg">
                                 </div>
                                 <div class="wt-info p-tb30">
-                                    <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Windows</a>
+                                    <h4 class="wt-title m-t0 m-b5">Windows
                                     </h4>
                                     <p>Do you have a broken window? Is it time to update your windows to a more modern
                                         style? Let the experts at ARS Construction help find the perfect windows for
@@ -97,10 +97,10 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
 
                             <div class="item">
                                 <div class="aon-thum-bx">
-                                    <img alt="" src="images/Residential/Exterior/doors.jpg">
+                                    <img alt="ARS Construction St Louis and Wildwood Mo" src="images/Residential/Exterior/doors.jpg">
                                 </div>
                                 <div>
-                                    <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Doors</a>
+                                    <h4 class="wt-title m-t0 m-b5">Doors
                                     </h4>
                                     <p>Having a door that is stylish but functional is an easy thing to do when you call
                                         ARS
@@ -184,7 +184,7 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                     </form>
                 </div>
                 <div class="modal-footer text-center">
-                    <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
+                    <div class="text-center"><img alt="ARS Construction Logo" src="images/logo-dark.png"></div>
                 </div>
             </div>
         </div>
@@ -226,7 +226,7 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                     </form>
                 </div>
                 <div class="modal-footer text-center">
-                    <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
+                    <div class="text-center"><img alt="ARS ConstructionLogo" src="images/logo-dark.png"></div>
                 </div>
             </div>
         </div>

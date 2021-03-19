@@ -9,8 +9,8 @@
                     </div>
                     <div class="wt-footer-bot-right">
                         <ul class="copyrights-nav pull-right">
-                            <li><a href="javascript:void(0);">Terms & Condition</a></li>
-                            <li><a href="javascript:void(0);">Privacy Policy</a></li>
+                            <li><a href="index.php">Terms & Condition</a></li>
+                            <li><a href="index.php">Privacy Policy</a></li>
                             <li><a href="/contact-us.php">Contact Us</a></li>
                         </ul>
                     </div>

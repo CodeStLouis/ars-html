@@ -47,7 +47,7 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
         <div class="bg-gray-light p-tb20">
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
-                    <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
+                    <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
                     <li>Miracles N Progress</li>
                 </ul>
             </div>
@@ -90,7 +90,7 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo wt-img-effect on-color">
-                            <img alt="" src="images/Commercial/MiraclesNProgress/miracles1.jpg">
+                            <img alt="ARS Construction St Louis and Wildwood Mo" src="images/Commercial/MiraclesNProgress/miracles1.jpg">
                         </div>
                     </div>
                 </div>
@@ -98,7 +98,7 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo wt-img-effect on-color">
-                            <a href="#"><img alt="" src="images/Commercial/MiraclesNProgress/miracles2.jpg"></a>
+                            <a href="#"><img alt="ARS Construction St Louis and Wildwood Mo" src="images/Commercial/MiraclesNProgress/miracles2.jpg"></a>
                         </div>
                     </div>
                 </div>
@@ -106,7 +106,7 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo wt-img-effect on-color">
-                            <a href="#"><img alt="" src="images/Commercial/MiraclesNProgress/miracles3.jpg"></a>
+                            <a href="#"><img alt="ARS Construction St Louis and Wildwood Mo" src="images/Commercial/MiraclesNProgress/miracles3.jpg"></a>
 
                         </div>
                     </div>
@@ -115,7 +115,7 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo wt-img-effect on-color">
-                            <a href="#"><img alt="" src="images/Commercial/MiraclesNProgress/miracles4.jpg"></a>
+                            <a href="#"><img alt="ARS Construction St Louis and Wildwood Mo" src="images/Commercial/MiraclesNProgress/miracles4.jpg"></a>
                         </div>
                     </div>
                 </div>
@@ -123,7 +123,7 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo wt-img-effect on-color">
-                            <a href="#"><img alt="" src="images/Commercial/MiraclesNProgress/miracles5.jpg"></a>
+                            <a href="#"><img alt="ARS Construction St Louis and Wildwood Mo" src="images/Commercial/MiraclesNProgress/miracles5.jpg"></a>
                         </div>
                     </div>
                 </div>
@@ -179,7 +179,7 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                 </form>
             </div>
             <div class="modal-footer text-center">
-                <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
+                <div class="text-center"><img alt="ARS Construction St Louis and Wildwood Mo" src="images/logo-dark.png"></div>
             </div>
         </div>
     </div>
@@ -221,7 +221,7 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                 </form>
             </div>
             <div class="modal-footer text-center">
-                <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
+                <div class="text-center"><img alt="ARS Construction St Louis and Wildwood Mo" src="images/logo-dark.png"></div>
             </div>
         </div>
     </div>

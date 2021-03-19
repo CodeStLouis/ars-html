@@ -92,11 +92,11 @@ $ogMetaDescription='We at ARS Construction would never claim to be perfect but w
                                 </div>
                                 <div class="col-md-7 col-sm-7">
                                     <div class="wt-info wt-team-full-info">
-                                        <h3 class="wt-title m-t0"><a href="javascript:void(0);">We Are Growing</a></h3>
+                                        <h3 class="wt-title m-t0">We Are Growing</h3>
                                         <p>
                                             ARS Construction is a family owned construction business, who has been successfully servicing
                                             the greater St. Louis area since 2001. We specialize in both residential and commercial roof installs.
-                                            Our team is adverse in all general contracting services such as windows, siding, home additions, remodeling among other various contracting services.
+                                            Our multifaceted team provides general contracting services such as windows, siding, home additions, remodeling among other various contracting services.
                                             In 2020 we as a family, decided to move our headquarters to Wildwood, MO.
                                         </p>
                                         <blockquote class="m-a0">
@@ -134,115 +134,7 @@ $ogMetaDescription='We at ARS Construction would never claim to be perfect but w
 
 
 
-    <!-- SECTION CONTENT START -->
 
-    <!-- SECTION CONTENT END -->
-
-    <!-- OUR TEAM MEMBER SECTION START-->
-   <!-- <div class="section-full text-center wt-our-team bg-gray p-t30 p-b50">
-        <div class="container">
-
-          TITTLE START -->
-           <!-- <div class="section-head text-center">
-                <h2 class="text-uppercase">Our team</h2>
-                <div class="wt-separator-outer">
-                    <div class="wt-separator style-square">
-                        <span class="separator-left bg-primary"></span>
-                        <span class="separator-right bg-primary"></span>
-                    </div>
-                </div>
-                <p>Over the last 20 years, ARS Construction has built an experienced team that takes pride in our every project using the best products for the job.
-                Thank you St Louis and beyond for supporting us in this great journey</p>
-            </div>
-
-
-            <div class="section-content">
-                <div class="row">
-
-
-                    <div class="col-md-3 col-sm-6 col-xs-6 col-xs-100pc m-tb15">
-                        <div class="wt-team-one bg-white p-a10">
-                            <div class="wt-team-media">
-                                <a href="javascript:void(0);"><img alt="Kevin Larson" src="images/kevin-larson.jpg" width="70%" ></a>
-                            </div>
-                            <div class="wt-team-info text-center bg-white p-a10">
-                                <h4 class="wt-team-title"><a href="javascript:void(0);">Kevin Larson</a></h4>
-                                <p>President </p>
-                                <ul class="social-icons social-square social-dark">
-                                    <li><a class="fa fa-facebook" href="https://www.facebook.com/AdvancedRoofs/"></a></li>
-                                    <li><a class="fa fa-linkedin" href="#"></a></li>
-                                    <li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UChAI_u8qlCWm3-LvbF_Z0Nw"></a></li>
-                                    <li><a class="fa fa-google" href="https://g.page/AdvancedRoofs?gm"></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-3 col-sm-6 col-xs-6 col-xs-100pc m-tb15">
-                        <div class="wt-team-one bg-white p-a10 ">
-                            <div class="wt-team-media ">
-                                <a href="javascript:void(0);"><img alt="" src="images/larson.jpg"></a>
-                            </div>
-                            <div class="wt-team-info text-center bg-white p-a10">
-                                <h4 class="wt-team-title"><a href="javascript:void(0);">Christian Larson</a></h4>
-                                <p>VP of Operations</p>
-                                <ul class="social-icons social-square social-dark">
-                                    <ul class="social-icons social-square social-dark">
-                                        <li><a class="fa fa-facebook" href="https://www.facebook.com/AdvancedRoofs/"></a></li>
-                                        <li><a class="fa fa-linkedin" href="#"></a></li>
-                                        <li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UChAI_u8qlCWm3-LvbF_Z0Nw"></a></li>
-                                        <li><a class="fa fa-google" href="https://g.page/AdvancedRoofs?gm"></a></li>
-                                    </ul>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-3 col-sm-6 col-xs-6 col-xs-100pc m-tb15">
-                        <div class="wt-team-one  bg-white p-a10">
-                            <div class="wt-team-media">
-                                <a href="javascript:void(0);"><img alt="" src="images/our-team2/pic-3.jpg"></a>
-                            </div>
-                            <div class="wt-team-info text-center bg-white p-a10">
-                                <h4 class="wt-team-title"><a href="javascript:void(0);">Zeppy the turd </a></h4>
-                                <p>Head Janitor</p>
-                                <ul class="social-icons social-square social-dark">
-                                    <ul class="social-icons social-square social-dark">
-                                        <li><a class="fa fa-facebook" href="https://www.facebook.com/AdvancedRoofs/"></a></li>
-                                        <li><a class="fa fa-linkedin" href="#"></a></li>
-                                        <li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UChAI_u8qlCWm3-LvbF_Z0Nw"></a></li>
-                                        <li><a class="fa fa-google" href="https://g.page/AdvancedRoofs?gm"></a></li>
-                                    </ul>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-3 col-sm-6 col-xs-6 col-xs-100pc m-tb15">
-                        <div class="wt-team-one  bg-white p-a10">
-                            <div class="wt-team-media">
-                                <a href="javascript:void(0);"><img alt="" src="images/our-team2/pic-4.jpg"></a>
-                            </div>
-                            <div class="wt-team-info text-center bg-white p-a10">
-                                <h4 class="wt-team-title"><a href="javascript:void(0);">John SOmeone </a></h4>
-                                <p>Project Lead</p>
-                                <ul class="social-icons social-square social-dark">
-                                    <ul class="social-icons social-square social-dark">
-                                        <li><a class="fa fa-facebook" href="https://www.facebook.com/AdvancedRoofs/"></a></li>
-                                        <li><a class="fa fa-linkedin" href="#"></a></li>
-                                        <li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UChAI_u8qlCWm3-LvbF_Z0Nw"></a></li>
-                                        <li><a class="fa fa-google" href="https://g.page/AdvancedRoofs?gm"></a></li>
-                                    </ul>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-
-        </div>
-    </div>-->
     <!-- OUR TEAM MEMBER SECTION END -->
 
 </div>
@@ -260,83 +152,6 @@ $ogMetaDescription='We at ARS Construction would never claim to be perfect but w
 <!-- SCROLL TOP BUTTON -->
 <button class="scroltop"><span class=" iconmoon-house relative" id="btn-vibrate"></span>Top</button>
 
-<!-- MODAL  LOGIN -->
-<div class="modal fade " id="Login-form" role="dialog">
-    <div class="modal-dialog modal-sm">
-        <!-- Modal content-->
-        <div class="modal-content">
-            <div class="modal-header bg-primary">
-                <button class="close" data-dismiss="modal" type="button">&times;</button>
-                <h4 class="modal-title text-white">Login Your Account</h4>
-            </div>
-            <div class="modal-body p-a30">
-                <form id="log-form">
-                    <div class="form-group">
-                        <div class="input-group">
-                            <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                            <input class="form-control" placeholder="Enter Username" type="text">
-                        </div>
-                    </div>
-                    <div class="form-group">
-                        <div class="input-group">
-                            <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                            <input class="form-control" placeholder="Enter email" type="email">
-                        </div>
-                    </div>
-                    <button class="site-button-secondry text-uppercase btn-block m-b10" type="button">Submit
-                    </button>
-                    <span class="font-12">Don't have an account? <a class="text-primary" href="javascript:">Register Here</a></span>
-                </form>
-            </div>
-            <div class="modal-footer text-center">
-                <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- MODAL  REGISTER -->
-<div class="modal fade " id="Register-form" role="dialog">
-    <div class="modal-dialog modal-sm">
-        <!-- Modal content-->
-        <div class="modal-content">
-            <div class="modal-header bg-primary">
-                <button class="close" data-dismiss="modal" type="button">&times;</button>
-                <h4 class="modal-title text-white">Register here</h4>
-            </div>
-            <div class="modal-body p-a30">
-                <form id="reg-form">
-                    <div class="form-group">
-                        <div class="input-group">
-                            <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                            <input class="form-control" placeholder="Enter Username" type="text">
-                        </div>
-                    </div>
-                    <div class="form-group">
-                        <div class="input-group">
-                            <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                            <input class="form-control" placeholder="Enter email" type="email">
-                        </div>
-                    </div>
-                    <div class="form-group">
-                        <div class="input-group">
-                            <span class="input-group-addon"><i class="fa fa-key"></i></span>
-                            <input class="form-control" placeholder="Enter Password" type="email">
-                        </div>
-                    </div>
-                    <button class="site-button-secondry text-uppercase btn-block m-b10" type="button">Submit
-                    </button>
-                    <span class="font-12">Already Have an Account? <a class="text-primary"
-                                                                      href="javascript:">Login</a></span>
-                </form>
-            </div>
-            <div class="modal-footer text-center">
-                <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
-            </div>
-        </div>
-    </div>
-</div>
-</div>
 <?php include_once('includes/scripts.php'); ?>
 
 <!-- LOADING AREA START ===== -->
