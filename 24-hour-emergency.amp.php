@@ -53,7 +53,7 @@ $sliderImg3='';
         <div class="bg-gray-light p-tb20">
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
-                    <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
+                    <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
                     <li>Emergency</li>
                 </ul>
             </div>
@@ -124,19 +124,19 @@ $sliderImg3='';
 
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg1;?>">
+                                        <img alt="<?php echo $Title;?>" src="<?php echo $sliderImg1;?>">
                                     </div>
                                 </div>
 
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg2;?>">
+                                        <img alt="<?php echo $Title;?>" src="<?php echo $sliderImg2;?>">
                                     </div>
                                 </div>
 
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg3;?>">
+                                        <img alt="<?php echo $Title;?>" src="<?php echo $sliderImg3;?>">
                                     </div>
                                 </div>
 
@@ -166,86 +166,6 @@ $sliderImg3='';
 
 <!-- SCROLL TOP BUTTON -->
 <button class="scroltop"><span class=" iconmoon-house relative" id="btn-vibrate"></span>Top</button>
-
-<!-- MODAL  LOGIN -->
-<div class="modal fade " id="Login-form" role="dialog">
-    <div class="modal-dialog modal-sm">
-        <!-- Modal content-->
-        <div class="modal-content">
-            <div class="modal-header bg-primary">
-                <button class="close" data-dismiss="modal" type="button">&times;</button>
-                <h4 class="modal-title text-white">Login Your Account</h4>
-            </div>
-            <div class="modal-body p-a30">
-                <form id="log-form">
-                    <div class="form-group">
-                        <div class="input-group">
-                            <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                            <input class="form-control" placeholder="Enter Username" type="text">
-                        </div>
-                    </div>
-                    <div class="form-group">
-                        <div class="input-group">
-                            <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                            <input class="form-control" placeholder="Enter email" type="email">
-                        </div>
-                    </div>
-                    <button class="site-button-secondry text-uppercase btn-block m-b10" type="button">Submit
-                    </button>
-                    <span class="font-12">Don't have an account? <a class="text-primary" href="javascript:">Register Here</a></span>
-                </form>
-            </div>
-            <div class="modal-footer text-center">
-                <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- MODAL  REGISTER -->
-<div class="modal fade " id="Register-form" role="dialog">
-    <div class="modal-dialog modal-sm">
-        <!-- Modal content-->
-        <div class="modal-content">
-            <div class="modal-header bg-primary">
-                <button class="close" data-dismiss="modal" type="button">&times;</button>
-                <h4 class="modal-title text-white">Register here</h4>
-            </div>
-            <div class="modal-body p-a30">
-                <form id="reg-form">
-                    <div class="form-group">
-                        <div class="input-group">
-                            <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                            <input class="form-control" placeholder="Enter Username" type="text">
-                        </div>
-                    </div>
-                    <div class="form-group">
-                        <div class="input-group">
-                            <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                            <input class="form-control" placeholder="Enter email" type="email">
-                        </div>
-                    </div>
-                    <div class="form-group">
-                        <div class="input-group">
-                            <span class="input-group-addon"><i class="fa fa-key"></i></span>
-                            <input class="form-control" placeholder="Enter Password" type="email">
-                        </div>
-                    </div>
-                    <button class="site-button-secondry text-uppercase btn-block m-b10" type="button">Submit
-                    </button>
-                    <span class="font-12">Already Have an Account? <a class="text-primary"
-                                                                      href="javascript:">Login</a></span>
-                </form>
-            </div>
-            <div class="modal-footer text-center">
-                <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
-            </div>
-        </div>
-    </div>
-</div>
-</div>
-<!-- firebase scripts -->
-<!-- The core Firebase JS SDK is always required and must be listed first -->
 
 <!-- JAVASCRIPT  FILES ========================================= -->
 <script src="js/jquery-1.12.4.min.js" type="text/javascript"></script><!-- JQUERY.MIN JS -->

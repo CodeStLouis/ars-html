@@ -121,7 +121,7 @@ $pageActive='';
                 </form>
             </div>
             <div class="modal-footer text-center">
-                <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
+                <div class="text-center"><img alt="ARS Construction St Louis and Wildwood Mo" src="images/logo-dark.png"></div>
             </div>
         </div>
     </div>
@@ -163,7 +163,7 @@ $pageActive='';
                 </form>
             </div>
             <div class="modal-footer text-center">
-                <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
+                <div class="text-center"><img alt="ARS Construction St Louis and Wildwood Mo" src="images/logo-dark.png"></div>
             </div>
         </div>
     </div>

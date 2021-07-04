@@ -53,7 +53,7 @@ $sliderImg3='';
         <div class="bg-gray-light p-tb20">
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
-                    <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
+                    <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
                     <li>Glendale Chrysler Project</li>
                 </ul>
             </div>
@@ -201,7 +201,7 @@ $sliderImg3='';
                     </form>
                 </div>
                 <div class="modal-footer text-center">
-                    <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
+                    <div class="text-center"><img alt="ARS Construction St Louis and Wildwood Mo" src="images/logo-dark.png"></div>
                 </div>
             </div>
         </div>
@@ -243,7 +243,7 @@ $sliderImg3='';
                     </form>
                 </div>
                 <div class="modal-footer text-center">
-                    <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
+                    <div class="text-center"><img alt="ARS Construction St Louis and Wildwood Mo" src="images/logo-dark.png"></div>
                 </div>
             </div>
         </div>

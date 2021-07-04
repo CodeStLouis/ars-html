@@ -1,6 +1,6 @@
 <?php
 $Page='Contact Us';
-$Title='Contact Our Roofing Contractors in St. Louis, MO | Construction Company St. Louis | ARS Construction';
+$Title='Contact Our Roofing Contractors in St. Louis, MO | ARS Construction';
 $Url='https://www.advancedroofsys.com/contact-us.php';
 $metaDescription='Contact our roofing contractors in St. Louis, MO, for a free roof inspection or online estimate. Our construction company St. Louis is eager to take on any roofing or interior/exterior project in Wildwood, Eureka, and the surrounding areas.';
 $metaImage='/images/fleet.jpg';
@@ -35,7 +35,7 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
         <div class="bg-gray-light p-tb20">
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
-                    <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
+                    <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
                     <li>Contact</li>
                 </ul>
             </div>
@@ -210,11 +210,11 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                             </div>
                         </div>
                         <button type="button" class="site-button-secondry text-uppercase btn-block m-b10">Submit</button>
-                        <span class="font-12">Don't have an account? <a href="javascript:;" class="text-primary">Register Here</a></span>
+                        <span class="font-12">Don't have an account? class="text-primary">Register Here</a></span>
                     </form>
                 </div>
                 <div class="modal-footer text-center">
-                    <div class="text-center"><img src="images/logo-dark.png" alt=""></div>
+                    <div class="text-center"><img src="images/logo-dark.png" alt="ARS Construction St Louis and Wildwood Mo"></div>
                 </div>
             </div>
         </div>
@@ -254,7 +254,7 @@ $ogMetaDescription='Are you in need of a new roof? Do you need updating to the o
                     </form>
                 </div>
                 <div class="modal-footer text-center">
-                    <div class="text-center"><img src="images/logo-dark.png" alt=""></div>
+                    <div class="text-center"><img src="images/logo-dark.png" alt="ARS Construction St Louis and Wildwood Mo"></div>
                 </div>
             </div>
         </div>

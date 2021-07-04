@@ -47,7 +47,7 @@ $ogMetaDescription='Does the outside of your home need updates? Need repairs don
         <div class="bg-gray-light p-tb20">
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
-                    <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
+                    <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
                     <li>Interior Home Improvement</li>
                 </ul>
             </div>
@@ -63,11 +63,11 @@ $ogMetaDescription='Does the outside of your home need updates? Need repairs don
 
                             <div class="item">
                                 <div class="aon-thum-bx">
-                                    <img alt="" src="images/Residential/Interior/remodeling.jpg">
+                                    <img alt="ARS Construction St Louis and Wildwood Mo" src="images/Residential/Interior/remodeling.jpg">
                                 </div>
                                 <div class="wt-info p-tb30">
-                                    <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Remodeling</a>
-                                    </h4>
+                                    <h4 class="wt-title m-t0 m-b5">>Remodeling</h4>
+
                                     <p>ARS Construction has the eye and passion to take your home to the next level. We
                                         specialize in bathroom & kitchen remodels, room extensions, and add-ons.
                                         Whatever you need we have the skill and experience to make it happen. We use the
@@ -80,11 +80,10 @@ $ogMetaDescription='Does the outside of your home need updates? Need repairs don
 
                             <div class="item">
                                 <div class="aon-thum-bx">
-                                    <img alt="" src="images/Residential/Interior/Restoration.jpg">
+                                    <img alt="ARS Construction St Louis and Wildwood Mo" src="images/Residential/Interior/Restoration.jpg">
                                 </div>
                                 <div class="wt-info p-tb30">
-                                    <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Restoration</a>
-                                    </h4>
+                                    <h4 class="wt-title m-t0 m-b5">Restoration</h4>
                                     <p>Having your home damaged by water or fire can be devastating. To relieve some
                                         stress call ARS Construction and we will get to work immediately to get your
                                         home back to normal. We make sure to use the latest products to clean out your
@@ -166,7 +165,7 @@ $ogMetaDescription='Does the outside of your home need updates? Need repairs don
                     </form>
                 </div>
                 <div class="modal-footer text-center">
-                    <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
+                    <div class="text-center"><img alt="ARS Construction St Louis and Wildwood Mo" src="images/logo-dark.png"></div>
                 </div>
             </div>
         </div>
@@ -208,7 +207,7 @@ $ogMetaDescription='Does the outside of your home need updates? Need repairs don
                     </form>
                 </div>
                 <div class="modal-footer text-center">
-                    <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
+                    <div class="text-center"><img alt="ARS Construction St Louis and Wildwood Mo" src="images/logo-dark.png"></div>
                 </div>
             </div>
         </div>

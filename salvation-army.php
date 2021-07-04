@@ -53,7 +53,7 @@ $sliderImg3='images/salvation-army/salvation-army-3.jpg';
         <div class="bg-gray-light p-tb20">
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
-                    <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
+                    <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
                     <li>Salvation Army Roofing Project</li>
                 </ul>
             </div>
@@ -124,19 +124,19 @@ $sliderImg3='images/salvation-army/salvation-army-3.jpg';
 
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg1;?>">
+                                        <img alt="<?php echo $Title;?>" src="<?php echo $sliderImg1;?>">
                                     </div>
                                 </div>
 
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg2;?>">
+                                        <img alt="<?php echo $Title;?>" src="<?php echo $sliderImg2;?>">
                                     </div>
                                 </div>
 
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg3;?>">
+                                        <img alt="<?php echo $Title;?>" src="<?php echo $sliderImg3;?>">
                                     </div>
                                 </div>
 
@@ -196,7 +196,7 @@ $sliderImg3='images/salvation-army/salvation-army-3.jpg';
                     </form>
                 </div>
                 <div class="modal-footer text-center">
-                    <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
+                    <div class="text-center"><img alt="ARS Construction Logo" src="images/logo-dark.png"></div>
                 </div>
             </div>
         </div>
@@ -238,7 +238,7 @@ $sliderImg3='images/salvation-army/salvation-army-3.jpg';
                     </form>
                 </div>
                 <div class="modal-footer text-center">
-                    <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
+                    <div class="text-center"><img alt="ARS Construction Logo" src="images/logo-dark.png"></div>
                 </div>
             </div>
         </div>

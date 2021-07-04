@@ -1,9 +1,10 @@
 <?php
+$Keywords = 'St Louis, Roofing, Free Roof Inspections, St Louis Commercial Roofing, Wildwood Missouri Roofing, Interior Remodeling, Home and Commercial Construction';
 $Page = 'Homepage';
 $Title = 'Construction Company in St. Louis, MO | Roofing Contractors St. Louis | ARS Construction';
 $Url = 'https://www.advancedroofsys.com/index.php';
 $metaDescription = 'Construction company in St. Louis, MO and Wildwood Mo - Our roofing contractors provide high-quality roofing and interior/exterior construction services to residential and commercial property owners in the Greater St. Louis area. FREE roof inspection here.';
-$metaImage = '/images/fleet.jpg';
+$metaImage = 'https://ik.imagekit.io/codestl/TRUCKS/IMG-3561_7rRrvjhpaB.jpg';
 $ogMetaDescription = 'ARS Construction provides specialized commercial and residential roof repair, as well as Interior and Exterior Home Remodeling and Restoration in the St. Louis area.';
 ?>
 
@@ -292,7 +293,7 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
                                     font-weight: 400;
                                     color: rgba(255, 255, 255, 0.85);
                                     border-width:0px;">
-                                        <span style="font-family:'Roboto';">Since 2001, We have proudly provided Wildwood, Eureka and the Greater St Louis area with top quality residential and commercial roofing and construction services.</span>
+                                        <span style="font-family:'Roboto';font-size: 1.2em !important;">Since 2001, We have proudly provided Wildwood, Eureka and the Greater St Louis area with top quality residential and commercial roofing and construction services.</span>
                                     </div>
 
                                     <!-- LAYER NR. 9 [ for readmore botton ] -->
@@ -318,7 +319,7 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
                                          id="slide-100-layer-9"
 
                                          style="z-index:13; text-transform:uppercase; font-weight:700;">
-                                        <div class="roofr-calculator"></div>
+
                                     </div>
 
                                 </li>
@@ -338,24 +339,22 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
 
                 <!-- IMAGE CAROUSEL START -->
                 <div class="section-content">
+                    <!-- COLUMNS 1 -->
                     <div class="owl-carousel home4-logo-carousel">
-
-                        <!-- COLUMNS 1 -->
-                        <div class="item">
-                            <div class="ow-client-logo">
-                                <div class="client-logo wt-img-effect on-color">
-                                    <a href="https://www.iko.com/" target="_blank"><img
-                                                alt="IKO Roofing Pro" src="https://ik.imagekit.io/codestl/iko-roofpro-sm_ducaE3Eql.png"></a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- COLUMNS 2 -->
                         <div class="item">
                             <div class="ow-client-logo">
                                 <div class="client-logo wt-img-effect on-color" style="padding-top: 5em">
                                     <a href="https://www.genflex.com/" target="_blank"><img
                                                 alt="Gen Flex Roofing" src="https://ik.imagekit.io/codestl/genflex-sm_Cb1v3_Vld.png"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- COLUMNS 2 -->
+                        <div class="item">
+                            <div class="ow-client-logo">
+                                <div class="client-logo wt-img-effect on-color">
+                                    <a href="https://www.iko.com/" target="_blank"><img
+                                                alt="IKO Roofing Pro" src="https://ik.imagekit.io/codestl/iko-roofpro-sm_ducaE3Eql.png"></a>
                                 </div>
                             </div>
                         </div>
@@ -383,15 +382,15 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
                         </div>
 
                         <!-- COLUMNS 5 -->
-                        <!--<div class="item">
+                        <div class="item">
                             <div class="ow-client-logo">
-                                <div class="client-logo wt-img-effect on-color">
-                                    <a href="https://app.gethearth.com/financing/15237/19452?utm_campaign=15237&utm_content=general&utm_medium=contractor-website&utm_source=contractor&utm_term=19452"
-                                       target="_blank"><img alt="Hearth Financing"
-                                                            src="images/ars/150x150_hearth_badge.png"></a>
+                                <div class="client-logo wt-img-effect on-color" style="padding-top: 5em">
+                                    <a about="_blank" href="https://eagleroofing.com/" ><img
+                                                alt="Eagle Roofing Products"
+                                                src="https://ik.imagekit.io/codestl/eagle-roofing-logo_IdTttpHgfi.png"></a>
                                 </div>
                             </div>
-                        </div>-->
+                        </div>
 
                         <!-- COLUMNS 6 -->
                         <div class="item">
@@ -408,7 +407,7 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
                             <div class="ow-client-logo">
                                 <div class="client-logo wt-img-effect on-color" style="padding-top: 5em">
                                     <a about="_blank" href="https://gaco.com/"><img
-                                                alt="Gaco" src="https://ik.imagekit.io/codestl/eagle-roofing-logo_IdTttpHgfi.png"></a>
+                                                alt="Gaco" src="https://ik.imagekit.io/codestl/Gaco_LOGO_Web-1_zpksMGkbC.png"></a>
                                 </div>
                             </div>
                         </div>
@@ -420,44 +419,118 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
         </div>
         <!-- SERVICES START  -->
         <div class="section-full bg-white p-t80 p-b50 scale-bg-top scale-bg-bottom">
-            <div class="container">
+            <div class="container-fluid">
                 <!-- IMAGE CAROUSEL START -->
 
                 <!-- TITLE START -->
-                <div class="row">
-                    <div class="col-md-6">
+                <div class="section-full bg-gray p-t80 p-b120 bg-no-repeat bg-cover"
+                     style="background-image:url(images/background/pic-c-1bg.png);">
+                    <div class="container">
+                        <!-- TITLE START-->
                         <div class="section-head text-center">
-                            <h2 class="text-uppercase">Family-Owned Roofing Company in St. Louis</h2>
+                            <h2 class="text-uppercase">Highest-Quality Roofing Materials in the Midwest
+                            </h2>
                             <div class="wt-separator-outer">
                                 <div class="wt-separator style-square">
                                     <span class="separator-left bg-primary"></span>
                                     <span class="separator-right bg-primary"></span>
                                 </div>
                             </div>
+                            <p>We know that the quality of our service is only as good as the products we use, which is why we seek out the best materials to
+                                help meet our customers’ needs. As certified dealers and installers of Malarkey, IKO, and Genflex roofing products, we are able to
+                                provide individuals across St. Louis access to a full line of high-quality roofing materials as well as interior and exterior
+                                products of all kinds.</p>
+
                         </div>
-                        <p>At ARS Construction, we hold our team of roofing contractors in St. Louis to the highest standards of reliability and craftsmanship.
-                            As members of the Better Business Bureau, we believe that your satisfaction is our number one goal. This means returning your
-                            call promptly, providing you with a fair estimate, and then getting the job done as quickly and efficiently as possible. </p>
+                        <!-- TITLE END-->
+                        <div class="section-content">
+                            <!-- COLUMNS 2 -->
+                            <div class="row">
+                                <div class="col-md-6 col-sm-12">
+                                    <div class="m-b30">
+                                        <div class="section-head">
+                                            <h2 class="text-uppercase">Powered by IKO</h2>
+                                            <div class="wt-separator-outer">
+                                                <div class="wt-separator style-square">
+                                                    <span class="separator-left bg-primary"></span>
+                                                    <span class="separator-right bg-primary"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div alt="test" class="youtube-player" data-id="Xjrv-_QtdTo"></div>
+                                        <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/Xjrv-_QtdTo"
+                                                frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                                allowfullscreen>
+                                        </iframe>-->
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-12">
+                                    <div class="m-b30">
+                                        <div class="section-head">
+                                            <h2 class="text-uppercase">High Performance: Powered by Malarkey</h2>
+                                            <div class="wt-separator-outer">
+                                                <div class="wt-separator style-square">
+                                                    <span class="separator-left bg-primary"></span>
+                                                    <span class="separator-right bg-primary"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="youtube-player" data-id="IM24amVlEdw"></div>
+                                        <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/IM24amVlEdw"
+                                                frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                                allowfullscreen>
+                                        </iframe>-->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6 col-sm-12">
+                                    <div class="m-b30">
+                                        <div class="section-head">
+                                            <h2 class="text-uppercase">ARS Construction - The Eagle Tile</h2>
+                                            <div class="wt-separator-outer">
+                                                <div class="wt-separator style-square">
+                                                    <span class="separator-left bg-primary"></span>
+                                                    <span class="separator-right bg-primary"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="youtube-player" data-id="kzaRCG15Iwg"></div>
+                                        <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/kzaRCG15Iwg"
+                                                frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                                allowfullscreen>
 
-                        <p>Since 2001, our steadfast integrity has allowed us to provide home and business owners in the metro area with the
-                            highest quality service that never cuts corners. This allows us to lead the way and distinguish ourselves as the
-                            best roofing company in St. Louis!</p>
+                                        </iframe>-->
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-12">
+                                    <div class="m-b30">
+                                        <div class="section-head">
+                                            <h2 class="text-uppercase">Glendale Chrysler Roofing Project</h2>
+                                            <div class="wt-separator-outer">
+                                                <div class="wt-separator style-square">
+                                                    <span class="separator-left bg-primary"></span>
+                                                    <span class="separator-right bg-primary"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="youtube-player" data-id="0btZOQrtQ6E"></div>
+                                        <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/0btZOQrtQ6E"
+                                                frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                                allowfullscreen>
 
-
-                        <p>Call us at (844) 445-ROOF for a free roof inspection or contact us here for online and on-site
-                            estimates.</p>
-
-                    </div>
-                    <div class="col-md-6">
-                        <video width="100%" src="https://ik.imagekit.io/codestl/ARS_Construction__26000sqft_CraneLoad_QLuJ1pF9MU.mp4" muted controls></video>
-
-                        <div class="text-center" style="padding-top: 20px">
-                        <div class="roofr-calculator"></div>
+                                        </iframe>-->
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-
-
                 </div>
+
             </div>
         </div>
         <!-- TITLE END -->
@@ -465,101 +538,61 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
         <!-- CAROUSEL -->
         <div class="section-full bg-white p-t80 p-b50 scale-bg-top scale-bg-bottom">
             <div class="section-content " style="background-image:url(images/background/bg1.jpg)">
-                <div class="container">
-                    <div class="owl-carousel Home-services-carousel owl-btn-vertical-center">
+            <div class="section-head text-center">
 
-                        <div class="item">
-                            <div class="wt-box bg-white">
-                                <div class="wt-media">
-                                    <a href="javascript:void(0);"><img alt="Commercial Roofing St Louis" width="360" height="235"
-                                                                       src="https://ik.imagekit.io/codestl/Glendale1_DlFbr12VRY.jpg"></a>
-                                </div>
-                                <div class="wt-info p-tb30">
-                                    <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Commercial Roofing</a>
-                                    </h4>
-                                    <p>We know the importance of making sure that your business runs smoothly on all
-                                        parts, and that also includes your roofs. If you are experiencing leaks or need
-                                        a new roof, let the experts at ARS Construction be the ones to professionally
-                                        repair or install your commercial roofs. With years of experience, we know how
-                                        to quickly fix the issues you have with your roof and will be in-and-out in no
-                                        time </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="wt-box bg-white">
-                                <div class="wt-media">
-                                    <a href="javascript:void(0);"><img alt="Residential Roofing St "
-                                                                       src="https://ik.imagekit.io/codestl/residential-roof-1-sm_kkTv3BtS7O.jpg"></a>
-                                </div>
-                                <div class="wt-info p-tb30">
-                                    <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Residential Roofing</a>
-                                    </h4>
-                                    <p>ARS Construction specializes in roof repairs, replacements, and installations for
-                                        residential homes. We make sure to work quickly but precisely to ensure your
-                                        roof is in top working order. We make sure to clean up at the end of each
-                                        workday and remove any dangerous equipment that could harm you or your
-                                        family.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="wt-box bg-white">
-                                <div class="wt-media">
-                                    <a href="javascript:void(0);"><img alt="Interior General Contracting"
-                                                                       src="https://ik.imagekit.io/codestl/kitchen-contracting_lkX5oBvuKO.jpg"></a>
-                                </div>
-                                <div class="wt-info p-tb30">
-                                    <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Interior</a></h4>
-                                    <p>Both inside and out, we want to make your home or business the very best it can
-                                        be. We handle interior restoration that was caused by water or fire damage in
-                                        addition to remodeling services of all kinds. If you are looking for a remodel
-                                        or building a structure from the ground up, ARS Construction is the company to
-                                        call in order to ensure you have an interior you can be proud of. </p>
-
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="wt-box bg-white">
-                                <div class="wt-media">
-                                    <a href="javascript:void(0);"><img alt="Exterior Genral Contracting"
-                                                                       src="https://ik.imagekit.io/codestl/halfroof_vzX-IZ_b14.jpg"></a>
-                                </div>
-                                <div class="wt-info p-tb30">
-                                    <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Exterior</a></h4>
-                                    <p>The exterior of your building is the first thing people see when walking into
-                                        your home or business. Boost curb appeal and be the envy of the neighborhood
-                                        with exterior services from ARS Construction. We offer top-quality exterior
-                                        improvement services, which can include the installation and repair of siding,
-                                        gutters, windows, and doors.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="wt-box bg-white">
-                                <div class="wt-media">
-                                    <a href="javascript:void(0);"><img alt="Custom Roofing " width="360"
-                                                                       src="https://ik.imagekit.io/codestl/different-hous-sm_TAEWFXiLBr.jpg"></a>
-                                </div>
-                                <div class="wt-info p-tb30">
-                                    <h4 class="wt-title m-t0 m-b5"><a href="javascript:void(0);">Colorful Roofs</a></h4>
-                                    <p>We specialize in installing new roofs, shingle repair, and roof tear-offs by
-                                        using the latest equipment and most trusted materials in the industry. Our
-                                        products are high quality, as is the integrity of our installation. From the
-                                        beginning to end, we will be there until the job is completed with only the
-                                        highest quality results.</p>
-                                </div>
-                            </div>
-                        </div>
-
+                <h2 class="text-uppercase">Highest-Quality Roofing Materials in the Midwest
+                </h2>
+                <div class="wt-separator-outer">
+                    <div class="wt-separator style-square">
+                        <span class="separator-left bg-primary"></span>
+                        <span class="separator-right bg-primary"></span>
                     </div>
+                </div>
+                <div class="bg-cover container" style="background: rgba(0, 0, 0, 0.5); padding: 10px; color: white;">
+                <p>We know that the quality of our service is only as good as the products we use, which is why we seek out the best materials to
+                    help meet our customers’ needs. As certified dealers and installers of Malarkey, IKO, and Genflex roofing products, we are able to
+                    provide individuals across St. Louis access to a full line of high-quality roofing materials as well as interior and exterior
+                    products of all kinds.</p>
+
 
                 </div>
+                <div class="container">
+                   <div class="row">
+                       <div class="col-md-6 text-center">
+                           <h2 style="padding-top: 15px" >Residential</h2>
+                           <div class="wt-separator-outer">
+                               <div class="wt-separator style-square" style="margin-bottom: 15px;">
+                                   <span class="separator-left bg-primary"></span>
+                                   <span class="separator-right bg-primary"></span>
+                               </div>
+                           </div>
+                           <div class="row">
+                           <img src="https://ik.imagekit.io/codestl/wildwood-after-sm_fEtifWyJz.jpeg" width="100%" alt="Residential Wildwood roof">
+                           </div>
+                           <div class="row">
+                               <img src="https://ik.imagekit.io/codestl/different-hous-sm_TAEWFXiLBr.jpg" width="100%" alt="Residential Wildwood roof">
+                           </div>
+
+                       </div>
+                       <div class="col-md-6 text-center">
+                           <h2 style="padding-top: 15px">Commercial</h2>
+                           <div class="wt-separator-outer" style="margin-bottom: 15px;">
+                               <div class="wt-separator style-square">
+                                   <span class="separator-left bg-primary"></span>
+                                   <span class="separator-right bg-primary"></span>
+                               </div>
+                           </div>
+                           <div class="row">
+                             <img src="https://ik.imagekit.io/codestl/Glendale1_DlFbr12VRY.jpg" width=100%  alt="Glendale Chrysler & Jeep Commercial Roof">
+                           </div>
+                         <!--  <div class="row">
+                               <img src="https://ik.imagekit.io/codestl/Glendale1_DlFbr12VRY.jpg" width=100%  alt="Glendale Chrysler & Jeep Commercial Roof">
+                           </div>-->
+                       </div>
+                   </div>
+                </div>
+                </div>
+
             </div>
         </div>
         <!-- SERVICES CONTENT END -->
@@ -620,7 +653,7 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
                             </div>
                             <div class="item">
                                 <div class="testimonial-1 testimonial-bg">
-                                    <div class="testimonial-pic  radius shadow"><img alt=""
+                                    <div class="testimonial-pic  radius shadow"><img alt="ARS Construction St Louis and Wildwood Mo"
                                                                                      src="images/testimonials/pic2.jpg">
                                     </div>
                                     <div class="testimonial-detail">
@@ -639,7 +672,7 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
                             </div>
                             <div class="item">
                                 <div class="testimonial-1 testimonial-bg">
-                                    <div class="testimonial-pic  radius shadow"><img alt=""
+                                    <div class="testimonial-pic  radius shadow"><img alt="ARS Construction St Louis and Wildwood Mo"
                                                                                      src="images/testimonials/pic3.jpg">
                                     </div>
                                     <div class="testimonial-detail">
@@ -666,113 +699,7 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
         <!-- TESTIMONIAL SECTION START -->
 
         <!-- WHY CHOOSE US SECTION START  -->
-        <div class="section-full bg-gray p-t80 p-b120 bg-no-repeat bg-bottom-right"
-             style="background-image:url(images/background/pic-c-1bg.png);">
-            <div class="container">
-                <!-- TITLE START-->
-                <div class="section-head text-center">
-                    <h2 class="text-uppercase">High-Quality Roofing Materials in St. Louis
-                    </h2>
-                    <div class="wt-separator-outer">
-                        <div class="wt-separator style-square">
-                            <span class="separator-left bg-primary"></span>
-                            <span class="separator-right bg-primary"></span>
-                        </div>
-                    </div>
-                    <p>We know that the quality of our service is only as good as the products we use, which is why we seek out the best materials to
-                        help meet our customers’ needs. As certified dealers and installers of Malarkey, IKO, and Genflex roofing products, we are able to
-                        provide individuals across St. Louis access to a full line of high-quality roofing materials as well as interior and exterior
-                        products of all kinds.</p>
 
-                </div>
-                <!-- TITLE END-->
-                <div class="section-content">
-                    <!-- COLUMNS 2 -->
-                    <div class="row">
-                        <div class="col-md-6 col-sm-12">
-                            <div class="m-b30">
-                                <div class="section-head">
-                                    <h2 class="text-uppercase">Powered by IKO</h2>
-                                    <div class="wt-separator-outer">
-                                        <div class="wt-separator style-square">
-                                            <span class="separator-left bg-primary"></span>
-                                            <span class="separator-right bg-primary"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="youtube-player" data-id="Xjrv-_QtdTo"></div>
-                                <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/Xjrv-_QtdTo"
-                                        frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen>
-                                </iframe>-->
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-sm-12">
-                            <div class="m-b30">
-                                <div class="section-head">
-                                    <h2 class="text-uppercase">High Performance: Powered by Malarkey</h2>
-                                    <div class="wt-separator-outer">
-                                        <div class="wt-separator style-square">
-                                            <span class="separator-left bg-primary"></span>
-                                            <span class="separator-right bg-primary"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="youtube-player" data-id="IM24amVlEdw"></div>
-                                <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/IM24amVlEdw"
-                                        frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen>
-                                </iframe>-->
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-6 col-sm-12">
-                            <div class="m-b30">
-                                <div class="section-head">
-                                    <h2 class="text-uppercase">ARS Construction - The Eagle Tile</h2>
-                                    <div class="wt-separator-outer">
-                                        <div class="wt-separator style-square">
-                                            <span class="separator-left bg-primary"></span>
-                                            <span class="separator-right bg-primary"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="youtube-player" data-id="kzaRCG15Iwg"></div>
-                                <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/kzaRCG15Iwg"
-                                        frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen>
-
-                                </iframe>-->
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-sm-12">
-                            <div class="m-b30">
-                                <div class="section-head">
-                                    <h2 class="text-uppercase">Glendale Chrysler Roofing Project</h2>
-                                    <div class="wt-separator-outer">
-                                        <div class="wt-separator style-square">
-                                            <span class="separator-left bg-primary"></span>
-                                            <span class="separator-right bg-primary"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="youtube-player" data-id="0btZOQrtQ6E"></div>
-                                <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/0btZOQrtQ6E"
-                                        frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen>
-
-                                </iframe>-->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
         <!-- WHY CHOOSE US SECTION END -->
 
         <!-- COMPANY DETAIL SECTION START -->
@@ -870,6 +797,7 @@ $ogMetaDescription = 'ARS Construction provides specialized commercial and resid
             var div = document.createElement('div');
             div.setAttribute('data-id', videoId);
             var thumbNode = document.createElement('img');
+            thumbNode.setAttribute('alt', 'ARS Construction St Louis')
             thumbNode.src = '//i.ytimg.com/vi/ID/hqdefault.jpg'.replace(
                 'ID',
                 videoId

@@ -1,6 +1,6 @@
 <?php
 $Page='Residential';
-$Title='Residential Roofing in St. Louis, MO | Roofing Contractors St. Louis | ARS Construction';
+$Title='Residential Roofing in St. Louis, MO | ARS Construction';
 $Url='https://www.advancedroofsys.com/residential.php';
 $metaDescription='Residential Roofing in St. Louis, MO - Our roofing contractors provide an array of residential roofing services and interior/exterior construction services to homes across St. Louis. FREE roof inspection here.';
 $metaImage='/images/fleet.jpg';
@@ -53,7 +53,7 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
         <div class="bg-gray-light p-tb20">
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
-                    <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
+                    <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
                     <li>Service Details</li>
                 </ul>
             </div>
@@ -89,17 +89,17 @@ $sliderImg3='https://ik.imagekit.io/codestl/services/residential-roofing-3-sm_xW
                             <div class="owl-carousel service-detail-carousel owl-btn-vertical-center owl-dots-bottom-center container" style=" width:100%">
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg1;?>">
+                                        <img alt="<?php echo $Title;?>" src="<?php echo $sliderImg1;?>">
                                     </div>
                                 </div>
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg2;?>">
+                                        <img alt="<?php echo $Title;?>" src="<?php echo $sliderImg2;?>">
                                     </div>
                                 </div>
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg3;?>">
+                                        <img alt="<?php echo $Title;?>" src="<?php echo $sliderImg3;?>">
                                     </div>
                                 </div>
                             </div>

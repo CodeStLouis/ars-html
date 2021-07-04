@@ -1,6 +1,6 @@
 <?php
 $Page='24 Hour Emergency Services';
-$Title='24 Hour and Emergency Roofing in St. Louis, MO | 24 Hour Emergency Roofing and Construction Contractors St. Louis | ARS Construction';
+$Title='24 Hour and Emergency Roofing in St. Louis, Wildwood, MO | ARS Construction';
 $Url='https://www.advancedroofsys.com/24-hour-emergency.php';
 $metaDescription='Construction company in St. Louis, MO - Our Roofing Contractors work around the clock in case of an emergency for commercial and residential properties.';
 $metaImage='/images/fleet.jpg';
@@ -47,7 +47,7 @@ $sliderImg3='';
     <div class="page-content  bg-white">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/ars/team_ars.jpg);">
+        <div class="wt-bnr-inr overlay-wraper" style="background-image:url(images/fleet.jpg);">
             <div class="overlay-main bg-black opacity-02"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
@@ -61,7 +61,7 @@ $sliderImg3='';
         <div class="bg-gray-light p-tb20">
             <div class="container">
                 <ul class="wt-breadcrumb breadcrumb-style-2">
-                    <li><a href="javascript:void(0);"><i class="fa fa-home"></i> Home</a></li>
+                    <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
                     <li>Emergency</li>
                 </ul>
             </div>
@@ -133,19 +133,19 @@ $sliderImg3='';
 
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg1;?>">
+                                        <img alt="ARS Construction St Louis and Wildwood Mo" src="<?php echo $sliderImg1;?>">
                                     </div>
                                 </div>
 
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg2;?>">
+                                        <img alt="ARS Construction St Louis and Wildwood Mo" src="<?php echo $sliderImg2;?>">
                                     </div>
                                 </div>
 
                                 <div class="item">
                                     <div class="aon-thum-bx">
-                                        <img alt="" src="<?php echo $sliderImg3;?>">
+                                        <img alt="ARS Construction St Louis and Wildwood Mo" src="<?php echo $sliderImg3;?>">
                                     </div>
                                 </div>
 
@@ -206,7 +206,7 @@ $sliderImg3='';
                 </form>
             </div>
             <div class="modal-footer text-center">
-                <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
+                <div class="text-center"><img alt="ARS Construction St Louis and Wildwood Mo" src="images/logo-dark.png"></div>
             </div>
         </div>
     </div>
@@ -248,7 +248,7 @@ $sliderImg3='';
                 </form>
             </div>
             <div class="modal-footer text-center">
-                <div class="text-center"><img alt="" src="images/logo-dark.png"></div>
+                <div class="text-center"><img alt="ARS Construction St Louis and Wildwood Mo" src="images/logo-dark.png"></div>
             </div>
         </div>
     </div>
